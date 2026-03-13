@@ -1,3 +1,5 @@
+> https://github.com/mudrii/dashboard
+
 # mudrii/openclaw-dashboard (261 stars)
 
 > 调研时间：2026-03-13（更新）

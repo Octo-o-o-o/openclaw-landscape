@@ -1,3 +1,5 @@
+> https://github.com/soimy/channel-dingtalk
+
 # openclaw-channel-dingtalk (1,267 stars)
 
 ## 问题与解决方案

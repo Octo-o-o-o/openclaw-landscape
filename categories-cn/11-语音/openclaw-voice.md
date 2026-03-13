@@ -1,3 +1,5 @@
+> https://github.com/Purple-Horizons/openclaw-voice
+
 # OpenClaw Voice (66 stars)
 
 ## 问题与解决方案

@@ -1,3 +1,5 @@
+> https://github.com/unbrowse-ai/unbrowse
+
 # Unbrowse (485 stars)
 
 ## 问题与解决方案

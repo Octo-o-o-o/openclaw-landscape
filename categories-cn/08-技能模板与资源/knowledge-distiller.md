@@ -1,3 +1,5 @@
+> https://github.com/destinyfrancis/knowledge-distiller
+
 # openclaw-knowledge-distiller (43 stars)
 
 ## 问题与解决方案

@@ -1,3 +1,5 @@
+> https://github.com/AIPMAndy/awesome-skills-CN
+
 # awesome-openclaw-skills-CN (51 stars)
 
 ## 问题与解决方案

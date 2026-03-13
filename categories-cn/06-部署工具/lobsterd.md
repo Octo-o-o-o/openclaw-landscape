@@ -1,3 +1,5 @@
+> https://github.com/tsconfigdotjson/lobsterd
+
 # lobsterd (25 stars)
 
 ## 问题与解决方案

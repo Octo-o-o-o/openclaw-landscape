@@ -1,3 +1,5 @@
+> https://github.com/freestylefly/openclaw-wechat
+
 # openclaw-wechat (1,347 stars)
 
 ## 问题与解决方案

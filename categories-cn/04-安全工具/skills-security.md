@@ -1,3 +1,5 @@
+> https://github.com/UseAI-pro/skills-security
+
 # UseAI-pro/openclaw-skills-security (25 stars)
 
 ## 问题与解决方案

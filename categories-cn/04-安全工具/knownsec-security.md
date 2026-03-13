@@ -1,3 +1,5 @@
+> https://github.com/knownsec/openclaw-security
+
 # OpenClaw Security Guide by Knownsec (55 stars)
 
 ## 问题与解决方案

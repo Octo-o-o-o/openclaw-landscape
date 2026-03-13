@@ -1,3 +1,5 @@
+> https://github.com/clawdbot-ai/awesome-skills-zh
+
 # awesome-openclaw-skills-zh (2,911 stars)
 
 ## 问题与解决方案

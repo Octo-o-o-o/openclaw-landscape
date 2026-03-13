@@ -1,3 +1,5 @@
+> https://github.com/dztabel-happy/openclaw-memory-fusion
+
 # openclaw-memory-fusion (106 stars)
 
 ## 问题与解决方案

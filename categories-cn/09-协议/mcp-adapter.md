@@ -1,3 +1,5 @@
+> https://github.com/androidStern/mcp-adapter
+
 # openclaw-mcp-adapter (27 stars)
 
 ## 问题与解决方案

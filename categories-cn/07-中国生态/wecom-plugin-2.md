@@ -1,3 +1,5 @@
+> https://github.com/11haonb/wecom-plugin
+
 # WeCom OpenClaw Plugin (95 stars)
 
 ## 问题与解决方案

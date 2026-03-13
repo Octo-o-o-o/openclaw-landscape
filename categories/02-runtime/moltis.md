@@ -1,9 +1,16 @@
-# Moltis
+> https://github.com/moltis-org/moltis
 
-| Field | Value |
-|-------|-------|
-| Stars | 2,077 |
+# Moltis (2,077 stars)
 
----
+## Problem & Solution
 
-> 📖 [完整中文调研 / Full Chinese Research](../../categories-cn/02-替代实现与运行时/moltis.md)
+Moltis addresses the security and auditability issues of OpenClaw. Traditional OpenClaw (TypeScript + Node.js, ~430K LoC) carries supply chain attack risks, memory safety concerns, and complex runtime dependencies. Moltis rewrites it in Rust with single-binary deployment, zero `unsafe` code, sandboxed isolated execution, a core of only ~5K LoC (Agent loop + model layer), full stack ~124K LoC, 3,100+ tests, and independently auditable code.
+
+## Key Features
+
+- **Memory Safety**: Rust ownership system + zero `unsafe` code (disabled at workspace level, optional only for FFI), eliminating memory vulnerabilities
+- **Sandbox Isolation**: Docker + Apple Container dual-layer sandbox, per-session isolation, commands never execute on the host machine
+- **Single-binary Deployment**: No Node.js, no npm, no runtime dependencies — 44MB single file, supports Mac Mini/Raspberry Pi/self-hosted servers
+- **Auditable Architecture**: Core Agent loop ~5K LoC, 46 modular crates (~196K LoC), independently auditable, 3,100+ tests
+- **Full-featured Built-in**: Voice (15+ providers), memory, scheduling, Telegram/Discord/WhatsApp, browser automation, MCP server, Hooks (15 event types)
+- **Security by Design**: Secrets wrapped with `secrecy::Secret` (zeroed on drop), tool output sanitization, SSRF protection, Origin verification, Hook interception

@@ -1,3 +1,5 @@
+> https://github.com/cft0808/edict
+
 # Edict 三省六部 (7,637 stars)
 
 ## 问题与解决方案

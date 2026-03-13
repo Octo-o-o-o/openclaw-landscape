@@ -1,3 +1,5 @@
+> https://github.com/voocel/openclaw-mini
+
 # OpenClaw Mini (555 stars)
 
 ## 问题与解决方案

@@ -1,3 +1,5 @@
+> https://github.com/tugcantopaloglu/dashboard
+
 # tugcantopaloglu/openclaw-dashboard (418 stars)
 
 > 调研时间：2026-03-13（更新）

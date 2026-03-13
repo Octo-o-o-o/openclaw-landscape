@@ -1,3 +1,5 @@
+> https://github.com/yuga-hashimoto/openclaw-assistant
+
 # OpenClaw Assistant (157 stars)
 
 ## 问题与解决方案

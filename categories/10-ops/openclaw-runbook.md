@@ -1,9 +1,14 @@
-# openclaw-runbook
+> https://github.com/digitalknk/openclaw-runbook
 
-| Field | Value |
-|-------|-------|
-| Stars | 895 |
+# openclaw-runbook (895 stars)
 
----
+## Problem & Solution
+OpenClaw users face issues like cost overruns, memory leaks, and quota exhaustion in production environments. This project provides practical Runbooks covering coordinator vs worker model, cost control, memory boundaries, security hardening, and other best practices, helping users build stable, predictable, and low-cost OpenClaw deployments.
 
-> 📖 [完整中文调研 / Full Chinese Research](../../categories-cn/10-运维工具/openclaw-runbook.md)
+## Key Features
+- Practical guides: coordinator vs worker model, cost control, memory boundaries, guardrails
+- Example templates: agent prompts, spawning patterns, heartbeat, skill builder, task tracking, security hardening
+- Showcases: daily brief, idea pipeline, LinkedIn drafter, tech discoveries, homelab access, agent orchestrator
+- Configuration references: sanitized config, config section guide, check quotas script
+- VPS deployment and security hardening guide
+- Community resources: ClawHub, awesome-openclaw-usecases, awesome-openclaw, awesome-openclaw-skills

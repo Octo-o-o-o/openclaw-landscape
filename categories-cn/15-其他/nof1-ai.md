@@ -1,3 +1,5 @@
+> https://github.com/195440/nof1.ai
+
 # nof1.ai (569 stars)
 
 ## 问题与解决方案

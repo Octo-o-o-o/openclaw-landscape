@@ -1,3 +1,5 @@
+> https://github.com/CortexReach/memory-lancedb-pro
+
 # memory-lancedb-pro (2,030 stars)
 
 ## 问题与解决方案

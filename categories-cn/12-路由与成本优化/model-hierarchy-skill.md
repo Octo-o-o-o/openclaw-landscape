@@ -1,3 +1,5 @@
+> https://github.com/zscole/model-hierarchy-skill
+
 # model-hierarchy-skill (329 stars)
 
 ## 问题与解决方案

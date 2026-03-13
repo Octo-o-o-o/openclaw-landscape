@@ -1,3 +1,5 @@
+> https://github.com/1186258278/ChineseTranslation
+
 # OpenClawChineseTranslation (2,936 stars)
 
 ## 问题与解决方案

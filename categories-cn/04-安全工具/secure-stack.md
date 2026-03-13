@@ -1,3 +1,5 @@
+> https://github.com/yi-john-huang/secure-stack
+
 # OpenClaw Secure Stack (47 stars)
 
 ## 问题与解决方案

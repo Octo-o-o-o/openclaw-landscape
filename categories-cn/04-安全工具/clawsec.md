@@ -1,3 +1,5 @@
+> https://github.com/prompt-security/clawsec
+
 # ClawSec (709 stars)
 
 ## 问题与解决方案

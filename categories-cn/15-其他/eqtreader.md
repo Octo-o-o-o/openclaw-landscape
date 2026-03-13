@@ -1,3 +1,5 @@
+> https://github.com/kevin-liu-robot/EQtreader
+
 # EQtreader (54 stars)
 
 ## 问题与解决方案

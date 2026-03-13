@@ -1,3 +1,5 @@
+> https://github.com/pepicrft/plugin-vault
+
 # OpenClaw Vault Plugin (41 stars)
 
 ## 问题与解决方案

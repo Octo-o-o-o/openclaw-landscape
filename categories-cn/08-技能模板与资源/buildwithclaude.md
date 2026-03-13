@@ -1,3 +1,5 @@
+> https://github.com/davepoon/buildwithclaude
+
 # Build with Claude (2,565 stars)
 
 ## 问题与解决方案

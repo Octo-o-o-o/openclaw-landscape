@@ -1,3 +1,5 @@
+> https://github.com/AlexAnys/awesome-usecases-zh
+
 # Awesome OpenClaw Usecases ZH (1,556 stars)
 
 ## 问题与解决方案

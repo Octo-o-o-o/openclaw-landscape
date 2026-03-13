@@ -1,3 +1,5 @@
+> https://github.com/JiangAgentLabs/Agent-Control
+
 # OpenClaw-Agent-Control (1 star)
 
 ## 问题与解决方案
