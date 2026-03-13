@@ -65,9 +65,7 @@ Know a project that should be listed? [Open a PR](CONTRIBUTING.md) or [create an
 
 ## Update Log
 
-This directory is updated daily via GitHub Actions. Stars and project status are refreshed automatically.
-
-See [update-log.md](update-log.md) for the full changelog.
+See [update-log.md](update-log.md) for additions and changes.
 
 ---
 

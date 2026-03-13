@@ -67,9 +67,7 @@ OpenClaw 生态项目全景目录 — **139 个项目**，横跨 **15 个分类*
 
 ## 更新日志
 
-本目录通过 GitHub Actions 每日自动更新。Stars 和项目状态会自动刷新。
-
-查看 [update-log.md](update-log.md) 获取完整变更记录。
+查看 [update-log.md](update-log.md) 了解新增和变更记录。
 
 ---
 
