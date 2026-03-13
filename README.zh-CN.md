@@ -1,74 +1,77 @@
-# OpenClaw Landscape
+# OpenClaw 生态全景
 
-OpenClaw 生态项目全景目录 — **139 个项目**，横跨 **15 个分类**。
+[English](README.md)
 
-追踪总星数：**640,800**
-
-[English](README.md) | 中文
+OpenClaw 生态 **128+** 个项目的深度调研合集，横跨 **15** 个分类。每个项目都有独立的调研页面，涵盖架构分析、核心功能、技术栈和关键发现。
 
 ---
 
-## 分类
+## 按分类浏览
 
-| 分类 | 项目数 | 热门项目 |
-|------|--------|---------|
-| [官方项目](categories/official.md) | 6 | [OpenClaw](https://github.com/openclaw/openclaw) (299,704) |
-| [替代实现 / 运行时](categories/runtime.md) | 18 | [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) (25,853) |
-| [记忆系统](categories/memory.md) | 11 | [memU](https://github.com/NevaMind-AI/memU) (12,811) |
-| [安全工具](categories/security.md) | 7 | [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) (3,124) |
-| [仪表板 / 监控](categories/dashboard-and-monitoring.md) | 17 | [Star Office UI](https://github.com/ringhyacinth/Star-Office-UI) (4,092) |
-| [部署工具](categories/deployment.md) | 6 | [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) (2,978) |
-| [中国生态](categories/china-ecosystem.md) | 19 | [Clawdbot-Feishu](https://github.com/m1heng/clawdbot-feishu) (4,189) |
-| [技能 / 模板 / 资源](categories/skills-and-resources.md) | 15 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-skills) (34,631) |
-| [协议（A2A / MCP / ACP）](categories/protocols.md) | 4 | [openclaw-a2a-gateway](https://github.com/win4r/a2a-gateway) (162) |
-| [运维工具](categories/ops.md) | 3 | [OpenClaw Guardian](https://github.com/LeoYeAI/openclaw-guardian) (938) |
-| [语音](categories/voice.md) | 2 | [OpenClaw Assistant](https://github.com/yuga-hashimoto/openclaw-assistant) (157) |
-| [LLM 路由 / 成本优化](categories/routing-and-cost.md) | 6 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) (5,352) |
-| [多 Agent 编排](categories/orchestration.md) | 10 | [OpenFang](https://github.com/RightNow-AI/openfang) (13,621) |
-| [桌面 / 移动客户端](categories/clients.md) | 6 | [ClawX](https://github.com/ValueCell-ai/ClawX) (3,454) |
-| [其他](categories/other.md) | 9 | [nanobot](https://github.com/HKUDS/nanobot) (32,020) |
+点击分类目录即可在 GitHub 上浏览该分类下的所有项目。每个 `.md` 文件是一个项目的详细调研报告。
+
+| 分类 | 项目数 | 目录 |
+|------|--------|------|
+| 官方项目 | 7 | [official/](official/) |
+| 替代实现/运行时 | 16 | [runtime/](runtime/) |
+| 记忆系统 | 11 | [memory/](memory/) |
+| 安全工具 | 7 | [security/](security/) |
+| 仪表板/监控 | 17 | [dashboard-and-monitoring/](dashboard-and-monitoring/) |
+| 部署工具 | 6 | [deployment/](deployment/) |
+| 中国生态 | 19 | [china-ecosystem/](china-ecosystem/) |
+| 技能/模板/资源 | 14 | [skills-and-resources/](skills-and-resources/) |
+| 协议（A2A/MCP/ACP） | 4 | [protocols/](protocols/) |
+| 运维工具 | 3 | [ops/](ops/) |
+| 语音 | 2 | [voice/](voice/) |
+| LLM 路由/成本优化 | 6 | [routing-and-cost/](routing-and-cost/) |
+| 多 Agent 编排 | 10 | [orchestration/](orchestration/) |
+| 桌面/移动客户端 | 5 | [clients/](clients/) |
+| 其他 | 9 | [other/](other/) |
 
 ---
 
 ## Stars Top 20
 
-| # | 项目 | Stars | 分类 |
-|---|------|-------|------|
-| 1 | [OpenClaw](https://github.com/openclaw/openclaw) | 299,704 | 官方项目 |
-| 2 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-skills) | 34,631 | 技能 / 模板 / 资源 |
-| 3 | [nanobot](https://github.com/HKUDS/nanobot) | 32,020 | 其他 |
-| 4 | [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) | 25,853 | 替代实现 / 运行时 |
-| 5 | [Awesome OpenClaw Use Cases](https://github.com/hesamsheikh/awesome-usecases) | 23,013 | 技能 / 模板 / 资源 |
-| 6 | [NanoClaw](https://github.com/qwibitai/nanoclaw) | 21,451 | 替代实现 / 运行时 |
-| 7 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 15,775 | 其他 |
-| 8 | [OpenFang](https://github.com/RightNow-AI/openfang) | 13,621 | 多 Agent 编排 |
-| 9 | [memU](https://github.com/NevaMind-AI/memU) | 12,811 | 记忆系统 |
-| 10 | [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,558 | 替代实现 / 运行时 |
-| 11 | [IronClaw](https://github.com/nearai/ironclaw) | 9,101 | 替代实现 / 运行时 |
-| 12 | [Edict](https://github.com/cft0808/edict) | 7,636 | 多 Agent 编排 |
-| 13 | [ClawWork: OpenClaw as Your AI Coworker](https://github.com/HKUDS/ClawWork) | 6,988 | 多 Agent 编排 |
-| 14 | [OpenViking](https://github.com/volcengine/OpenViking) | 5,671 | 其他 |
-| 15 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 5,352 | LLM 路由 / 成本优化 |
-| 16 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 5,292 | 官方项目 |
-| 17 | [MimiClaw](https://github.com/memovai/mimiclaw) | 4,260 | 替代实现 / 运行时 |
-| 18 | [Clawdbot-Feishu](https://github.com/m1heng/clawdbot-feishu) | 4,189 | 中国生态 |
-| 19 | [Star Office UI](https://github.com/ringhyacinth/Star-Office-UI) | 4,092 | 仪表板 / 监控 |
-| 20 | [Manifest](https://github.com/mnfst/manifest) | 3,733 | LLM 路由 / 成本优化 |
+| # | 项目 | Stars | 分类 | 调研 |
+|---|------|-------|------|------|
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 299,704 | 官方项目 | [openclaw-core.md](official/openclaw-core.md) |
+| 2 | [VoltAgent/awesome-skills](https://github.com/VoltAgent/awesome-skills) | 34,631 | 技能/资源 | [awesome-skills-voltagent.md](skills-and-resources/awesome-skills-voltagent.md) |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 32,020 | 其他 | [nanobot.md](other/nanobot.md) |
+| 4 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 25,853 | 替代运行时 | [zeroclaw.md](runtime/zeroclaw.md) |
+| 5 | [hesamsheikh/awesome-usecases](https://github.com/hesamsheikh/awesome-usecases) | 23,013 | 技能/资源 | [awesome-usecases.md](skills-and-resources/awesome-usecases.md) |
+| 6 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 21,451 | 替代运行时 | [nanoclaw.md](runtime/nanoclaw.md) |
+| 7 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 15,775 | 其他 | [openimsdk.md](other/openimsdk.md) |
+| 8 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 13,621 | 多 Agent 编排 | [openfang.md](orchestration/openfang.md) |
+| 9 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,811 | 记忆系统 | [memU.md](memory/memU.md) |
+| 10 | [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,558 | 替代运行时 | [moltworker.md](runtime/moltworker.md) |
+| 11 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 9,101 | 替代运行时 | [ironclaw.md](runtime/ironclaw.md) |
+| 12 | [cft0808/edict](https://github.com/cft0808/edict) | 7,636 | 多 Agent 编排 | [edict.md](orchestration/edict.md) |
+| 13 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | 6,988 | 多 Agent 编排 | [clawwork.md](orchestration/clawwork.md) |
+| 14 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 5,671 | 其他 | [openviking.md](other/openviking.md) |
+| 15 | [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 5,352 | LLM 路由 | [clawrouter.md](routing-and-cost/clawrouter.md) |
+| 16 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 5,292 | 官方项目 | [clawhub.md](official/clawhub.md) |
+| 17 | [memovai/mimiclaw](https://github.com/memovai/mimiclaw) | 4,260 | 替代运行时 | [mimiclaw.md](runtime/mimiclaw.md) |
+| 18 | [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) | 4,189 | 中国生态 | [clawdbot-feishu.md](china-ecosystem/clawdbot-feishu.md) |
+| 19 | [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | 4,092 | 仪表板/监控 | [star-office-ui.md](dashboard-and-monitoring/star-office-ui.md) |
+| 20 | [mnfst/manifest](https://github.com/mnfst/manifest) | 3,733 | LLM 路由 | [manifest.md](routing-and-cost/manifest.md) |
 
 ---
 
 ## 如何使用
 
-按上方分类浏览，或查看 [projects.json](data/projects.json) 获取结构化数据。
+- **按分类浏览**：点击上方分类目录，浏览该分类下所有项目的调研报告
+- **完整索引**：查看 [00-index.md](00-index.md) 获取所有项目列表及直接链接
+- **排除项目**：查看 [00-excluded-projects.md](00-excluded-projects.md) 了解 160+ 个已检查但未收录的项目
+- **结构化数据**：查看 [data/projects.json](data/projects.json) 获取 JSON 格式数据
 
 ## 贡献
 
-知道应该收录的项目？[提交 PR](CONTRIBUTING.md) 或 [创建 Issue](https://github.com/Octo-o-o-o/openclaw-landscape/issues/new)。
+发现有遗漏的项目？欢迎 [提交 PR](CONTRIBUTING.md) 或 [创建 Issue](https://github.com/Octo-o-o-o/openclaw-landscape/issues/new)。
 
 ## 更新日志
 
-查看 [update-log.md](update-log.md) 了解新增和变更记录。
+查看 [update-log.md](update-log.md) 了解项目新增和更新记录。
 
 ---
 
-*本目录源自 [ClawButler](https://github.com/Octo-o-o-o/clawbutler)（开源 Agent 控制面）的内部调研。觉得对社区有用，就开放出来了。欢迎 PR。*
+*本项目源自 [ClawButler](https://github.com/Octo-o-o-o/clawbutler)（开源 Agent 控制平面）的内部调研。我们认为社区也能从中受益，因此开源分享。欢迎 PR。*

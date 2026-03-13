@@ -1,63 +1,68 @@
 # OpenClaw Landscape
 
-A structured directory of **139 projects** across **15 categories** in the OpenClaw ecosystem.
+[中文索引 / Chinese Index](00-index.md)
 
-Total stars tracked: **640,800**
+A curated directory of **128+ projects** across **15 categories** in the OpenClaw ecosystem. Each project has a dedicated research page covering architecture, features, tech stack, and key takeaways.
 
 ---
 
-## Categories
+## Browse by Category
 
-| Category | Projects | Top Project |
-|----------|----------|-------------|
-| [Official](categories/official.md) | 6 | [OpenClaw](https://github.com/openclaw/openclaw) (299,704) |
-| [Alternative Runtimes](categories/runtime.md) | 18 | [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) (25,853) |
-| [Memory Systems](categories/memory.md) | 11 | [memU](https://github.com/NevaMind-AI/memU) (12,811) |
-| [Security Tools](categories/security.md) | 7 | [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) (3,124) |
-| [Dashboards & Monitoring](categories/dashboard-and-monitoring.md) | 17 | [Star Office UI](https://github.com/ringhyacinth/Star-Office-UI) (4,092) |
-| [Deployment Tools](categories/deployment.md) | 6 | [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) (2,978) |
-| [China Ecosystem](categories/china-ecosystem.md) | 19 | [Clawdbot-Feishu](https://github.com/m1heng/clawdbot-feishu) (4,189) |
-| [Skills & Resources](categories/skills-and-resources.md) | 15 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-skills) (34,631) |
-| [Protocols (A2A / MCP / ACP)](categories/protocols.md) | 4 | [openclaw-a2a-gateway](https://github.com/win4r/a2a-gateway) (162) |
-| [Ops Tools](categories/ops.md) | 3 | [OpenClaw Guardian](https://github.com/LeoYeAI/openclaw-guardian) (938) |
-| [Voice](categories/voice.md) | 2 | [OpenClaw Assistant](https://github.com/yuga-hashimoto/openclaw-assistant) (157) |
-| [LLM Routing & Cost Optimization](categories/routing-and-cost.md) | 6 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) (5,352) |
-| [Multi-Agent Orchestration](categories/orchestration.md) | 10 | [OpenFang](https://github.com/RightNow-AI/openfang) (13,621) |
-| [Desktop & Mobile Clients](categories/clients.md) | 6 | [ClawX](https://github.com/ValueCell-ai/ClawX) (3,454) |
-| [Other](categories/other.md) | 9 | [nanobot](https://github.com/HKUDS/nanobot) (32,020) |
+Click a category to browse its directory on GitHub. Each `.md` file is a detailed research page for one project.
+
+| Category | Projects | Directory |
+|----------|----------|-----------|
+| Official | 7 | [official/](official/) |
+| Alternative Runtimes | 16 | [runtime/](runtime/) |
+| Memory Systems | 11 | [memory/](memory/) |
+| Security Tools | 7 | [security/](security/) |
+| Dashboards & Monitoring | 17 | [dashboard-and-monitoring/](dashboard-and-monitoring/) |
+| Deployment Tools | 6 | [deployment/](deployment/) |
+| China Ecosystem | 19 | [china-ecosystem/](china-ecosystem/) |
+| Skills & Resources | 14 | [skills-and-resources/](skills-and-resources/) |
+| Protocols (A2A / MCP / ACP) | 4 | [protocols/](protocols/) |
+| Ops Tools | 3 | [ops/](ops/) |
+| Voice | 2 | [voice/](voice/) |
+| LLM Routing & Cost Optimization | 6 | [routing-and-cost/](routing-and-cost/) |
+| Multi-Agent Orchestration | 10 | [orchestration/](orchestration/) |
+| Desktop & Mobile Clients | 5 | [clients/](clients/) |
+| Other | 9 | [other/](other/) |
 
 ---
 
 ## Top 20 by Stars
 
-| # | Project | Stars | Category |
-|---|---------|-------|----------|
-| 1 | [OpenClaw](https://github.com/openclaw/openclaw) | 299,704 | Official |
-| 2 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-skills) | 34,631 | Skills & Resources |
-| 3 | [nanobot](https://github.com/HKUDS/nanobot) | 32,020 | Other |
-| 4 | [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) | 25,853 | Alternative Runtimes |
-| 5 | [Awesome OpenClaw Use Cases](https://github.com/hesamsheikh/awesome-usecases) | 23,013 | Skills & Resources |
-| 6 | [NanoClaw](https://github.com/qwibitai/nanoclaw) | 21,451 | Alternative Runtimes |
-| 7 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 15,775 | Other |
-| 8 | [OpenFang](https://github.com/RightNow-AI/openfang) | 13,621 | Multi-Agent Orchestration |
-| 9 | [memU](https://github.com/NevaMind-AI/memU) | 12,811 | Memory Systems |
-| 10 | [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,558 | Alternative Runtimes |
-| 11 | [IronClaw](https://github.com/nearai/ironclaw) | 9,101 | Alternative Runtimes |
-| 12 | [Edict](https://github.com/cft0808/edict) | 7,636 | Multi-Agent Orchestration |
-| 13 | [ClawWork: OpenClaw as Your AI Coworker](https://github.com/HKUDS/ClawWork) | 6,988 | Multi-Agent Orchestration |
-| 14 | [OpenViking](https://github.com/volcengine/OpenViking) | 5,671 | Other |
-| 15 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 5,352 | LLM Routing & Cost Optimization |
-| 16 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 5,292 | Official |
-| 17 | [MimiClaw](https://github.com/memovai/mimiclaw) | 4,260 | Alternative Runtimes |
-| 18 | [Clawdbot-Feishu](https://github.com/m1heng/clawdbot-feishu) | 4,189 | China Ecosystem |
-| 19 | [Star Office UI](https://github.com/ringhyacinth/Star-Office-UI) | 4,092 | Dashboards & Monitoring |
-| 20 | [Manifest](https://github.com/mnfst/manifest) | 3,733 | LLM Routing & Cost Optimization |
+| # | Project | Stars | Category | Research |
+|---|---------|-------|----------|----------|
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 299,704 | Official | [openclaw-core.md](official/openclaw-core.md) |
+| 2 | [VoltAgent/awesome-skills](https://github.com/VoltAgent/awesome-skills) | 34,631 | Skills & Resources | [awesome-skills-voltagent.md](skills-and-resources/awesome-skills-voltagent.md) |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | 32,020 | Other | [nanobot.md](other/nanobot.md) |
+| 4 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 25,853 | Alternative Runtimes | [zeroclaw.md](runtime/zeroclaw.md) |
+| 5 | [hesamsheikh/awesome-usecases](https://github.com/hesamsheikh/awesome-usecases) | 23,013 | Skills & Resources | [awesome-usecases.md](skills-and-resources/awesome-usecases.md) |
+| 6 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 21,451 | Alternative Runtimes | [nanoclaw.md](runtime/nanoclaw.md) |
+| 7 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | 15,775 | Other | [openimsdk.md](other/openimsdk.md) |
+| 8 | [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) | 13,621 | Multi-Agent Orchestration | [openfang.md](orchestration/openfang.md) |
+| 9 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 12,811 | Memory Systems | [memU.md](memory/memU.md) |
+| 10 | [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,558 | Alternative Runtimes | [moltworker.md](runtime/moltworker.md) |
+| 11 | [nearai/ironclaw](https://github.com/nearai/ironclaw) | 9,101 | Alternative Runtimes | [ironclaw.md](runtime/ironclaw.md) |
+| 12 | [cft0808/edict](https://github.com/cft0808/edict) | 7,636 | Multi-Agent Orchestration | [edict.md](orchestration/edict.md) |
+| 13 | [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) | 6,988 | Multi-Agent Orchestration | [clawwork.md](orchestration/clawwork.md) |
+| 14 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 5,671 | Other | [openviking.md](other/openviking.md) |
+| 15 | [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 5,352 | LLM Routing & Cost Optimization | [clawrouter.md](routing-and-cost/clawrouter.md) |
+| 16 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 5,292 | Official | [clawhub.md](official/clawhub.md) |
+| 17 | [memovai/mimiclaw](https://github.com/memovai/mimiclaw) | 4,260 | Alternative Runtimes | [mimiclaw.md](runtime/mimiclaw.md) |
+| 18 | [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) | 4,189 | China Ecosystem | [clawdbot-feishu.md](china-ecosystem/clawdbot-feishu.md) |
+| 19 | [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) | 4,092 | Dashboards & Monitoring | [star-office-ui.md](dashboard-and-monitoring/star-office-ui.md) |
+| 20 | [mnfst/manifest](https://github.com/mnfst/manifest) | 3,733 | LLM Routing & Cost Optimization | [manifest.md](routing-and-cost/manifest.md) |
 
 ---
 
-## How to Use This Directory
+## How to Use
 
-Browse by category above, or check the [full project list in JSON](data/projects.json) for programmatic access.
+- **Browse by category**: Click a category directory above to see all projects in that area
+- **Detailed index**: See [00-index.md](00-index.md) for a complete list with stars and direct links
+- **Excluded projects**: See [00-excluded-projects.md](00-excluded-projects.md) for 160+ checked-but-excluded projects
+- **Programmatic access**: See [data/projects.json](data/projects.json) for structured JSON data
 
 ## Contributing
 
