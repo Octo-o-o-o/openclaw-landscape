@@ -1,10 +1,10 @@
 # OpenClaw Landscape
 
-[中文索引 / Chinese Index](00-index.md)
+[中文索引 / Chinese Index](00-about/index.md)
 
 A curated directory of **128+ projects** across **15 categories** in the OpenClaw ecosystem. Each project has a dedicated research page covering architecture, features, tech stack, and key takeaways.
 
-> **Latest update (2026-03-13):** Initial release — 139 projects across 15 categories, sourced from manual research of the OpenClaw ecosystem. [Full log](update-log.md)
+> **Latest update (2026-03-13):** Initial release — 139 projects across 15 categories, sourced from manual research of the OpenClaw ecosystem. [Full log](00-about/update-log.md)
 
 ---
 
@@ -62,22 +62,21 @@ Click a category to browse its directory on GitHub. Each `.md` file is a detaile
 ## How to Use
 
 - **Browse by category**: Click a numbered category directory above to see all projects in that area
-- **Detailed index**: See [00-index.md](00-index.md) for a complete list with stars and direct links
-- **Excluded projects**: See [00-excluded-projects.md](00-excluded-projects.md) for 160+ checked-but-excluded projects
-- **Programmatic access**: See [data/projects.json](data/projects.json) for structured JSON data
+- **Detailed index**: See [00-about/index.md](00-about/index.md) for a complete list with stars and direct links
+- **Excluded projects**: See [00-about/excluded-projects.md](00-about/excluded-projects.md) for 160+ checked-but-excluded projects
 
 ## Submit Your Project
 
 Building something in the OpenClaw ecosystem? We'd love to include it! Self-recommendations are very welcome.
 
 - [Open an issue](https://github.com/Octo-o-o-o/openclaw-landscape/issues/new?title=Project+submission:+owner/repo-name&body=GitHub+URL:%0ACategory:%0AShort+description:) with your project's GitHub URL, suggested category, and a short description
-- Or [submit a PR](CONTRIBUTING.md) directly with a research page
+- Or [submit a PR](00-about/CONTRIBUTING.md) directly with a research page
 
 We review all submissions and aim to add qualifying projects within a few days.
 
 ## Update Log
 
-See [update-log.md](update-log.md) for additions and changes.
+See [00-about/update-log.md](00-about/update-log.md) for additions and changes.
 
 ---
 
