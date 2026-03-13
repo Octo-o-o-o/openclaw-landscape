@@ -1,14 +1,9 @@
-# OpenViking (5,671 stars)
+# OpenViking
 
-## 问题与解决方案
+| Field | Value |
+|-------|-------|
+| Stars | 5,671 |
 
-Agent 开发中上下文管理碎片化（记忆在代码、资源在向量库、技能分散），传统 RAG 平面存储缺乏全局视图且检索效果差。OpenViking 是字节跳动开源的 Agent 专用上下文数据库，用文件系统范式统一管理记忆/资源/技能，支持分层加载、递归检索、可视化轨迹和自动会话压缩。
+---
 
-## 关键特性
-
-- **文件系统范式** — 用目录结构统一组织 Agent 的记忆/资源/技能，像管理本地文件一样管理上下文，解决碎片化问题
-- **三层上下文加载** — L0（元数据）/L1（摘要）/L2（全文）按需加载，显著降低 Token 消耗和成本
-- **目录递归检索** — 结合目录定位和语义搜索，支持可视化检索轨迹，让上下文获取过程可观测可调优
-- **自动会话管理** — 自动压缩对话内容、资源引用、工具调用，提取长期记忆，Agent 越用越聪明
-- **多语言 SDK** — Python/Go/Rust CLI，支持 Volcengine/OpenAI/LiteLLM 三种 VLM Provider，兼容 Anthropic/DeepSeek/Gemini/vLLM/Ollama
-- **AGFS 核心扩展** — C++ 实现的高性能文件系统组件，Go 1.22+ 构建要求
+> 📖 [完整中文调研 / Full Chinese Research](../../categories-cn/15-其他/openviking.md)

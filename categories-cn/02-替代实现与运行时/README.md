@@ -2,7 +2,7 @@
 
 | # | 项目 | Stars | 简介 | 调研 |
 |---|------|-------|------|------|
-| 1 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 25,853 | OpenClaw (TypeScript) 需要 >1GB RAM + Node.js 运行时 (~390MB)，启动时间在低端硬件上超过 500 秒 | [zeroclaw.md](zeroclaw.md) |
+| 1 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 25,853 | — | [zeroclaw.md](zeroclaw.md) |
 | 2 | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) | 21,451 | OpenClaw 虽然功能强大，但存在严重的可理解性和安全性问题： | [nanoclaw.md](nanoclaw.md) |
 | 3 | [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,558 | Serverless 容器化部署：将 OpenClaw 打包为 Docker 镜像，运行在 Cloudflare Sandbox 容器中，利用 Cloud... | [moltworker.md](moltworker.md) |
 | 4 | IronClaw | 9,108 | 现有 AI 助手数据处理不透明、与企业利益绑定、存在隐私泄露风险。 | [ironclaw.md](ironclaw.md) |
@@ -18,5 +18,5 @@
 | 14 | OpenCrust | 49 | OpenClaw（Node.js）存在二进制体积大（~1.2 GB）、内存占用高（~388 MB）、冷启动慢（13.9 秒）、凭证明文存储等问题。 | [opencrust.md](opencrust.md) |
 | 15 | bastionclaw | 24 | OpenClaw 的 52+ 模块、45+ 依赖、应用级安全（allowlists/pairing codes）导致代码复杂且缺乏 OS 级隔离。 | [bastionclaw.md](bastionclaw.md) |
 | 16 | claw-kernel | 2 | Claw 生态中的每个项目（OpenClaw、ZeroClaw、OpenCrust）都独立实现相同的基础设施（LLM 调用、工具协议、Agent 循环、记... | [claw-kernel.md](claw-kernel.md) |
-| 17 | [microclaw/microclaw](https://github.com/microclaw/microclaw) | — | MicroClaw 是一款用 Rust 构建的 Agentic AI 助手，灵感来自 NanoClaw，专注于在聊天平台中提供智能 Agent 能力。 | [microclaw.md](microclaw.md) |
-| 18 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | — | PicoClaw 是一款受 Nanobot 启发、用 Go 语言从头重构的超轻量级个人 AI 助手。 | [picoclaw.md](picoclaw.md) |
+| 17 | [microclaw/microclaw](https://github.com/microclaw/microclaw) | — | — | [microclaw.md](microclaw.md) |
+| 18 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | — | — | [picoclaw.md](picoclaw.md) |

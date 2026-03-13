@@ -1,3 +1,5 @@
+> https://github.com/slowmist/openclaw-security-practice-guide
+
 # OpenClaw Security Practice Guide (slowmist/openclaw-security-practice-guide)
 
 ## 基本信息

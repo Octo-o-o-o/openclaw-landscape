@@ -8,4 +8,4 @@
 | 4 | [openclaw/lobster](https://github.com/openclaw/lobster) | 795 | Lobster 提供了一个类型化的工作流引擎，让 | [lobster.md](lobster.md) |
 | 5 | [openclaw/acpx](https://github.com/openclaw/acpx) | 719 | acpx 提供了一个统一的 ACP 客户端，让 | [acpx.md](acpx.md) |
 | 6 | [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) | 481 | openclaw-ansible 提供了一个一键部署脚本，实现： | [openclaw-ansible.md](openclaw-ansible.md) |
-| 7 | OpenClaw 官方组织小型项目合集 | — | 本文档汇总了 OpenClaw 官方组织下的 16 个小型项目，涵盖基础设施、社区治理、开发工具、自动化机器人等多个领域。 | [small-projects.md](small-projects.md) |
+| 7 | OpenClaw 官方组织小型项目合集 | — | — | [small-projects.md](small-projects.md) |

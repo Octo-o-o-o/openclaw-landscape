@@ -1,14 +1,9 @@
-# openclaw-skill-snowtrace (27 stars)
+# openclaw-skill-snowtrace
 
-## 问题与解决方案
+| Field | Value |
+|-------|-------|
+| Stars | 27 |
 
-投资者需要手动浏览雪球平台关注的 KOL 动态和自选股行情，信息分散且耗时。该 Skill 通过 Playwright + stealth 绕过雪球 WAF，自动抓取大 V 原创动态和自选股实时行情，生成五段式投资分析报告（大 V 观点摘要 → 行情概览 → 关联分析 → 投资建议 → 免责声明）。
+---
 
-## 关键特性
-
-- **反爬虫绕过** — 使用 Playwright + stealth 插件绕过阿里云 WAF，支持主域名动态抓取
-- **多市场支持** — 支持 A 股、港股、美股自选股列表和实时行情获取
-- **持仓盈亏计算** — 可选配置本地持仓信息（`portfolio.json`），自动计算盈亏和收益率
-- **结构化输出** — 生成标准化的五段式投资分析报告，便于 Agent 理解和用户阅读
-- **混合抓取策略** — 大 V 动态和自选股列表使用浏览器上下文（携带 cookie），单只股票行情使用 curl（无 WAF）
-- **环境变量配置** — 通过 `XQ_A_TOKEN` 环境变量管理雪球登录凭证，避免硬编码
+> 📖 [完整中文调研 / Full Chinese Research](../../categories-cn/15-其他/snowtrace.md)

@@ -1,3 +1,5 @@
+> https://github.com/miaoxworld/OpenClawInstaller
+
 # OpenClawInstaller - OpenClaw 一键部署工具
 
 ## 基本信息

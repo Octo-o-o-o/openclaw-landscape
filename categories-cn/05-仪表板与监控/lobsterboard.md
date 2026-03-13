@@ -1,3 +1,5 @@
+> https://github.com/Curbob/LobsterBoard
+
 # Curbob/LobsterBoard
 
 ## 基本信息

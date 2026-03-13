@@ -1,3 +1,5 @@
+> https://github.com/AlexAnys/awesome-openclaw-usecases-zh
+
 # openclaw-feishu (522 stars)
 
 ## 问题与解决方案

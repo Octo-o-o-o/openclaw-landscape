@@ -1,3 +1,5 @@
+> https://github.com/hesamsheikh/awesome-openclaw-usecases
+
 # Awesome OpenClaw Use Cases
 
 ## 基本信息

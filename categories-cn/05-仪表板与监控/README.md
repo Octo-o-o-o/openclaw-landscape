@@ -18,4 +18,4 @@
 | 14 | OpenClaw Monitoring by VideoDB | 15 | 远程运行的 AI Agent 缺乏可观测性，用户无法实时了解 Agent 的执行状态和行为，只能"发送任务 → 等待 → 收到成功消息 → 祈祷"。 | [openclaw-monitoring.md](openclaw-monitoring.md) |
 | 15 | OpenClaw-Agent-Control | 1 | 多 Agent 运维场景下，Agent 状态分散在日志和监控系统中，定位和处置成本高。 | [agent-control.md](agent-control.md) |
 | 16 | [crshdn/mission-control](https://github.com/crshdn/mission-control) | — | 传统 AI Agent 系统缺乏统一的任务编排和可视化管理界面，用户难以： | [mission-control-crshdn.md](mission-control-crshdn.md) |
-| 17 | [xmanrui/OpenClaw-bot-review](https://github.com/xmanrui/OpenClaw-bot-review) | — | 轻量级 Web 仪表板，用于一览所有 OpenClaw Bot/Agent/模型/会话状态。 | [openclaw-bot-review.md](openclaw-bot-review.md) |
+| 17 | [xmanrui/OpenClaw-bot-review](https://github.com/xmanrui/OpenClaw-bot-review) | — | — | [openclaw-bot-review.md](openclaw-bot-review.md) |

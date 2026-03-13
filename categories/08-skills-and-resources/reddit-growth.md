@@ -1,14 +1,9 @@
-# oh-ashen-one/reddit-growth-skill (109 stars)
+# oh-ashen-one/reddit-growth-skill
 
-## 问题与解决方案
+| Field | Value |
+|-------|-------|
+| Stars | 109 |
 
-新注册的 Reddit 账号直接发布营销内容会被平台快速识别并封禁（shadow ban）。该项目提供"账号预热"技能，通过 7 天的真实互动（每天 3 条有价值评论，无链接/产品提及）积累账号信任度和 karma 值，为后续营销活动铺平道路。
+---
 
-## 关键特性
-
-- **预热协议** — 明确的 7 天预热计划：每天在目标 subreddit 发布 3 条真实、有帮助的评论，严格禁止链接和产品提及
-- **意图收集** — 在互动过程中识别用户痛点和需求，为后续精准营销积累情报
-- **人性化互动** — 强调"真实帮助"而非机器人式回复，避免触发 Reddit 的反垃圾机制
-- **目标 subreddit 配置** — 支持自定义目标社区列表，聚焦目标受众所在的垂直领域
-- **karma 追踪** — 自动记录每日 karma 增长，确保账号达到"可营销"阈值后再切换策略
-- **OpenClaw 集成** — 作为标准 SKILL.md 技能，可与其他营销技能（如 outreach-skill）组合使用
+> 📖 [完整中文调研 / Full Chinese Research](../../categories-cn/08-技能模板与资源/reddit-growth.md)

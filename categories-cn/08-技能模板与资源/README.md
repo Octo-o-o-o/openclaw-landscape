@@ -15,5 +15,5 @@
 | 11 | oh-ashen-one/reddit-growth-skill | 109 | 新注册的 Reddit 账号直接发布营销内容会被平台快速识别并封禁（shadow ban）。 | [reddit-growth.md](reddit-growth.md) |
 | 12 | openclaw-knowledge-distiller | 43 | 研究者和学生需要快速消化大量视频内容（YouTube/Bilibili/Facebook），但手动观看耗时且难以结构化。 | [knowledge-distiller.md](knowledge-distiller.md) |
 | 13 | OpenClaw Vault Plugin | 41 | OpenClaw 缺乏结构化知识管理能力，用户需要外部工具（如 Obsidian）管理笔记和知识库。 | [plugin-vault.md](plugin-vault.md) |
-| 14 | [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) | — | 最全面的 OpenClaw 资源集合，涵盖托管指南、成本对比、安全加固、技能、教程和社区链接。 | [awesome-openclaw-rohitg00.md](awesome-openclaw-rohitg00.md) |
+| 14 | [rohitg00/awesome-openclaw](https://github.com/rohitg00/awesome-openclaw) | — | — | [awesome-openclaw-rohitg00.md](awesome-openclaw-rohitg00.md) |
 | 15 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | — | clawhub install <skill-slug> | [awesome-skills-voltagent.md](awesome-skills-voltagent.md) |
