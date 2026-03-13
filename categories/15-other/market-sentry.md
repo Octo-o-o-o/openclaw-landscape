@@ -14,3 +14,5 @@ Investors need to simultaneously monitor multiple asset classes including A-shar
 - **Feishu Dual-Mode Push** — Mode A (App bot direct messages), Mode B (Webhook rich interactive cards, recommended)
 - **EvidencePack Audit** — Each briefing generates a JSON evidence pack containing all raw API responses to prevent hallucinations
 - **Silent Monitoring Mode** — Only pushes alerts on anomalies, stays silent during normal periods to reduce noise
+
+<!-- lastCommit: 6a7050b -->

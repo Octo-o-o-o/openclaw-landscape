@@ -288,3 +288,5 @@ services:
 ```
 
 Optional integration with Ollama local model service.
+
+<!-- lastCommit: 6a7050b -->

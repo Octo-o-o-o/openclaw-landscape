@@ -15,3 +15,5 @@ OpenClaw Supermemory 解决了 Agent"短期记忆限制"的痛点。通过 Super
 - **Slash 命令 + AI 工具** — `/remember <text>` 手动保存、`/recall <query>` 搜索记忆，AI 自主使用 `supermemory_store`/`search`/`forget`/`profile` 工具
 - **CLI 管理** — `openclaw supermemory setup` 配置 API Key、`status` 查看配置、`search <query>` 搜索记忆、`profile` 查看用户档案、`wipe` 删除所有记忆
 - **灵活配置** — 支持环境变量（`SUPERMEMORY_OPENCLAW_API_KEY`）或 `~/.openclaw/openclaw.json` 配置，可调整召回数量、档案注入频率、捕获模式等
+
+<!-- lastCommit: 6a7050b -->

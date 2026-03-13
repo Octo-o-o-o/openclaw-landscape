@@ -20,3 +20,5 @@ OpenClaw natively does not support China's mainstream IM platforms (Feishu/Lark,
 - Multi-account support: WeCom supports multi-account configuration; Feishu (Lark) supports automatic migration from `accounts.main` to `default`
 - Recommended companion: AIClient-2-API, which converts AI clients to standard APIs for unlimited Token invocation
 - Recommended model: `gemini-3-flash-preview` (1M tokens context, fast response, high cost-effectiveness)
+
+<!-- lastCommit: 6a7050b -->

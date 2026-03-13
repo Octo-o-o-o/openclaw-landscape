@@ -12,3 +12,5 @@ AI Agents lack persistent long-term memory capabilities, with severe information
 - Multi-scope isolation (per-agent, per-user, per-project memory boundaries)
 - Support for any embedding provider (OpenAI, Jina, Gemini, Ollama)
 - Complete operations tooling (CLI, backup, migration, upgrade, import/export)
+
+<!-- lastCommit: 6a7050b -->

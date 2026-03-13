@@ -257,3 +257,5 @@ NanoClaw 是 OpenClaw 的轻量级替代品，核心价值在于：
 4. **AI 原生**：Claude Code 驱动的设置、调试、运维
 
 对 ClawButler 的最大启示是：**控制平面应该保持核心简洁，通过插件/扩展提供丰富功能，用 AI 辅助运维和定制**。NanoClaw 的技能系统、容器隔离、凭证代理、自注册通道等设计都值得 ClawButler 借鉴。
+
+<!-- lastCommit: 137e138 -->

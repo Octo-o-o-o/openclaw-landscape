@@ -14,3 +14,5 @@ Poco-Claw addresses the security and usability issues of OpenClaw. Traditional O
 - **Background Execution + Scheduled Triggers**: Agents can run continuously in the cloud even after closing the browser, with scheduled task support
 - **Multi-device Interaction**: Mobile support, IM integration (DingTalk/Telegram), push notifications, event subscriptions
 - **Intelligent Memory (mem0)**: Remembers user preferences, project context, and interaction history to provide personalized assistance
+
+<!-- lastCommit: 6a7050b -->

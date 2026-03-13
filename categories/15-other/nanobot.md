@@ -20,3 +20,5 @@ OpenClaw is powerful but has complex code (tens of thousands of lines), making i
 - Prompt caching: Anthropic prompt cache optimization to reduce token consumption
 - Security hardening: Session isolation, input validation, path traversal protection, config encryption
 - Research-friendly: Clean, readable code that's easy to understand and modify
+
+<!-- lastCommit: 6a7050b -->

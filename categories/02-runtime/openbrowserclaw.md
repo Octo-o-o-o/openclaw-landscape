@@ -14,3 +14,5 @@ Traditional AI assistants require server infrastructure (databases, filesystems,
 - **Multi-channel Support** — In-browser chat + Telegram Bot API (pure HTTPS, no WebSocket)
 - **PWA Offline Capability** — Service Worker caching, task queue retained after tab closure
 - **Cron Scheduler** — In-browser cron expression parsing and task triggering
+
+<!-- lastCommit: 6a7050b -->

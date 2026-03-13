@@ -496,3 +496,5 @@ OpenClawInstaller 最值得 ClawButler 借鉴的三个核心设计：
 3. **健康检查和诊断**：`clawbutlerctl doctor` 自动发现和修复配置问题
 
 这些功能可以显著提升 ClawButler 的用户体验，特别是对于非技术用户和企业部署场景。
+
+<!-- lastCommit: 137e138 -->

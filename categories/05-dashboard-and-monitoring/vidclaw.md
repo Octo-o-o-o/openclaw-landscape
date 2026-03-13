@@ -12,3 +12,5 @@ OpenClaw Agents running on remote servers lack observability -- users cannot und
 - **Activity Calendar View** — Monthly Agent activity view parsed from memory files and task history
 - **Workspace File Browser** — File browser with markdown preview, syntax highlighting, and download support
 - **Skill Manager** — View all bundled/workspace skills, enable/disable, and create custom skills
+
+<!-- lastCommit: 6a7050b -->

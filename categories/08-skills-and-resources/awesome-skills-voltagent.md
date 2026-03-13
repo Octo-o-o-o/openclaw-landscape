@@ -195,3 +195,5 @@ VoltAgent/awesome-openclaw-skills is a key piece of infrastructure in the OpenCl
 3. **Capability mapping foundation** — Cross-platform skill mapping, capability routing
 4. **Cost & auditing** — Skill cost tracking, permission management, sandbox testing
 5. **Automation scenarios** — Runbook templates, workflow orchestration
+
+<!-- lastCommit: 6a7050b -->

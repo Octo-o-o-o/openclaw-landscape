@@ -14,3 +14,5 @@
 - **国内生态适配** — 配套 [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) 39 个真实用例（含飞书/钉钉/企微/小红书场景）
 - **迁移指南** — 从 HTTP 回调模式迁移到 WebSocket 长连接的完整步骤
 - **进阶配置参考** — 多维表格、日历日程、任务管理、知识库等高级功能配置示例
+
+<!-- lastCommit: 137e138 -->

@@ -14,3 +14,5 @@ Quantitative trading systems need to integrate market data retrieval, trade exec
 - **OCR Recognition Support** — Integrates pytesseract and pyperclip for CAPTCHA recognition and clipboard filling
 - **Remote Deployment Guide** — Provides remote server deployment considerations (screensaver off, desktop active, code disconnect handling)
 - **Data Source Extensions** — Integrates TuShare, Waizao.com, and other third-party data platforms for historical and fundamental data
+
+<!-- lastCommit: 6a7050b -->

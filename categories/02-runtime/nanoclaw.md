@@ -258,3 +258,5 @@ NanoClaw is a lightweight alternative to OpenClaw, with core value in:
 2. **Security**: Container-level isolation + credential proxy
 3. **Customizability**: Skills system + AI-assisted modifications
 4. **AI-native**: Claude Code-driven setup, debugging, and operations
+
+<!-- lastCommit: 6a7050b -->

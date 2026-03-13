@@ -14,3 +14,5 @@ Traditional AI Copilots (such as Claude Desktop, Cursor) lack cross-session memo
 - **Emotion State System** — Maintains four-dimensional emotions (alertness/mood/curiosity/confidence) that influence behavior patterns (conservative when high alertness + low mood, exploratory when high curiosity + positive mood)
 - **Pain Memory Mechanism** — Learns from failures to form protective instincts (7-day half-life; triggers avoidance behavior when weight exceeds threshold)
 - **Proactive Exploration** — Detects repetitive workflows (3+ occurrences) and automatically proposes Skill creation, records new tools to TOOLS.md, senses emotional fluctuations to update user model
+
+<!-- lastCommit: 6a7050b -->

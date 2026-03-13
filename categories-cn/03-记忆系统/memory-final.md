@@ -17,3 +17,5 @@
 - **动态 profile 注入** — 根据 profile（main/ops/btc/quant）加载最小上下文包
 - **冲突检测** — 持久化记忆变更前扫描路由/规则漂移
 - **检索 watchdog + 夜间维护** — 30 分钟健康检查 + 每日 03:20 `qmd update`/条件 `embed`
+
+<!-- lastCommit: 6a7050b -->

@@ -12,3 +12,5 @@ Self-hosted OpenClaw faces security risks including malicious skills, prompt inj
 - **Offline Skill Scanning** -- tree-sitter AST analysis detects dangerous APIs (eval, child_process), network exfiltration (fetch, http), filesystem abuse (writeFile, rmSync), isolated to SQLite
 - **DNS Whitelisting** -- CoreDNS blocks outbound traffic from skills to non-approved domains
 - **One-Click Deployment** -- Docker Compose + Caddy auto HTTPS, `install.sh` auto-installs the `prompt-guard` plugin
+
+<!-- lastCommit: 6a7050b -->

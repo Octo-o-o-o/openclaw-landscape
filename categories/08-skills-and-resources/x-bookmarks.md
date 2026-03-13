@@ -14,3 +14,5 @@ X/Twitter's bookmark feature lacks export and bulk management capabilities, prev
 - **OpenClaw native integration** — As a standard SKILL.md skill, can be installed directly via `npx sundial-hub add x-bookmarks`
 - **Incremental sync** — Supports exporting only newly added bookmarks, avoiding reprocessing of already exported content
 - **Privacy protection** — Runs locally without uploading bookmark data to third-party servers
+
+<!-- lastCommit: 6a7050b -->

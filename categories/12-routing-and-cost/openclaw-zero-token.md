@@ -12,3 +12,5 @@ Using AI models requires purchasing API Tokens, creating cost and credit card bi
 - AskOnce feature: query multiple AI models at once and compare responses
 - Credentials stored locally with no leakage risk
 - One-click installation script and complete documentation
+
+<!-- lastCommit: 6a7050b -->

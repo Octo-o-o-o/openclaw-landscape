@@ -150,3 +150,5 @@ Focuses on curating one-click cloud deployment tutorials:
 - Open source repository, PRs welcome
 - Clear contribution guidelines (how to add new resources)
 - Issue tracking and feature suggestions
+
+<!-- lastCommit: 6a7050b -->

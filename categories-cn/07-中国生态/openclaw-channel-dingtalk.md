@@ -13,3 +13,5 @@
 - Markdown 回复和互动卡片（支持流式更新）
 - 进程级内存态：消息去重、session 锁、gateway in-flight 防重锁
 - 国内镜像源支持（npm 镜像）
+
+<!-- lastCommit: 6a7050b -->

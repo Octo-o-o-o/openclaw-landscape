@@ -14,3 +14,5 @@ The official OpenClaw skill registry (ClawHub) contains 5,705 skills but is plag
 - **18-category taxonomy** — Organized by function (coding, DevOps, browser automation, AI/LLM, marketing, productivity, etc.)
 - **Security notices** — Clearly states the list is manually curated rather than security-audited, and recommends using Snyk and Agent Trust Hub for security scanning
 - **Community contribution mechanism** — Provides contribution guidelines, encouraging Chinese developers to submit new skills and improvement suggestions
+
+<!-- lastCommit: 6a7050b -->

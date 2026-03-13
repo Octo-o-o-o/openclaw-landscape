@@ -14,3 +14,5 @@
 - **目标 subreddit 配置** — 支持自定义目标社区列表，聚焦目标受众所在的垂直领域
 - **karma 追踪** — 自动记录每日 karma 增长，确保账号达到"可营销"阈值后再切换策略
 - **OpenClaw 集成** — 作为标准 SKILL.md 技能，可与其他营销技能（如 outreach-skill）组合使用
+
+<!-- lastCommit: 6a7050b -->

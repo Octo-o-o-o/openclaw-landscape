@@ -12,3 +12,5 @@ OpenClaw lacks structured knowledge management capabilities, requiring users to 
 - **QMD search engine** — Supports keyword, semantic, and hybrid search modes; auto-installs qmd (via bun or npm)
 - **CLI + Tools + Gateway RPC** — Three access methods: `openclaw vault init/add/query`, Agent tool calls, and Gateway HTTP endpoints
 - **Automatic git commits** — Optional auto git commit and push to maintain knowledge base version control
+
+<!-- lastCommit: 6a7050b -->

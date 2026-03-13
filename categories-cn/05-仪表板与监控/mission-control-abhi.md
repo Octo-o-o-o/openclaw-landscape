@@ -375,3 +375,5 @@ class Approval:
 ## 总结
 
 OpenClaw Mission Control 是一个优秀的 **Agent 编排与治理控制平面**，通过统一的 Web UI 和 API、审批驱动的治理、Gateway 感知的编排、活动历史与审计追踪，为企业级 OpenClaw 部署提供了完整的运维解决方案。ClawButler 可以借鉴其思路，完善 **Dashboard**、**审批流程**、**Gateway 编排**、**活动时间线**、**Board 与 Task 管理**、**一键安装脚本**、**API 自动生成客户端**、**测试覆盖率策略**，提升企业级运维能力和用户体验。
+
+<!-- lastCommit: 137e138 -->

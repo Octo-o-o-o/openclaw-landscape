@@ -17,3 +17,5 @@ Solves the integration problem where DingTalk enterprise users cannot directly u
 - **DingTalk Document API** — Supports creating, appending to, searching, and listing DingTalk documents for knowledge base integration
 - **Async mode** — Immediately acknowledges user messages, processes tasks in the background, and proactively pushes results; suitable for time-consuming tasks
 - **Markdown table conversion** — Automatically converts Markdown tables to DingTalk-compatible text format
+
+<!-- lastCommit: 6a7050b -->

@@ -14,3 +14,5 @@ X/Twitter has shut down its free API, traditional scrapers are easily blocked, a
 - **Agent-friendly design** — All output is structured JSON, supports Python module import, exit codes adapted for cron (0=no new content, 1=new content)
 - **User profiling** — Combines LLM analysis of user tweets to generate MBTI, Big Five personality traits, and topic graphs
 - **Incremental monitoring mode** — The `--monitor` parameter supports scheduled checking for new @mentions, suitable for automated workflows
+
+<!-- lastCommit: 6a7050b -->

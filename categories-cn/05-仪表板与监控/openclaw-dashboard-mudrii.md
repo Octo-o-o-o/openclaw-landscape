@@ -34,3 +34,5 @@
 | 速率限制 | 10 req/min | 10 req/min |
 | 测试 | 122 (pytest) | 87 (go test -race) |
 | 吞吐量 | 1,745 req/s | 2,019 req/s |
+
+<!-- lastCommit: 6a7050b -->

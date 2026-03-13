@@ -14,3 +14,5 @@ OpenClaw does not officially provide a Kubernetes deployment solution, requiring
 - **Device Pairing Workflow** -- Provides `kubectl port-forward` + `kubectl exec` command examples to simplify first-time pairing
 - **Private Image Support** -- Supports custom `image.repository` and `image.tag`, compatible with enterprise internal image registries
 - **Artifact Hub Publication** -- Hosted on the official Helm repository, installable via `helm repo add`
+
+<!-- lastCommit: 6a7050b -->

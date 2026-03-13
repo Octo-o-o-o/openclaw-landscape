@@ -14,3 +14,5 @@ Traditional AI assistants rely on complex runtimes (Node.js/Python) and external
 - **Hybrid Semantic Search** — BM25 + vector retrieval built-in, memory queries require no external services
 - **Flexible Configuration** — JSON configuration file (`~/.clawlet/config.json`), supports environment variables and model default parameter overrides
 - **Local Models First** — Ollama/vLLM routes unified under the `ollama/<model>` prefix, automatically adapting to OpenAI-compatible endpoints
+
+<!-- lastCommit: 6a7050b -->

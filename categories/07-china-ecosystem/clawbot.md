@@ -136,3 +136,5 @@ cat ~/.clawdbot/clawdbot.json | jq '.models'
 # Verify authentication configuration
 cat ~/.clawdbot/agents/main/agent/auth-profiles.json | jq '.'
 ```
+
+<!-- lastCommit: 6a7050b -->

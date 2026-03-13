@@ -14,3 +14,5 @@ MCP（Model Context Protocol）服务器提供的工具无法被 OpenClaw Agent 
 - **沙箱集成** — 支持将 MCP 工具添加至沙箱工具白名单，实现细粒度权限控制
 - **环境变量替换** — 支持在配置中使用 `${VAR}` 语法引用环境变量，安全管理 API 密钥
 - **TypeScript 实现** — 使用 TypeScript 开发，提供类型安全和良好的开发体验
+
+<!-- lastCommit: 6a7050b -->

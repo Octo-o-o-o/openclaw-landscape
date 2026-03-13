@@ -14,3 +14,5 @@ OpenClaw 生态中的 913 个技能分散在各处，开发者难以发现高质
 - **每日更新** — 自动同步 ClawHub 最新数据，确保技能列表始终反映生态最新趋势
 - **结构化元数据** — 每个技能包含安装名、描述、下载量、ClawHub 链接，便于程序化访问
 - **分类导航** — 按功能域分类（Agent Core & Memory、Productivity & Tasks、Developer Tools 等），支持快速定位需求
+
+<!-- lastCommit: 6a7050b -->

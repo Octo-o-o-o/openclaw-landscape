@@ -12,3 +12,5 @@ OpenClaw 缺乏与企业微信（WeCom）的原生集成，无法通过企业通
 - **回调服务器** — 内置 webhook 服务器处理企业微信消息推送，支持 Token 和 AES 加密验证
 - **TypeScript 实现** — Node.js 18+ + TypeScript，完整的类型安全和文档支持
 - **快速配置** — 通过 `~/.openclaw/openclaw.json` 配置企业 ID、Secret、Agent ID 等凭证
+
+<!-- lastCommit: 6a7050b -->

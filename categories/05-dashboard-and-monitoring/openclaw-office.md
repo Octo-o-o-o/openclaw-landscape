@@ -17,3 +17,5 @@ OpenClaw Multi-Agent systems lack a visual collaborative monitoring interface, m
 - **Remote Gateway Support** — Supports remote OpenClaw Gateway access through `/gateway-ws` proxy flow (Alibaba Cloud, Tencent Cloud, and other hosted environments)
 - **i18n** — Chinese and English bilingual support with runtime language switching
 - **Mock Mode** — Development without requiring a Gateway connection
+
+<!-- lastCommit: 6a7050b -->

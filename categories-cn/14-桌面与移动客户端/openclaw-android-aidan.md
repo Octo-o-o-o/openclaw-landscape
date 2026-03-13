@@ -31,3 +31,5 @@
 - **核心基础设施**：Node.js、Git、Python 等
 - **平台运行时**：OpenClaw Gateway
 - **可选工具**：根据需求选装
+
+<!-- lastCommit: 137e138 -->

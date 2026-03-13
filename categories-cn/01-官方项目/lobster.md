@@ -164,3 +164,5 @@ node bin/lobster.js "workflows.run --name github.pr.monitor \
 
 - **动态流程**: 根据前序步骤的输出决定是否执行
 - **错误处理**: 可以基于步骤状态跳过或重试
+
+<!-- lastCommit: 137e138 -->

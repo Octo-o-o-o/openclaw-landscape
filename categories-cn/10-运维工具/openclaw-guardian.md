@@ -516,3 +516,5 @@ OpenClaw Guardian 是一个**生产级、零配置、渐进式修复**的 Agent 
 5. **生产验证**：MyClaw.ai 平台运行数千个实例的实战经验
 
 对 ClawButler 的最大启示是：**配置管理不仅要支持手动回滚，更要支持自动健康监控和故障自愈**。通过将 Guardian 的设计理念融入 Config Safety V2、Runbooks 和新增的 Agent Watchdog 模块，ClawButler 可以从"配置版本管理工具"升级为"自愈式 Agent 控制平面"。
+
+<!-- lastCommit: 137e138 -->

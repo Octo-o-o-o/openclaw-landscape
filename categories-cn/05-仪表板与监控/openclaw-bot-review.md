@@ -40,3 +40,5 @@
 - Node.js 18+
 - OpenClaw 已安装，配置文件位于 `~/.openclaw/openclaw.json`
 - 支持 Docker 部署
+
+<!-- lastCommit: 137e138 -->

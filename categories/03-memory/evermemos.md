@@ -14,3 +14,5 @@ EverMemOS addresses the long-term memory problem for AI Agents. Traditional Agen
 - **Multiple Storage Backends**: Supports MongoDB (document storage), Elasticsearch (full-text search), and Milvus (vector search)
 - **OpenClaw Integration**: Provides an OpenClaw Agent Memory Plugin for seamless integration into the OpenClaw ecosystem
 - **Memory Genesis Competition 2026**: Hosts a memory application competition with three tracks (Agent + Memory / Platform Plugins / OS Infrastructure)
+
+<!-- lastCommit: 6a7050b -->

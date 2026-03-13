@@ -14,3 +14,5 @@ Claude.ai 用户无法直接与自托管的 OpenClaw 实例通信，只能依赖
 - **反向代理兼容** — 强制要求设置 `MCP_ISSUER_URL` 为公网 HTTPS URL，避免 OAuth 元数据暴露 `http://localhost:3000` 导致认证失败
 - **CORS 精准控制** — 通过 `CORS_ORIGINS=https://claude.ai` 限制跨域请求来源，防止 CSRF 攻击
 - **超时可配置** — `OPENCLAW_TIMEOUT_MS` 参数支持长时任务（默认 300 秒），适配 Claude Code 等耗时操作
+
+<!-- lastCommit: 6a7050b -->

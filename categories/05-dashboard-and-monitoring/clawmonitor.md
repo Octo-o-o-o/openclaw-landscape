@@ -47,3 +47,5 @@ clawmonitor report     # Generate session report
 3. **Offline Degradation**: Maintains basic monitoring via lock files when Gateway is disconnected
 4. **ClawHub Integration**: Provides a `skills/claw-monitor/` directory for use as an OpenClaw skill
 5. **IM-Aware**: Detects Telegram thread binding routes (`BOUND_OTHER` marker)
+
+<!-- lastCommit: 6a7050b -->

@@ -14,3 +14,5 @@ ClawX 解决了 OpenClaw 的易用性问题。传统 OpenClaw 需要命令行操
 - **安全凭证管理**：AI Provider 凭证存储在系统原生 Keychain，支持 API Key + OAuth（OpenAI Codex 订阅）
 - **跨平台支持**：macOS/Windows/Linux 原生支持，Windows 预配置最佳实践，多语言界面
 - **自适应主题**：亮色/暗色/系统同步主题，自动适配用户偏好
+
+<!-- lastCommit: 6a7050b -->

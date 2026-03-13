@@ -14,3 +14,5 @@ Existing Multi-Agent frameworks (CrewAI/AutoGen) allow Agents to collaborate fre
 - **Hot-Swap Model Configuration** — One-click LLM switching, Skill management, and complete archive viewing within the dashboard, no service restart required
 - **Feishu Integration** — Create tasks via Feishu commands, auto-report upon completion; aggregated news push
 - **Docker One-Click Experience** — `docker run -p 7891:7891 cft0808/edict` launches a complete dashboard with pre-loaded simulation data
+
+<!-- lastCommit: 6a7050b -->

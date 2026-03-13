@@ -14,3 +14,5 @@ AI Agent 缺乏桌面级的交互体验和多角色协作能力。super-agent-pa
 - AI 浏览器（Agent 自带浏览器，支持自动控制）
 - 扩展系统（支持安装和创建扩展，如 Galgame 扩展）
 - 开发者友好（提供 OpenAI API 接口和 MCP 接口）
+
+<!-- lastCommit: 6a7050b -->

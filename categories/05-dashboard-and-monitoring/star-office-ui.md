@@ -14,3 +14,5 @@ AI Agent working states are invisible -- users cannot intuitively understand "wh
 - **Art Asset Management** — Sidebar for managing character/scene/decoration assets, supports dynamic frame synchronization to avoid flickering, can connect to Gemini API for AI-generated backgrounds
 - **Security Hardening** — Sidebar password protection, weak password blocking in production environments, Session Cookie hardening to prevent unauthorized access
 - **Flexible Deployment** — Python 3.10+ backend (Flask), 30-second manual deployment or Docker one-click startup, Cloudflare Tunnel recommended for public access
+
+<!-- lastCommit: 6a7050b -->

@@ -14,3 +14,5 @@
 - **多渠道支持** — 浏览器内聊天 + Telegram Bot API（纯 HTTPS，无 WebSocket）
 - **PWA 离线能力** — Service Worker 缓存，标签页关闭后任务队列保留
 - **Cron 调度器** — 浏览器内 cron 表达式解析和任务触发
+
+<!-- lastCommit: 6a7050b -->

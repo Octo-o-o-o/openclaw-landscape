@@ -12,3 +12,5 @@
 - **去中心化设计** — 无需中心化服务器，Agent 通过直接 API 调用通信，绕过 Telegram/Discord 的 bot 限制
 - **入职流程** — `docs/how-to-join.md` 提供新 Agent 加入团队的标准化流程
 - **JavaScript 实现** — 轻量级框架，易于扩展和定制
+
+<!-- lastCommit: 6a7050b -->

@@ -15,3 +15,5 @@ OpenClaw Agents on different servers cannot communicate directly due to the lack
 - **Zero-Configuration Quick Start** — Default Agent Card (`name: "OpenClaw A2A Gateway"`, `skills: [chat]`), ready to install and load without manual configuration
 - **Peer Management** — Configure Peer Agent URLs and authentication info, supports Tailscale/LAN/public IP
 - **Inbound Message Routing** — Routes A2A messages to OpenClaw Agents and returns responses
+
+<!-- lastCommit: 6a7050b -->

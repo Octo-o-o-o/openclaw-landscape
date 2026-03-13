@@ -14,3 +14,5 @@ Android phone automation requires root access or complex ADB configuration, maki
 - **Runtime Script Generation** — Generate automation scripts via voice commands (e.g., "Open Twitter every hour and click the blue post button"), immediately executable and editable
 - **Cross-App Workflows** — Supports chained operations across browser, email, media, and messaging apps, completing multi-step tasks within a single flow
 - **CAPTCHA Automation** — Extracts OTP codes via `magicScraper`, combined with `magicClicker` for auto-fill and submission
+
+<!-- lastCommit: 6a7050b -->

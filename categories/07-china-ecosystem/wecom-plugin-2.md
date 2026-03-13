@@ -12,3 +12,5 @@ OpenClaw lacks native integration with WeCom (Enterprise WeChat), making it impo
 - **Callback server** — Built-in webhook server for handling WeCom message push, supporting Token and AES encryption verification
 - **TypeScript implementation** — Node.js 18+ + TypeScript, complete type safety and documentation support
 - **Quick configuration** — Configure enterprise ID, Secret, Agent ID, and other credentials via `~/.openclaw/openclaw.json`
+
+<!-- lastCommit: 6a7050b -->

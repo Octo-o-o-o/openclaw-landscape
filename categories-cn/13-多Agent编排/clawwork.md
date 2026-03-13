@@ -634,3 +634,5 @@ ClawWork 为 ClawButler 提供了以下核心价值：
 8. **多 Agent 配置管理** — 支持异构 Agent 生态系统的统一配置
 
 这些借鉴点与 ClawButler 的核心价值主张（统一身份、权限、协作路由、审计跟踪、成本跟踪）高度契合，可以显著增强 ClawButler 作为 Agent 控制平面的能力。
+
+<!-- lastCommit: 137e138 -->

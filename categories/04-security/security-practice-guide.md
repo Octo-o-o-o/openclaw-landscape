@@ -302,3 +302,5 @@ A dedicated adversarial exercise guide (`Validation-Guide-en.md` / `Validation-G
 3. **Three-Layer Defense**: Pre-action (prevention) + In-action (execution) + Post-action (audit)
 4. **Supply Chain Security**: Skill installation audit protocol
 5. **Behavioral Self-Inspection**: Command risk analysis based on LLM reasoning
+
+<!-- lastCommit: 6a7050b -->

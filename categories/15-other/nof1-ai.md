@@ -12,3 +12,5 @@ Traditional quantitative trading systems rely on hardcoded rules, lacking autono
 - LibSQL (SQLite) local data persistence (account history, trading signals, Agent decisions)
 - AI autonomous market data analysis, position management, and trade execution decisions
 - Eschews hardcoded rules, letting AI learn autonomously from raw market data
+
+<!-- lastCommit: 6a7050b -->

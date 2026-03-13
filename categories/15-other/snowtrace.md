@@ -14,3 +14,5 @@ Investors need to manually browse the Xueqiu (Snowball) platform to track KOL up
 - **Structured Output** — Generates standardized five-section investment analysis reports, easy for Agents to understand and users to read
 - **Hybrid Scraping Strategy** — KOL updates and watchlist use browser context (with cookies); individual stock quotes use curl (no WAF)
 - **Environment Variable Configuration** — Manages Xueqiu login credentials via the `XQ_A_TOKEN` environment variable, avoiding hardcoding
+
+<!-- lastCommit: 6a7050b -->

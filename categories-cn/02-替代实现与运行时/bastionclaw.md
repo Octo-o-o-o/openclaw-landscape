@@ -14,3 +14,5 @@ OpenClaw 的 52+ 模块、45+ 依赖、应用级安全（allowlists/pairing code
 - **WhatsApp 发送者白名单** — `WHATSAPP_ALLOWED_SENDERS` 限制哪些号码可触发 Bot（WhatsApp 链接个人账号，群组内任何人都可能触发）
 - **语义记忆 + 洞察引擎** — 混合搜索（BM25 + 向量嵌入）+ GGUF 本地模型，Data-to-Wisdom 管道（YouTube/文章/PDF → 提取洞察 → 语义去重 → 浮现模式）
 - **Agent Swarm 身份** — Discord 上每个 subagent 通过 webhook 获得独立用户名和头像，Telegram 上每个 subagent 获得独立 bot 身份
+
+<!-- lastCommit: 6a7050b -->

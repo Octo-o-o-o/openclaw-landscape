@@ -14,3 +14,5 @@ The more memories an AI Agent accumulates, the "dumber" it gets -- excessive con
 - **Core Principles Compression** -- Compresses 17 scattered rules into 5 core principles (AGENTS.md), with the rest stored in a searchable lessons library
 - **Dry Run Mode** -- Provides `--dry-run` and `--stats` parameters for previewing archiving operations and running statistical analysis
 - **Multiple Integration Methods** -- Supports OpenClaw Skill, Claude Code rule files, and other integration approaches
+
+<!-- lastCommit: 6a7050b -->

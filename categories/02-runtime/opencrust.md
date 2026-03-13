@@ -14,3 +14,5 @@ OpenClaw (Node.js) suffers from large binary size (~1.2 GB), high memory usage (
 - **Hot Configuration Reload** — Supports runtime configuration hot-reload without service restart
 - **WASM Plugin Sandbox** — Optional WebAssembly plugin system with controlled host access
 - **14 LLM Providers** — Native support for Anthropic, OpenAI, Ollama, compatible with DeepSeek, Mistral, Gemini, Qwen, and other OpenAI-compatible interfaces
+
+<!-- lastCommit: 6a7050b -->

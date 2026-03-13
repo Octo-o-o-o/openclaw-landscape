@@ -14,3 +14,5 @@
 - **技能系统** — 兼容 OpenClaw SKILL.md 格式，可直接复用社区技能（如 awesome-openclaw-skills）
 - **本地优先** — 数据存储在本地 SQLite/JSON，无需外部数据库或云服务
 - **开发者友好** — 提供 Python API 和 CLI 两种使用方式，易于集成到现有工作流
+
+<!-- lastCommit: 6a7050b -->

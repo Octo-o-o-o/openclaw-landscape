@@ -12,3 +12,5 @@ OpenClaw's tool calls lack a governance layer -- Agents can directly execute dan
 - **GatewayStack Ecosystem Integration** -- Uses `@gatewaystack/transformabl-core` (DLP) and `@gatewaystack/limitabl-core` (behavioral monitoring)
 - **Zero-Configuration Core** -- Core checks work without configuration; optional features are enabled via `policy.json`
 - **One-Click Installation** -- `openclaw plugins install @gatewaystack/gatewaystack-governance`
+
+<!-- lastCommit: 6a7050b -->

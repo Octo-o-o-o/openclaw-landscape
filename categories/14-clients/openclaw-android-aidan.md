@@ -31,3 +31,5 @@ A one-click installation script suite for running OpenClaw on Android phones. No
 - **Core Infrastructure**: Node.js, Git, Python, etc.
 - **Platform Runtime**: OpenClaw Gateway
 - **Optional Tools**: Install as needed
+
+<!-- lastCommit: 6a7050b -->

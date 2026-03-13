@@ -17,3 +17,5 @@ Addresses the core bottleneck in OpenClaw adoption: not the technical barrier, b
 - **Copy-ready prompts** — Each use case provides directly copyable English prompts with Chinese explanations for comprehension
 - **Chinese adaptation solutions** — Morning briefing push to Feishu (Lark)/DingTalk, A-share financial report tracking (AKShare), multi-channel customer service (WeCom/Douyin/Xiaohongshu)
 - **Security reminders** — Clearly notes that third-party skills are not audited, prompting users to review source code and permissions
+
+<!-- lastCommit: 6a7050b -->

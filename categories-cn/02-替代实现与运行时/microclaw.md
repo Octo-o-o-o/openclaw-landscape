@@ -42,3 +42,5 @@ bash, read_file, write_file, edit_file, glob, grep, read_memory, write_memory, w
 - 平台可扩展架构：共享 Agent 循环 + 工具系统 + 存储层，平台适配器处理通道特定逻辑
 - Docker 沙盒支持
 - 每条消息触发 Agentic 循环，最多 100 次迭代
+
+<!-- lastCommit: 137e138 -->

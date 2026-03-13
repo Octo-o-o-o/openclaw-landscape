@@ -17,3 +17,5 @@ Antfarm addresses the complexity of OpenClaw Agent team collaboration. Tradition
 - **One-Click Install** — `curl | bash` install, auto-configures Agent workspaces, cron tasks, and permissions
 - **Web Dashboard** — Real-time monitoring of run status, step progress, and Agent output
 - **Security Review Mechanism** — Only installs workflows from the official repo; all community contributions undergo prompt injection review
+
+<!-- lastCommit: 6a7050b -->

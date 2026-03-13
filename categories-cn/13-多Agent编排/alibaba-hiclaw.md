@@ -13,3 +13,5 @@
 - 支持从 skills.sh 拉取 80,000+ 社区技能
 - 定期心跳监控，Worker 卡住时自动告警
 - 支持 CoPaw Worker（80% 内存占用减少，本地浏览器自动化）
+
+<!-- lastCommit: 6a7050b -->

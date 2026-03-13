@@ -14,3 +14,5 @@ Clawdbot-Feishu solves the integration challenge of connecting OpenClaw to enter
 - **Enterprise-grade permissions**: Follows the principle of least privilege; read-only permissions suffice for basic functions, with read-write permissions enabled on demand
 - **Chinese community support**: Wiki provides configuration tutorials, FAQs, and usage tips; Discussions provide community support
 - **Structured feedback**: Issue Form templates + Discussions routing to improve issue resolution efficiency
+
+<!-- lastCommit: 6a7050b -->

@@ -317,3 +317,5 @@ Use cases:
 - **Global + project**: Supports multi-level configuration
 - **Command-line overrides**: Temporarily adjust parameters without modifying config files
 - **Auth integration**: Supports multiple authentication methods (environment variables, config files)
+
+<!-- lastCommit: 6a7050b -->

@@ -12,3 +12,5 @@ OpenClaw instance migration and backup lack a standardized solution, requiring u
 - Server migration: download backup from old machine, upload and restore on new machine
 - Security measures: backup files chmod 600, HTTP server enforces token authentication
 - Powered by MyClaw.ai, published on ClawHub
+
+<!-- lastCommit: 6a7050b -->

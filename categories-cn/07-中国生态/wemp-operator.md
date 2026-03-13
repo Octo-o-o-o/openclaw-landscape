@@ -14,3 +14,5 @@
 - **自然语言触发** — 通过 OpenClaw Skill 机制，用户直接说"生成公众号日报"即可触发，无需记忆命令
 - **AI 智能回复** — 自动检测新评论并生成回复建议，用户确认后执行（支持批量精选）
 - **ClawHub 一键安装** — `openclaw skill install IanShaw027/wemp-operator` 即可部署，配置仅需 AppID/AppSecret
+
+<!-- lastCommit: 6a7050b -->

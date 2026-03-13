@@ -11,3 +11,5 @@ The official OpenClaw skill library is in English, and skills are scattered and 
 - Supports Chinese natural language invocation
 - Covers 80,000+ community skills including email management, calendar scheduling, document processing, CRM, code development, CI/CD, database management, and more
 - Provides core feature descriptions and official links for each skill
+
+<!-- lastCommit: 6a7050b -->

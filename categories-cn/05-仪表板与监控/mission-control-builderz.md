@@ -12,3 +12,5 @@
 - 基于角色的访问控制（Viewer/Operator/Admin）+ Session + API Key 认证
 - 质量门禁系统，任务完成前需审核签字
 - 多网关支持（OpenClaw 及更多即将支持）
+
+<!-- lastCommit: 6a7050b -->

@@ -14,3 +14,5 @@ OpenClaw's 52+ modules, 45+ dependencies, and application-level security (allowl
 - **WhatsApp Sender Whitelist** — `WHATSAPP_ALLOWED_SENDERS` restricts which numbers can trigger the Bot (WhatsApp links to personal accounts, and anyone in a group can potentially trigger it)
 - **Semantic Memory + Insight Engine** — Hybrid search (BM25 + vector embeddings) + GGUF local models, Data-to-Wisdom pipeline (YouTube/articles/PDF -> extract insights -> semantic deduplication -> surface patterns)
 - **Agent Swarm Identity** — On Discord, each subagent gets an independent username and avatar via webhooks; on Telegram, each subagent gets an independent bot identity
+
+<!-- lastCommit: 6a7050b -->

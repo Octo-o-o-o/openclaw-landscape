@@ -14,3 +14,5 @@ Every project in the Claw ecosystem (OpenClaw, ZeroClaw, OpenCrust) independentl
 - **Dual Script Engine** — Lua (default) and V8/TypeScript (optional), with hot-reloading and sandbox isolation support
 - **670+ Test Coverage** — Comprehensive unit tests and integration tests ensuring cross-platform stability
 - **IPC Daemon Service** — claw-server provides global channel registration, tool bridging, trigger storage, and Webhook services
+
+<!-- lastCommit: 6a7050b -->

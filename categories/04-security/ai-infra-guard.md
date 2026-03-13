@@ -14,3 +14,5 @@ AI-Infra-Guard addresses security risks in AI infrastructure and the Agent ecosy
 - **Jailbreak Assessment** -- LLM jailbreak attack assessment capabilities to test Agent robustness against adversarial inputs
 - **Enterprise-Grade Deployment** -- One-click Docker deployment, Web UI + API, supports internal network self-assessment without public network exposure
 - **BlackHat EU 2025 Arsenal** -- Selected for the BlackHat Arsenal, demonstrating high industry recognition
+
+<!-- lastCommit: 6a7050b -->

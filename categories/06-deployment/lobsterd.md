@@ -13,3 +13,5 @@ Multi-tenant OpenClaw deployments lack strong isolation, and shared hosts pose s
 - **Watchdog Daemon** -- systemd service that automatically monitors tenant health, with auto-restart and snapshot support
 - **REST API** -- `buoy` command starts an HTTP server mirroring CLI functionality, with Bearer token authentication
 - **Tailscale Integration** -- Remote access provided by default via Tailscale Serve (port 8443)
+
+<!-- lastCommit: 6a7050b -->

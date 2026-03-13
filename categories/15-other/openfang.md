@@ -14,3 +14,5 @@ Traditional Agent frameworks are just Python wrappers around LLMs, requiring use
 - **Safety Approval Mechanism** — Browser Hand requires mandatory human confirmation before any purchase; Twitter Hand queues all tweets for approval
 - **FangHub Extension Ecosystem** — Users can define their own HAND.toml and publish to FangHub, similar to Docker Hub for Agent capabilities
 - **Cross-Platform Support** — macOS/Linux/Windows one-click install script, Dashboard runs by default on localhost:4200
+
+<!-- lastCommit: 6a7050b -->

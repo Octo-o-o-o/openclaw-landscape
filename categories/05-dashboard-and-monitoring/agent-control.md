@@ -14,3 +14,5 @@ In multi-Agent operations scenarios, Agent states are scattered across logs and 
 - **One-Click Skill Deployment** — Provides the `deploy_with_skill.sh` script to automatically launch the backend (FastAPI) and frontend (Next.js)
 - **Lifecycle Management Scripts** — Encapsulates operational tasks including start, stop, restart, status check, and log viewing
 - **Bilingual Documentation** — Provides documentation and tutorials in both Chinese and English, reducing onboarding costs for international teams
+
+<!-- lastCommit: 6a7050b -->

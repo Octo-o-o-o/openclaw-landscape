@@ -373,3 +373,5 @@ sudo iptables -L DOCKER-USER -n
 - **技术细节**: `docs/architecture.md`
 - **故障排查**: `docs/troubleshooting.md`
 - **Agent 指南**: `AGENTS.md`
+
+<!-- lastCommit: 137e138 -->

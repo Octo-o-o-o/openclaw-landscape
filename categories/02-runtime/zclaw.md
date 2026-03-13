@@ -15,3 +15,5 @@ ESP32 hardware resources are extremely constrained (<= 888 KiB firmware budget),
 - **Persistent Memory** — Context retained across reboots, supports 4 personas (neutral/friendly/technical/witty)
 - **USB Local Console** — Pre-network boot, safe mode, recovery diagnostics
 - **One-click Deployment** — `curl | bash` bootstrap script, auto-detects apt/pacman/dnf/zypper, supports encrypted credential flashing
+
+<!-- lastCommit: 6a7050b -->

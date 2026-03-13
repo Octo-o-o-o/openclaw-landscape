@@ -14,3 +14,5 @@ Feishu (Lark) users face pain points when connecting to OpenClaw, including comp
 - **Chinese ecosystem adaptation** — Companion project [awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) with 39 real-world use cases (including Feishu/Lark, DingTalk, WeCom, and Xiaohongshu scenarios)
 - **Migration guide** — Complete steps for migrating from HTTP callback mode to WebSocket long connection
 - **Advanced configuration reference** — Configuration examples for advanced features including Bitable (multi-dimensional tables), calendar scheduling, task management, and knowledge base
+
+<!-- lastCommit: 6a7050b -->

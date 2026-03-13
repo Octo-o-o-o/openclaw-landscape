@@ -14,3 +14,5 @@ OpenClaw（Node.js）存在二进制体积大（~1.2 GB）、内存占用高（~
 - **配置热加载** — 支持运行时配置热加载，无需重启服务
 - **WASM 插件沙箱** — 可选的 WebAssembly 插件系统，提供受控的宿主访问
 - **14 个 LLM 提供商** — 原生支持 Anthropic、OpenAI、Ollama，兼容 DeepSeek、Mistral、Gemini、Qwen 等 OpenAI 兼容接口
+
+<!-- lastCommit: 6a7050b -->

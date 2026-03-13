@@ -14,3 +14,5 @@ Antigravity-Claude-Proxy addresses the cost of accessing Claude/Gemini models in
 - **Web Dashboard** — Provides a Web UI for managing accounts, viewing health status, and manual authorization (supports headless servers)
 - **Background Running** — Runs as a background process with start/stop/restart/status commands, default port 8080
 - **ToS Risk Warning** — Explicitly warns about Google ToS violation risks, recommends using secondary accounts rather than primary accounts
+
+<!-- lastCommit: 6a7050b -->

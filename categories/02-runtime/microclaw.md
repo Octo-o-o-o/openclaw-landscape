@@ -42,3 +42,5 @@ bash, read_file, write_file, edit_file, glob, grep, read_memory, write_memory, w
 - Platform-extensible architecture: shared Agent loop + tool system + storage layer, with platform adapters handling channel-specific logic
 - Docker sandbox support
 - Each message triggers an Agentic loop, up to 100 iterations
+
+<!-- lastCommit: 6a7050b -->

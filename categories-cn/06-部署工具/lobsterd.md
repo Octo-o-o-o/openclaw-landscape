@@ -13,3 +13,5 @@
 - **Watchdog 守护进程** — systemd 服务自动监控租户健康状态，支持自动重启和快照
 - **REST API** — `buoy` 命令启动 HTTP 服务器，镜像 CLI 功能，支持 Bearer token 认证
 - **Tailscale 集成** — 默认通过 Tailscale Serve 提供远程访问（端口 8443）
+
+<!-- lastCommit: 6a7050b -->

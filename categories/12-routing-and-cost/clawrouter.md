@@ -14,3 +14,5 @@ OpenClaw sends all requests to the same model, wasting cost by invoking large mo
 - **Image Generation Integration** — `/imagegen` command supports 5 models (nano-banana/banana-pro/dall-e-3/gpt-image/flux), priced $0.02-$0.10/image
 - **x402 Non-Custodial Payments** — USDC Hackathon Agentic Commerce award winner, Base/Solana on-chain micropayments, users hold their own private keys, $5 supports thousands of requests
 - **OpenClaw Plugin** — One-click install `curl -fsSL https://blockrun.ai/ClawRouter-update | bash`, automatically replaces the default model with `blockrun/auto`
+
+<!-- lastCommit: 6a7050b -->

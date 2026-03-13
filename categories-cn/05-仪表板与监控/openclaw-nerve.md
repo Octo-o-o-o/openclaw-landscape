@@ -12,3 +12,5 @@ OpenClaw Agent 的消息渠道（Telegram、WhatsApp、Discord）无法提供实
 - 响应式设计（桌面、平板、移动端适配，触控友好）
 - 实时图表（TradingView 图表、K 线图、数据可视化直接嵌入对话）
 - Cron 调度（从 UI 创建定时任务和一次性提醒）
+
+<!-- lastCommit: 6a7050b -->

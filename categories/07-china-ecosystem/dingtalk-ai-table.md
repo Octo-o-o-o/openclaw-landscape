@@ -14,3 +14,5 @@ The DingTalk AI Table (multi-dimensional table) API operations are complex and d
 - **Security and construction testing** — `test_security.py` covers SQL injection, XSS, path traversal, and other security tests to ensure robust input validation and error handling
 - **Environment variable configuration** — Requires `DINGTALK_MCP_URL` (MCP service address); recommends `OPENCLAW_WORKSPACE` (file sandbox root directory); supports `mcporter` binary invocation
 - **Error code documentation** — Provides `error-codes.md` with detailed troubleshooting guides covering authentication failures, insufficient permissions, parameter errors, and other common issues
+
+<!-- lastCommit: 6a7050b -->

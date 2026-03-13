@@ -17,3 +17,5 @@ Production AI memory systems need to handle incremental updates, deduplication, 
 - **Dynamic Profile Injection** -- Loads minimal context packages based on profile (main/ops/btc/quant)
 - **Conflict Detection** -- Scans for routing/rule drift before persisting memory changes
 - **Retrieval Watchdog + Nightly Maintenance** -- 30-minute health checks + daily 03:20 `qmd update` / conditional `embed`
+
+<!-- lastCommit: 6a7050b -->

@@ -14,3 +14,5 @@ Researchers and students need to quickly digest large volumes of video content (
 - **Multilingual support** — Cantonese/Mandarin/English/Japanese/Korean and 50+ languages, with dialect prompting support (e.g., `--asr-prompt "This is Cantonese colloquial conversation, please preserve lazy pronunciation"`)
 - **MCP Server integration** — Can be invoked from Claude Code, OpenClaw, or any MCP-compatible Agent for automated video processing
 - **Multiple AI providers** — Supports Google Gemini (default), OpenAI, and Anthropic, switchable via `--provider` and `--model` parameters
+
+<!-- lastCommit: 6a7050b -->

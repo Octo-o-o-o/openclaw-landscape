@@ -14,3 +14,5 @@ A full OpenClaw deployment is overly complex, and users need a lightweight "pers
 - **Skills System** — Compatible with the OpenClaw SKILL.md format, can directly reuse community skills (e.g., awesome-openclaw-skills)
 - **Local First** — Data stored in local SQLite/JSON, no external database or cloud service required
 - **Developer Friendly** — Provides both Python API and CLI usage, easy to integrate into existing workflows
+
+<!-- lastCommit: 6a7050b -->

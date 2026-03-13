@@ -14,3 +14,5 @@ OpenClaw officially requires building from source, with complex dependency manag
 - **Rich Installation Options** -- `--pull-only` (pull image only), `--skip-onboard` (skip wizard), `--no-start` (don't start gateway), `--install-dir` (custom directory)
 - **Docker Compose Integration** -- Provides `docker-compose.yml` template for simplified multi-container orchestration
 - **Persistent Volume Mapping** -- `~/.openclaw` configuration and `~/.openclaw/workspace` workspace automatically mounted
+
+<!-- lastCommit: 6a7050b -->

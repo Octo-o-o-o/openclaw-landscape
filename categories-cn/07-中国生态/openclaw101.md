@@ -153,3 +153,5 @@ type ResourceCategory =
 ## 总结
 
 OpenClaw 101 是一个优秀的 **资源聚合与学习路径** 项目，通过系统化的内容组织和场景化的推荐，降低了 OpenClaw 的学习门槛。ClawButler 可以借鉴其思路，建立 **Agent 生态资源聚合站**、**场景化模板推荐**、**交互式 Onboarding**，提升用户体验和社区活跃度。
+
+<!-- lastCommit: 137e138 -->

@@ -12,3 +12,5 @@ OpenClaw 缺乏结构化知识管理能力，用户需要外部工具（如 Obsi
 - **QMD 搜索引擎** — 支持关键词、语义、混合三种搜索模式，自动安装 qmd（通过 bun 或 npm）
 - **CLI + 工具 + Gateway RPC** — 三种访问方式：`openclaw vault init/add/query`、Agent 工具调用、Gateway HTTP 端点
 - **自动 git 提交** — 可选的 git 自动提交和推送，保持知识库版本控制
+
+<!-- lastCommit: 6a7050b -->

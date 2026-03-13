@@ -47,3 +47,5 @@ clawmonitor report     # 生成会话报告
 3. **离线降级**：Gateway 断连时通过 lock 文件维持基本监控
 4. **ClawHub 集成**：提供 `skills/claw-monitor/` 目录，可作为 OpenClaw skill 使用
 5. **IM 感知**：检测 Telegram 线程绑定路由（`BOUND_OTHER` 标记）
+
+<!-- lastCommit: 6a7050b -->

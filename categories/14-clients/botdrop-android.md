@@ -15,3 +15,5 @@ Running an AI Agent on an Android phone requires installing Termux, configuring 
 - **No Terminal Required** — All operations completed through GUI
 - **Termux-Based** — Provides a Linux environment for running Node.js AI Agents
 - **Crashlytics Integration** — Firebase Crashlytics crash reporting (optional, configured at build time)
+
+<!-- lastCommit: 6a7050b -->

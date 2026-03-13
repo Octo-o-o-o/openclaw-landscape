@@ -14,3 +14,5 @@
 - **多语言支持** — 粤语/普通话/英语/日语/韩语等 50+ 语言，支持方言提示（如 `--asr-prompt "這是粵語口語對話，請保留懶音"`）
 - **MCP Server 集成** — 可从 Claude Code、OpenClaw 或任何 MCP 兼容 Agent 调用，实现视频处理自动化
 - **多 AI 提供商** — 支持 Google Gemini（默认）、OpenAI、Anthropic，通过 `--provider` 和 `--model` 参数切换
+
+<!-- lastCommit: 6a7050b -->

@@ -14,3 +14,5 @@ Operating a WeChat Official Account requires manual hot topic collection, data a
 - **Natural language triggers** — Through the OpenClaw Skill mechanism, users simply say "generate the official account daily report" to trigger, no need to memorize commands
 - **AI-powered smart replies** — Automatically detects new comments and generates reply suggestions; users confirm before execution (supports batch featuring)
 - **ClawHub one-click install** — `openclaw skill install IanShaw027/wemp-operator` for deployment; configuration requires only AppID/AppSecret
+
+<!-- lastCommit: 6a7050b -->

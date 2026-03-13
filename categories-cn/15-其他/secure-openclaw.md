@@ -13,3 +13,5 @@
 - 定时提醒和任务调度
 - 支持 Claude Code 和 Opencode 两种 AI 提供商
 - 交互式 CLI 菜单：终端聊天、网关启动、适配器配置等
+
+<!-- lastCommit: 6a7050b -->

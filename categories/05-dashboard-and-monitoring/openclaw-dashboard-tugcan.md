@@ -53,3 +53,5 @@ OpenClaw Agent operational information is scattered across logs and CLI, and lac
 - **Browser Notifications** — Pushes native browser notifications when usage approaches limits
 - **Remember Me** — 3-hour persistent login vs. session-level login
 - **Responsive Design** — Desktop + tablet + mobile
+
+<!-- lastCommit: 6a7050b -->

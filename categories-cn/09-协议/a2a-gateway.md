@@ -15,3 +15,5 @@
 - **零配置快速启动** — 默认 Agent Card（`name: "OpenClaw A2A Gateway"`, `skills: [chat]`），无需手动配置即可安装和加载
 - **Peer 管理** — 配置 Peer Agent 的 URL 和认证信息，支持 Tailscale/LAN/公网 IP
 - **路由入站消息** — 将 A2A 消息路由到 OpenClaw Agent 并返回响应
+
+<!-- lastCommit: 6a7050b -->

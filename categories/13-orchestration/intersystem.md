@@ -12,3 +12,5 @@ Multiple OpenClaw instances (cloud servers, local workstations) are isolated by 
 - **Decentralized Design** — No central server required; Agents communicate via direct API calls, bypassing Telegram/Discord bot limitations
 - **Onboarding Process** — `docs/how-to-join.md` provides a standardized process for new Agents to join the team
 - **JavaScript Implementation** — Lightweight framework, easy to extend and customize
+
+<!-- lastCommit: 6a7050b -->

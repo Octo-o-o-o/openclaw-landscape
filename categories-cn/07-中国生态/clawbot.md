@@ -180,3 +180,5 @@ cat ~/.clawdbot/agents/main/agent/auth-profiles.json | jq '.'
 ## 总结
 
 xianyu110/clawbot 虽然不是代码项目，但其文档质量和用户体验设计值得 ClawButler 学习。特别是在**多模型配置**、**故障排查流程**、**踩坑指南**等方面，可以直接应用到 ClawButler 的文档体系中，降低用户的部署和配置门槛。
+
+<!-- lastCommit: 137e138 -->

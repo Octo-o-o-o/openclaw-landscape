@@ -12,3 +12,5 @@ Agent 访问网站时需要手动编写 API 调用代码，效率低且难以复
 - 技能生命周期管理（active/deprecated/disabled）
 - 后台验证循环（每 6 小时执行安全 GET 端点，检测失败和 Schema 漂移）
 - 本地执行（凭证留在本地，仅发布学习到的 API 合约）
+
+<!-- lastCommit: 6a7050b -->

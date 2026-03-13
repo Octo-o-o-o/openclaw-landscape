@@ -12,3 +12,5 @@ Running AI Agents at scale lacks unified orchestration and monitoring tools, wit
 - Role-based access control (Viewer/Operator/Admin) + Session + API Key authentication
 - Quality gate system requiring review sign-off before task completion
 - Multi-gateway support (OpenClaw and more coming soon)
+
+<!-- lastCommit: 6a7050b -->

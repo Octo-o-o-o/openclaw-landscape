@@ -13,3 +13,5 @@ The official version of OpenClaw has an English interface, creating a usage barr
 - Complete installation, configuration, and troubleshooting documentation
 - Supports Docker deployment and daemon mode
 - Provides a free AI API platform (gpt.qt.cool)
+
+<!-- lastCommit: 6a7050b -->

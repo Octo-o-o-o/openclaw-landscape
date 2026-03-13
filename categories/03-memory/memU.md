@@ -17,3 +17,5 @@ Addresses two core problems of 24/7 long-running Agents: context window bloat ca
 - **memU Bot** -- Enterprise-grade OpenClaw alternative, one-click installation (< 3 minutes), open-source and self-hostable
 - **Memory as Filesystem** -- Navigate memory like browsing directories, load knowledge sources like mounting disks
 - **Portability** -- Memory can be exported, backed up, and migrated, with support for cross-Agent sharing
+
+<!-- lastCommit: 6a7050b -->

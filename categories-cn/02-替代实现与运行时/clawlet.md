@@ -14,3 +14,5 @@
 - **混合语义搜索** — BM25 + 向量检索内置，记忆查询无需外部服务
 - **灵活配置** — JSON 配置文件（`~/.clawlet/config.json`），支持环境变量和模型默认参数覆盖
 - **本地模型优先** — Ollama/vLLM 路由统一为 `ollama/<model>` 前缀，自动适配 OpenAI 兼容端点
+
+<!-- lastCommit: 6a7050b -->

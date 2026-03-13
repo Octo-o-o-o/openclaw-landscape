@@ -14,3 +14,5 @@ MimiClaw 解决了 AI Agent 运行的硬件门槛问题。传统 OpenClaw 需要
 - **本地存储**：所有数据（记忆、配置）存储在芯片 Flash 中，跨重启持久化
 - **Telegram 交互**：通过 WiFi 连接 Telegram Bot，接收指令、调用工具、返回结果
 - **两层配置系统**：编译时默认配置（`mimi_secrets.h`）+ 运行时 CLI 覆盖（NVS Flash 存储）
+
+<!-- lastCommit: 6a7050b -->

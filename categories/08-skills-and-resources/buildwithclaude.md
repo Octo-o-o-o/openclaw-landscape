@@ -12,3 +12,5 @@ The Claude Code ecosystem lacks a unified plugin discovery and distribution plat
 - 26 reusable Skills and 50 categorized plugin packages
 - Web UI with search, filtering, and one-click copy install commands
 - Integration into Claude Code via `/plugin marketplace add`
+
+<!-- lastCommit: 6a7050b -->

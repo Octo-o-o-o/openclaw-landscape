@@ -320,3 +320,5 @@ cd zeroclaw
 # Remote one-click install (review before running in production)
 curl -fsSL https://raw.githubusercontent.com/zeroclaw-labs/zeroclaw/main/install.sh | bash
 ```
+
+<!-- lastCommit: 6a7050b -->

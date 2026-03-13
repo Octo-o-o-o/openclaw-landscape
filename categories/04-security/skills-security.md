@@ -14,3 +14,5 @@ The OpenClaw ecosystem lacks a security review mechanism for skill installation.
 - **Zero-Dependency Design** -- Pure Markdown instruction modules (SKILL.md) that can be pasted into any LLM (Codex CLI / Claude Code / OpenClaw) or browser tool (UseClawPro Verifier)
 - **Guided Environment Audit** -- setup-auditor collects information through 5 questions (workspace path, host agent, permissions, sandbox, ports) and generates a customized remediation checklist
 - **Community-Driven** -- Maintained by UseClawPro (UseAI.pro), providing an online verification tool and a verified skill directory
+
+<!-- lastCommit: 6a7050b -->

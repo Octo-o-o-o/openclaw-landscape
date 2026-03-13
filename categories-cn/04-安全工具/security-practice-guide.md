@@ -507,3 +507,5 @@ class ZeroTrustMiddleware:
 3. **三层防御**：Pre-action（预防）+ In-action（执行）+ Post-action（审计）
 4. **供应链安全**：Skill 安装审计协议
 5. **行为自检**：基于 LLM 推理的命令风险分析
+
+<!-- lastCommit: 137e138 -->

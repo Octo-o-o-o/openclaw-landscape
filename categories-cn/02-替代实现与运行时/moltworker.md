@@ -405,3 +405,5 @@ moltworker 为 ClawButler 提供了以下关键启示：
 7. **资源优化**：实现 Agent 休眠/唤醒机制，降低多 Agent 场景成本
 
 这些改进将使 ClawButler 在保持企业级功能的同时，提供更灵活的部署选项和更低的运营成本。
+
+<!-- lastCommit: 137e138 -->

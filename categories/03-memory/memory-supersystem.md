@@ -14,3 +14,5 @@ OpenClaw's MEMORY.md mechanism suffers from a "brute force overload" problem: as
 - **Memory Operator** -- 92.9% accuracy CRUD operator with conflict resolution protocol (soft demotion instead of hard deletion) and false memory filtering
 - **Temporal Engine** -- TemporalQueryEngine + FactEvolutionTracker + EvidenceTracker for tracking fact evolution and evidence chains
 - **QMD Semantic Search Integration** -- Supports `qmd_search` + `router_search` hybrid retrieval, Mini-Consolidate daytime lightweight checks + pending.jsonl buffer
+
+<!-- lastCommit: 6a7050b -->

@@ -14,3 +14,5 @@ OpenClaw's single `memu.db` storage causes multi-Agent memory mixing, ambiguous 
 - **Automatic Upgrade Migration** -- Automatically migrates from the v0.2.6 single-DB layout to the v0.3.1 per-agent layout with backup-first behavior
 - **MemU Extraction Pipeline** -- Based on the upstream MemU project, extracts profiles/events/knowledge/skills/behavior signals from conversation logs and Markdown documents
 - **Zero-Dependency Startup** -- Automatically bootstraps an isolated Python environment (`python/.venv`) via `uv sync`, installing locked dependencies from `python/uv.lock`
+
+<!-- lastCommit: 6a7050b -->

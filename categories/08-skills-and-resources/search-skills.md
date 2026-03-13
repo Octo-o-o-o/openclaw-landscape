@@ -14,3 +14,5 @@ General-purpose search engines (Google/Bing) cannot meet Agents' deep research n
 - **Batch retrieval** — Supports querying multiple data sources at once with automatic deduplication, sorting, and comprehensive report generation
 - **Citation tracking** — Automatically extracts paper citation relationships to build knowledge graphs, supporting "follow-the-thread" deep research
 - **OpenClaw native integration** — Each search skill is independently packaged as a SKILL.md and can be installed on demand (e.g., `npx sundial-hub add arxiv-search`)
+
+<!-- lastCommit: 6a7050b -->

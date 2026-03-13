@@ -14,3 +14,5 @@ Moltis addresses the security and auditability issues of OpenClaw. Traditional O
 - **Auditable Architecture**: Core Agent loop ~5K LoC, 46 modular crates (~196K LoC), independently auditable, 3,100+ tests
 - **Full-featured Built-in**: Voice (15+ providers), memory, scheduling, Telegram/Discord/WhatsApp, browser automation, MCP server, Hooks (15 event types)
 - **Security by Design**: Secrets wrapped with `secrecy::Secret` (zeroed on drop), tool output sanitization, SSRF protection, Origin verification, Hook interception
+
+<!-- lastCommit: 6a7050b -->

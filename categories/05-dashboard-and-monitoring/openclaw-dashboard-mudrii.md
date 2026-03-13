@@ -34,3 +34,5 @@ Multi-Agent, multi-cron, multi-channel OpenClaw deployments lack a unified comma
 | Rate Limiting | 10 req/min | 10 req/min |
 | Tests | 122 (pytest) | 87 (go test -race) |
 | Throughput | 1,745 req/s | 2,019 req/s |
+
+<!-- lastCommit: 6a7050b -->

@@ -15,3 +15,5 @@ OpenClaw Mini 解决了"OpenClaw 架构学习门槛高"的痛点。通过从 43 
 - **长期记忆 + 技能系统 + 主动唤醒** — Memory（关键词检索 + 时间衰减）、Skills（SKILL.md frontmatter + 触发词匹配）、Heartbeat（wake 请求合并 + runner 调度）
 - **多 Provider 适配** — 基于 pi-ai，支持 Anthropic/OpenAI/Google/Groq 等 22+ 提供商
 - **工程层防护** — Session Key（多 agent 会话键规范化）、Tool Policy（三级访问控制）、Command Queue（并发 lane 控制）、Tool Result Guard（自动补齐缺失 tool_result）、Context Window Guard（上下文窗口溢出保护）
+
+<!-- lastCommit: 6a7050b -->

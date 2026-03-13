@@ -164,3 +164,5 @@ Output includes:
 
 - **Dynamic flow**: Decides whether to execute based on preceding step outputs
 - **Error handling**: Can skip or retry based on step status
+
+<!-- lastCommit: 6a7050b -->

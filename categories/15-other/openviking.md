@@ -14,3 +14,5 @@ Agent development suffers from fragmented context management (memory in code, re
 - **Automatic Session Management** — Automatically compresses conversation content, resource references, and tool calls, extracting long-term memory so the Agent gets smarter over time
 - **Multi-Language SDK** — Python/Go/Rust CLI, supports Volcengine/OpenAI/LiteLLM three VLM Providers, compatible with Anthropic/DeepSeek/Gemini/vLLM/Ollama
 - **AGFS Core Extension** — High-performance filesystem component implemented in C++, requires Go 1.22+ for building
+
+<!-- lastCommit: 6a7050b -->

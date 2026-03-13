@@ -15,3 +15,5 @@ OpenClaw Supermemory addresses the "short-term memory limitation" pain point for
 - **Slash Commands + AI Tools** -- `/remember <text>` for manual saving, `/recall <query>` for memory search; AI autonomously uses `supermemory_store`/`search`/`forget`/`profile` tools
 - **CLI Management** -- `openclaw supermemory setup` to configure API Key, `status` to view configuration, `search <query>` to search memories, `profile` to view user profiles, `wipe` to delete all memories
 - **Flexible Configuration** -- Supports environment variables (`SUPERMEMORY_OPENCLAW_API_KEY`) or `~/.openclaw/openclaw.json` configuration, with adjustable recall count, profile injection frequency, capture mode, and more
+
+<!-- lastCommit: 6a7050b -->

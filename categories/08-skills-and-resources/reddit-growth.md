@@ -14,3 +14,5 @@ Newly registered Reddit accounts that directly post marketing content are quickl
 - **Target subreddit configuration** — Supports custom target community lists, focusing on vertical domains where the target audience resides
 - **Karma tracking** — Automatically records daily karma growth, ensuring the account reaches the "marketable" threshold before switching strategies
 - **OpenClaw integration** — As a standard SKILL.md skill, it can be combined with other marketing skills (such as outreach-skill)
+
+<!-- lastCommit: 6a7050b -->

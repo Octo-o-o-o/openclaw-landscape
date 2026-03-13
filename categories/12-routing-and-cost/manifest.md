@@ -14,3 +14,5 @@ OpenClaw sends all requests to the same model, wasting cost by invoking large mo
 - **Zero-Code Installation** — OpenClaw plugin one-click install, no code modifications needed, automatically intercepts requests and routes them
 - **Privacy-First Architecture** — Cloud mode's blind proxy is physically unable to read prompts (fundamentally different from "trust us" services); Local mode data never leaves the device
 - **Anonymous Product Analytics** — Only collects hashed machine ID, OS platform, package version, and event name; can be disabled via `MANIFEST_TELEMETRY_OPTOUT=1` or config file
+
+<!-- lastCommit: 6a7050b -->

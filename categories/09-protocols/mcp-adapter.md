@@ -14,3 +14,5 @@ Tools provided by MCP (Model Context Protocol) servers cannot be directly invoke
 - **Sandbox Integration** — Supports adding MCP tools to the sandbox tool whitelist for fine-grained permission control
 - **Environment Variable Substitution** — Supports `${VAR}` syntax in configuration for referencing environment variables, enabling secure API key management
 - **TypeScript Implementation** — Built with TypeScript, providing type safety and a good developer experience
+
+<!-- lastCommit: 6a7050b -->

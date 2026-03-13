@@ -13,3 +13,5 @@ OpenClaw lacks WeChat connectivity, unable to cover the primary communication pl
 - Webhook configuration for cloud server deployment
 - Supports iPad and Mac device types
 - Stable connection through proxy service (proxyUrl)
+
+<!-- lastCommit: 6a7050b -->

@@ -17,3 +17,5 @@
 - **Pending Reply 重试** — WebSocket 断连后自动通过 Agent API 补发未送达回复
 - **Reasoning 流式节流** — 800ms 节流防止 SDK 队列溢出
 - **入站增强** — 图文混排拆解、语音转写、引用消息上下文透传、消息去重（reqId + msgId）
+
+<!-- lastCommit: 6a7050b -->

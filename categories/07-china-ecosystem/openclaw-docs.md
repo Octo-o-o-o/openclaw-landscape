@@ -279,3 +279,5 @@ files.forEach(file => {
   writeFileSync(file.replace('.mdx', '.md'), content);
 });
 ```
+
+<!-- lastCommit: 6a7050b -->

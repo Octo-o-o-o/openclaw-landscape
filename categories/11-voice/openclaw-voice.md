@@ -13,3 +13,5 @@ AI assistants lack an open-source, self-hosted, privacy-first voice interaction 
 - Any AI backend (OpenAI, Claude, or full OpenClaw Agent + memory + tools)
 - Browser-based (no app installation required, works on both desktop and mobile)
 - Continuous mode (hands-free conversation, automatically listens after each response)
+
+<!-- lastCommit: 6a7050b -->

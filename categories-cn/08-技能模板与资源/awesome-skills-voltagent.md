@@ -196,3 +196,5 @@ VoltAgent/awesome-openclaw-skills 是 OpenClaw 生态的重要基础设施，通
 5. **自动化场景** — Runbook 模板、工作流编排
 
 ClawButler 可以借鉴其设计理念，构建跨平台的"Agent Capability Marketplace"，成为异构 Agent 生态的统一能力层。
+
+<!-- lastCommit: 137e138 -->

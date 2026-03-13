@@ -16,3 +16,5 @@ ClawSec addresses the lack of security protection in AI Agent cognitive architec
 - **Health Checks** -- Automatic updates and integrity verification for all installed skills
 - **NanoClaw Platform Support** -- Containerized WhatsApp bot security, MCP tools providing advisory monitoring, signature verification, and file integrity checks
 - **Cross-Platform Shell Compatibility** -- POSIX shell workflows (Linux/macOS) + PowerShell support (Windows), with explicit home variable expansion rules
+
+<!-- lastCommit: 6a7050b -->

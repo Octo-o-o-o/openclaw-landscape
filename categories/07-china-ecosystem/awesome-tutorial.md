@@ -265,3 +265,5 @@ The tutorial provides an OpenClaw management tool (`openclaw-manager/`) for:
 - **Configuration management**: Graphical configuration editor
 - **Version management**: Version checking, upgrading, and rollback
 - **Health checks**: Service status monitoring and log viewing
+
+<!-- lastCommit: 6a7050b -->

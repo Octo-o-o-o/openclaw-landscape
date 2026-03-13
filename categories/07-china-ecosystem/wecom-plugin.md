@@ -17,3 +17,5 @@ Integrating WeCom (Enterprise WeChat) with OpenClaw requires handling enterprise
 - **Pending Reply retry** — Automatically retries undelivered replies via Agent API after WebSocket disconnection
 - **Reasoning stream throttling** — 800ms throttle to prevent SDK queue overflow
 - **Inbound enhancement** — Rich text decomposition, voice transcription, quoted message context pass-through, message deduplication (reqId + msgId)
+
+<!-- lastCommit: 6a7050b -->

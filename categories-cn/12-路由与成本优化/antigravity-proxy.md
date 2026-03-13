@@ -14,3 +14,5 @@ Antigravity-Claude-Proxy 解决了 Claude/Gemini 模型在 OpenClaw/Claude Code 
 - **Web Dashboard**：提供 Web UI 管理账号、查看健康状态、手动授权（支持无头服务器）
 - **后台运行**：作为后台进程运行，支持 start/stop/restart/status 命令，默认端口 8080
 - **ToS 风险警告**：明确警告 Google ToS 违规风险，建议使用小号而非主账号
+
+<!-- lastCommit: 6a7050b -->

@@ -13,3 +13,5 @@ OpenClaw does not officially provide Docker images, requiring users to manually 
 - Persistent storage: single /data volume stores configuration and user data, supporting cross-container migration
 - Two-layer Docker build: base image (built from source) + final image (adds nginx + configuration scripts), accelerating builds
 - Smoke testing: automatically verifies `openclaw --version` after build
+
+<!-- lastCommit: 6a7050b -->

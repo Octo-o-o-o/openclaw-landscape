@@ -277,3 +277,5 @@ SamurAIGPT/awesome-openclaw 是一个**社区资源的集大成者**，其价值
 4. **社区驱动**：接受社区贡献，共同维护
 
 ClawButler 可以借鉴其**分类体系**、**表格展示**、**安全资源**、**FAQ**等设计，创建 `docs/awesome-clawbutler.md`，汇聚 ClawButler 生态的所有资源，降低用户发现成本，促进社区发展。
+
+<!-- lastCommit: 137e138 -->

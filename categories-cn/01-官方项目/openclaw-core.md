@@ -178,3 +178,5 @@ OpenClaw 支持在单个 Gateway 进程中运行多个隔离的 Agent，每个 A
 - 最小化技能注册表
 - Agent 可自动搜索和拉取新技能
 - 社区技能发布平台
+
+<!-- lastCommit: 137e138 -->
