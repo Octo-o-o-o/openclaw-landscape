@@ -71,7 +71,7 @@ OpenClaw 作为强大的 AI Agent 平台，存在以下痛点：
 
 ---
 
-### OpenClaw 101 — 7天学习路径与资源聚合站
+### OpenClaw 101
 
 [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) | Stars: 2,011 | TypeScript
 Researched: 2026-03-11 | Updated: 2026-03-13

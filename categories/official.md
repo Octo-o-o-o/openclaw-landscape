@@ -7,7 +7,7 @@
 
 ---
 
-### openclaw/openclaw — OpenClaw 主项目
+### OpenClaw
 
 [openclaw/openclaw](https://github.com/openclaw/openclaw) | Stars: 299,704 | TypeScript (ESM)，严格类型检查 | MIT
 Researched: 2026-03-11 | Updated: 2026-03-13

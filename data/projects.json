@@ -1,7 +1,7 @@
 [
   {
     "repo": "openclaw/openclaw",
-    "name": "openclaw/openclaw — OpenClaw 主项目",
+    "name": "OpenClaw",
     "category": "official",
     "stars": 299704,
     "language": "TypeScript (ESM)，严格类型检查",
@@ -901,7 +901,7 @@
   },
   {
     "repo": "abhi1693/mission-control",
-    "name": "OpenClaw Mission Control — Agent 编排与治理控制平面",
+    "name": "OpenClaw Mission Control",
     "category": "dashboard-and-monitoring",
     "stars": 1957,
     "language": "",
@@ -1193,7 +1193,7 @@
   },
   {
     "repo": "miaoxworld/OpenClawInstaller",
-    "name": "OpenClawInstaller - OpenClaw 一键部署工具",
+    "name": "OpenClawInstaller",
     "category": "deployment",
     "stars": 2978,
     "language": "Node.js",
@@ -1429,7 +1429,7 @@
   },
   {
     "repo": "mengjian-github/openclaw101",
-    "name": "OpenClaw 101 — 7天学习路径与资源聚合站",
+    "name": "OpenClaw 101",
     "category": "china-ecosystem",
     "stars": 2011,
     "language": "TypeScript",
@@ -1737,7 +1737,7 @@
   },
   {
     "repo": "SumeLabs/clawra",
-    "name": "Clawra — OpenClaw Selfie 技能与 npx 一键安装",
+    "name": "Clawra",
     "category": "skills-and-resources",
     "stars": 2008,
     "language": "",
@@ -2304,7 +2304,7 @@
   },
   {
     "repo": "cft0808/edict",
-    "name": "Edict 三省六部",
+    "name": "Edict",
     "category": "orchestration",
     "stars": 7636,
     "language": "Python",

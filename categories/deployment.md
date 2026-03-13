@@ -7,7 +7,7 @@
 
 ---
 
-### OpenClawInstaller - OpenClaw 一键部署工具
+### OpenClawInstaller
 
 [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) | Stars: 2,978 | Node.js
 Researched: 2026-03-11 | Updated: 2026-03-13

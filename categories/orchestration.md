@@ -18,7 +18,7 @@ Researched: 2026-03-11 | Updated: 2026-03-13
 
 ---
 
-### Edict 三省六部
+### Edict
 
 [cft0808/edict](https://github.com/cft0808/edict) | Stars: 7,636 | Python
 Researched: 2026-03-11 | Updated: 2026-03-13

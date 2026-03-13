@@ -6,6 +6,7 @@ Usage:
 """
 
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -140,6 +141,19 @@ CATEGORY_META = {
 }
 
 
+def clean_name_en(name: str) -> str:
+    """Strip Chinese characters and trailing separators from project name for English display."""
+    # Remove Chinese characters and surrounding whitespace
+    name = re.sub(r"[\u4e00-\u9fff]+", "", name)
+    # Clean up leftover separators (—, -, :) at the end
+    name = re.sub(r"\s*[—\-:：]\s*$", "", name)
+    # Clean up leading separators
+    name = re.sub(r"^\s*[—\-:：]\s*", "", name)
+    # Collapse multiple spaces
+    name = re.sub(r"\s{2,}", " ", name).strip()
+    return name or "Unnamed"
+
+
 def format_stars(n: int) -> str:
     if n >= 1000:
         return f"{n / 1000:.1f}k".rstrip("0").rstrip(".")  + "k" if n < 10000 else f"{n / 1000:.0f}k"
@@ -222,7 +236,7 @@ def generate_readme(projects: list[dict]) -> str:
         # Find top project
         cat_projects = [p for p in projects if p["category"] == cat]
         top = cat_projects[0] if cat_projects else None
-        top_str = f"[{top['name']}](https://github.com/{top['repo']}) ({format_stars_display(top['stars'])})" if top else "-"
+        top_str = f"[{clean_name_en(top['name'])}](https://github.com/{top['repo']}) ({format_stars_display(top['stars'])})" if top else "-"
         lines.append(f"| [{meta['name_en']}](categories/{cat}.md) | {count} | {top_str} |")
 
     lines.extend([
@@ -240,7 +254,7 @@ def generate_readme(projects: list[dict]) -> str:
         cat_meta = CATEGORY_META.get(p["category"], {})
         cat_name = cat_meta.get("name_en", p["category"])
         lines.append(
-            f"| {i} | [{p['name']}](https://github.com/{p['repo']}) | {format_stars_display(p['stars'])} | {cat_name} |"
+            f"| {i} | [{clean_name_en(p['name'])}](https://github.com/{p['repo']}) | {format_stars_display(p['stars'])} | {cat_name} |"
         )
 
     lines.extend([

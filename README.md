@@ -10,12 +10,12 @@ Total stars tracked: **640,800**
 
 | Category | Projects | Top Project |
 |----------|----------|-------------|
-| [Official](categories/official.md) | 6 | [openclaw/openclaw — OpenClaw 主项目](https://github.com/openclaw/openclaw) (299,704) |
+| [Official](categories/official.md) | 6 | [OpenClaw](https://github.com/openclaw/openclaw) (299,704) |
 | [Alternative Runtimes](categories/runtime.md) | 18 | [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) (25,853) |
 | [Memory Systems](categories/memory.md) | 11 | [memU](https://github.com/NevaMind-AI/memU) (12,811) |
 | [Security Tools](categories/security.md) | 7 | [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) (3,124) |
 | [Dashboards & Monitoring](categories/dashboard-and-monitoring.md) | 17 | [Star Office UI](https://github.com/ringhyacinth/Star-Office-UI) (4,092) |
-| [Deployment Tools](categories/deployment.md) | 6 | [OpenClawInstaller - OpenClaw 一键部署工具](https://github.com/miaoxworld/OpenClawInstaller) (2,978) |
+| [Deployment Tools](categories/deployment.md) | 6 | [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) (2,978) |
 | [China Ecosystem](categories/china-ecosystem.md) | 19 | [Clawdbot-Feishu](https://github.com/m1heng/clawdbot-feishu) (4,189) |
 | [Skills & Resources](categories/skills-and-resources.md) | 15 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-skills) (34,631) |
 | [Protocols (A2A / MCP / ACP)](categories/protocols.md) | 4 | [openclaw-a2a-gateway](https://github.com/win4r/a2a-gateway) (162) |
@@ -32,7 +32,7 @@ Total stars tracked: **640,800**
 
 | # | Project | Stars | Category |
 |---|---------|-------|----------|
-| 1 | [openclaw/openclaw — OpenClaw 主项目](https://github.com/openclaw/openclaw) | 299,704 | Official |
+| 1 | [OpenClaw](https://github.com/openclaw/openclaw) | 299,704 | Official |
 | 2 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-skills) | 34,631 | Skills & Resources |
 | 3 | [nanobot](https://github.com/HKUDS/nanobot) | 32,020 | Other |
 | 4 | [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) | 25,853 | Alternative Runtimes |
@@ -43,7 +43,7 @@ Total stars tracked: **640,800**
 | 9 | [memU](https://github.com/NevaMind-AI/memU) | 12,811 | Memory Systems |
 | 10 | [cloudflare/moltworker](https://github.com/cloudflare/moltworker) | 9,558 | Alternative Runtimes |
 | 11 | [IronClaw](https://github.com/nearai/ironclaw) | 9,101 | Alternative Runtimes |
-| 12 | [Edict 三省六部](https://github.com/cft0808/edict) | 7,636 | Multi-Agent Orchestration |
+| 12 | [Edict](https://github.com/cft0808/edict) | 7,636 | Multi-Agent Orchestration |
 | 13 | [ClawWork: OpenClaw as Your AI Coworker](https://github.com/HKUDS/ClawWork) | 6,988 | Multi-Agent Orchestration |
 | 14 | [OpenViking](https://github.com/volcengine/OpenViking) | 5,671 | Other |
 | 15 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 5,352 | LLM Routing & Cost Optimization |

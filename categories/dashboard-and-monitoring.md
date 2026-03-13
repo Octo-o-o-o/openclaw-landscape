@@ -29,7 +29,7 @@ Researched: 2026-03-11 | Updated: 2026-03-13
 
 ---
 
-### OpenClaw Mission Control — Agent 编排与治理控制平面
+### OpenClaw Mission Control
 
 [abhi1693/mission-control](https://github.com/abhi1693/mission-control) | Stars: 1,957
 Researched: 2026-03-11 | Updated: 2026-03-13
