@@ -1,5 +1,22 @@
 # Update Log
 
+## 2026-03-14 (Morning)
+
+### Updated Projects
+- **OpenClawInstaller** (06-deployment): Stars 3070; [uninstall openclaw]
+- **openclaw-helm** (06-deployment): Stars 156; [chore: bump openclaw to 2026.3.12]
+- **openclaw-docker** (06-deployment): Stars 545; [Update OpenClaw version tracker to v2026.3.12]
+- *(Note: Processed batch of 3 projects, other changes skipped due to rate limits)*
+
+### New Projects Added
+- **openclaw-manager** (05-dashboard-and-monitoring, 1219 stars): A GUI manager for OpenClaw that helps users manage instances and skills.
+- **awesome-openclaw-skills-zh** (07-china-ecosystem, 3128 stars): OpenClaw 中文官方技能库, translated from Clawdbot's official skills.
+
+### Stats
+- Projects scanned: ~95
+- Updates found: 3 processed
+- New projects added: 2
+
 ## 2026-03-13
 
 ### Initial Release (139)

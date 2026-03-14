@@ -1,6 +1,6 @@
 > https://github.com/phioranex/openclaw-docker
 
-# phioranex/openclaw-docker (528 stars)
+# openclaw-docker (545 stars)
 
 ## Problem and Solution
 
@@ -15,4 +15,8 @@ OpenClaw officially requires building from source, with complex dependency manag
 - **Docker Compose Integration** -- Provides `docker-compose.yml` template for simplified multi-container orchestration
 - **Persistent Volume Mapping** -- `~/.openclaw` configuration and `~/.openclaw/workspace` workspace automatically mounted
 
-<!-- lastCommit: 6a7050b -->
+## Recent Updates
+
+- ac13a03: Update OpenClaw version tracker to v2026.3.12
+
+<!-- lastCommit: ac13a030343b0cd4dd1e5070560698b8e175db52 -->

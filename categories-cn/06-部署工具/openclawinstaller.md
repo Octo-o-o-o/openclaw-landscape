@@ -497,4 +497,8 @@ OpenClawInstaller 最值得 ClawButler 借鉴的三个核心设计：
 
 这些功能可以显著提升 ClawButler 的用户体验，特别是对于非技术用户和企业部署场景。
 
-<!-- lastCommit: 137e138 -->
+## 最近更新
+
+- 0d5e1a0: uninstall openclaw
+
+<!-- lastCommit: 0d5e1a04420c71cea04858f04c11e623c17d516e -->

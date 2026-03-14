@@ -1,6 +1,6 @@
 > https://github.com/serhanekicii/openclaw-helm
 
-# openclaw-helm (149 stars)
+# openclaw-helm (156 stars)
 
 ## Problem and Solution
 
@@ -15,4 +15,8 @@ OpenClaw does not officially provide a Kubernetes deployment solution, requiring
 - **Private Image Support** -- Supports custom `image.repository` and `image.tag`, compatible with enterprise internal image registries
 - **Artifact Hub Publication** -- Hosted on the official Helm repository, installable via `helm repo add`
 
-<!-- lastCommit: 6a7050b -->
+## Recent Updates
+
+- 0ad6285: chore: bump openclaw to 2026.3.12
+
+<!-- lastCommit: 0ad6285e62b3df1bf5cca56f5185b3667d977cc1 -->

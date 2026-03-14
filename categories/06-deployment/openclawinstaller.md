@@ -289,4 +289,8 @@ services:
 
 Optional integration with Ollama local model service.
 
-<!-- lastCommit: 6a7050b -->
+## Recent Updates
+
+- 0d5e1a0: uninstall openclaw
+
+<!-- lastCommit: 0d5e1a04420c71cea04858f04c11e623c17d516e -->
