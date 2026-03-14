@@ -14,4 +14,4 @@ OpenClaw lacks WeChat connectivity, unable to cover the primary communication pl
 - Supports iPad and Mac device types
 - Stable connection through proxy service (proxyUrl)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: b8e3b4c -->

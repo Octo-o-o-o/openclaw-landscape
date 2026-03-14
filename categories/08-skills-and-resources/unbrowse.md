@@ -13,4 +13,4 @@ When Agents access websites, they need to manually write API call code, which is
 - Background validation loop (executes safe GET endpoints every 6 hours, detecting failures and schema drift)
 - Local execution (credentials stay local; only learned API contracts are published)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: f909c15 -->

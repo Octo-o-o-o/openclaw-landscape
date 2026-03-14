@@ -13,4 +13,4 @@ OpenClaw Agents running on remote servers lack observability -- users cannot und
 - **Workspace File Browser** — File browser with markdown preview, syntax highlighting, and download support
 - **Skill Manager** — View all bundled/workspace skills, enable/disable, and create custom skills
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 53ddd18 -->

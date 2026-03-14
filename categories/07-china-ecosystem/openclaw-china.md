@@ -123,4 +123,4 @@ OpenClaw Host
 - **Fixed delivery.channel/to/accountId**: Reminder-type tasks don't cross sessions
 - **Cron creation prompt**: Explicitly requires execution period constraints to be written into payload.message (plain text only, no tool calls, no manual sends)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: c231523 -->

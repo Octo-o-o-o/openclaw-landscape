@@ -16,4 +16,4 @@ Crabwalk addresses the pain point of OpenClaw Agent runtime being a "black box w
 - **CLI + Docker Dual Mode** — Native CLI (`crabwalk start --daemon`) or Docker deployment (`docker run -p 3000:3000`), auto-detects Gateway token (`~/.openclaw/openclaw.json`)
 - **QR Code Quick Access** — Displays a QR code on startup; scan with your phone to open the monitoring interface (requires `qrencode`)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: ea99ca9 -->

@@ -15,4 +15,4 @@ N8N 提供强大的工作流自动化但缺乏 AI Agent 能力，OpenClaw 提供
 - **多模型支持** — 集成 OpenAI、Claude、Gemini、Groq 及 200+ OpenRouter 模型，支持模型切换和成本优化
 - **实时监控** — Team Monitor 可视化展示 Agent 团队的实时操作状态和任务流转
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 6ff1a71 -->

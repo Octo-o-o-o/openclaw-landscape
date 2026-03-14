@@ -15,4 +15,4 @@
 - **环境变量配置** — 必需 `DINGTALK_MCP_URL`（MCP 服务地址）、推荐 `OPENCLAW_WORKSPACE`（文件沙箱根目录），支持 `mcporter` 二进制调用
 - **错误码文档** — 提供 `error-codes.md` 详细排查指南，覆盖认证失败、权限不足、参数错误等常见问题
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: d582892 -->

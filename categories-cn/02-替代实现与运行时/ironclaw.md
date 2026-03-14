@@ -23,4 +23,4 @@
 - 持久化内存：PostgreSQL + pgvector，混合搜索
 - 并行任务：多请求并发处理，隔离上下文
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: f9b880c -->

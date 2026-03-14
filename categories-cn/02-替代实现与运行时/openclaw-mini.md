@@ -16,4 +16,4 @@ OpenClaw Mini 解决了"OpenClaw 架构学习门槛高"的痛点。通过从 43 
 - **多 Provider 适配** — 基于 pi-ai，支持 Anthropic/OpenAI/Google/Groq 等 22+ 提供商
 - **工程层防护** — Session Key（多 agent 会话键规范化）、Tool Policy（三级访问控制）、Command Queue（并发 lane 控制）、Tool Result Guard（自动补齐缺失 tool_result）、Context Window Guard（上下文窗口溢出保护）
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 662d02c -->

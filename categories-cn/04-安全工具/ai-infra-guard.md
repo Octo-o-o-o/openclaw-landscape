@@ -15,4 +15,4 @@ AI-Infra-Guard 解决了 AI 基础设施和 Agent 生态的安全风险问题。
 - **企业级部署**：Docker 一键部署，Web UI + API，支持内网自查，无需公网暴露
 - **BlackHat EU 2025 Arsenal**：入选 BlackHat 兵器谱，行业认可度高
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 8295892 -->

@@ -207,4 +207,4 @@ OpenIM is a mature open-source IM solution whose architectural design and engine
 5. **Observability** — Comprehensive monitoring and alerting for operations and troubleshooting
 6. **Permission management** — Multi-tenant permission isolation with fine-grained access control
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 942d155 -->

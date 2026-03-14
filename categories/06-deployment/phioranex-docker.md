@@ -19,4 +19,4 @@ OpenClaw officially requires building from source, with complex dependency manag
 
 - ac13a03: Update OpenClaw version tracker to v2026.3.12
 
-<!-- lastCommit: ac13a030343b0cd4dd1e5070560698b8e175db52 -->
+<!-- lastCommit: bb008d1271be38710b31c5a431ebc7894d11ffc2 -->

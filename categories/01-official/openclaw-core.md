@@ -179,4 +179,4 @@ OpenClaw supports running multiple isolated Agents within a single Gateway proce
 - Agents can automatically search and pull new skills
 - Community skill publishing platform
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 2fad7b8 -->

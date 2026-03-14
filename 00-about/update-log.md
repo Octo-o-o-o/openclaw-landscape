@@ -1,3 +1,18 @@
+## 2026-03-14 (Evening)
+
+### Updated Projects
+- Checked 142 projects for recent commits.
+- Updated 103 projects with the latest commit analysis and stats in the research pages.
+
+### New Projects Added
+- **openclaw-lark** (07-china-ecosystem, 884 stars): Official Feishu/Lark channel plugin by LarkSuite for OpenClaw.
+- **openclaw-qqbot** (07-china-ecosystem, 151 stars): QQ Bot Channel Plugin for OpenClaw.
+
+### Stats
+- Projects scanned: 142
+- Updates found: 103
+- New projects added: 2
+
 # Update Log
 
 ## 2026-03-14 (Morning)

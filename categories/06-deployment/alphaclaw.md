@@ -17,4 +17,4 @@ OpenClaw deployment and operations suffer from complex configuration, manual cra
 - **File Explorer** -- Browser-based file explorer supporting file visibility, inline editing, diff views, and Git-aware synchronization
 - **Google Workspace OAuth** -- Gmail/Calendar/Drive/Docs/Sheets/Tasks/Contacts/Meet integration, Gmail watch + Google Pub/Sub push endpoint handling
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 82223b3 -->

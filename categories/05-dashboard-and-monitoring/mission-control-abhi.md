@@ -377,4 +377,4 @@ class Approval:
 
 OpenClaw Mission Control is an excellent **Agent orchestration and governance control plane**. Through its unified Web UI and API, approval-driven governance, Gateway-aware orchestration, and activity history with audit trails, it provides a complete operations solution for enterprise-grade OpenClaw deployments.
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 010bac0 -->

@@ -18,4 +18,4 @@ OpenClaw Multi-Agent systems lack a visual collaborative monitoring interface, m
 - **i18n** — Chinese and English bilingual support with runtime language switching
 - **Mock Mode** — Development without requiring a Gateway connection
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 801528c -->

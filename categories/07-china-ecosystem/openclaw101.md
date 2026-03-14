@@ -151,4 +151,4 @@ Focuses on curating one-click cloud deployment tutorials:
 - Clear contribution guidelines (how to add new resources)
 - Issue tracking and feature suggestions
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 1d3a9c3 -->

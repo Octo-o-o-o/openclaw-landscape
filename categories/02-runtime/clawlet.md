@@ -15,4 +15,4 @@ Traditional AI assistants rely on complex runtimes (Node.js/Python) and external
 - **Flexible Configuration** — JSON configuration file (`~/.clawlet/config.json`), supports environment variables and model default parameter overrides
 - **Local Models First** — Ollama/vLLM routes unified under the `ollama/<model>` prefix, automatically adapting to OpenAI-compatible endpoints
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 8a9367d -->

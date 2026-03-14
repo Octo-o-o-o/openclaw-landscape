@@ -15,4 +15,4 @@
 - **FangHub 扩展生态** — 用户可定义自己的 HAND.toml 并发布到 FangHub，类似 Docker Hub 的 Agent 能力市场
 - **跨平台支持** — macOS/Linux/Windows 一键安装脚本，Dashboard 默认运行在 localhost:4200
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: d55e1b8 -->

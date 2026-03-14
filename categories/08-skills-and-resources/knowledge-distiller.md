@@ -15,4 +15,4 @@ Researchers and students need to quickly digest large volumes of video content (
 - **MCP Server integration** — Can be invoked from Claude Code, OpenClaw, or any MCP-compatible Agent for automated video processing
 - **Multiple AI providers** — Supports Google Gemini (default), OpenAI, and Anthropic, switchable via `--provider` and `--model` parameters
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 21ab8d2 -->

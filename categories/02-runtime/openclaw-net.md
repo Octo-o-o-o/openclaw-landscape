@@ -13,4 +13,4 @@ OpenClaw is natively based on Node.js/TypeScript and lacks native support in the
 - **18+ Native Tools** — File operations, shell execution, web search, and more implemented natively in C#, with better performance than Node.js bridging
 - **Hardened Security Configuration** — Provides dev/staging/prod three-tier security configuration templates, supports `--doctor` mode for configuration validation
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 36e486c -->

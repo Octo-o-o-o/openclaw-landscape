@@ -15,4 +15,4 @@ Clawdbot-Feishu 解决了 OpenClaw 在企业协作场景的接入问题。通过
 - **中文社区支持**：Wiki 提供配置教程、常见问题、使用技巧，Discussions 提供社区支持
 - **结构化反馈**：Issue Form 模板 + Discussions 分流，提升问题解决效率
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 85076e1 -->

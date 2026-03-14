@@ -15,4 +15,4 @@ Traditional AI assistants require server infrastructure (databases, filesystems,
 - **PWA Offline Capability** — Service Worker caching, task queue retained after tab closure
 - **Cron Scheduler** — In-browser cron expression parsing and task triggering
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 19be222 -->

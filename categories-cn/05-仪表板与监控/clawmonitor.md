@@ -48,4 +48,4 @@ clawmonitor report     # 生成会话报告
 4. **ClawHub 集成**：提供 `skills/claw-monitor/` 目录，可作为 OpenClaw skill 使用
 5. **IM 感知**：检测 Telegram 线程绑定路由（`BOUND_OTHER` 标记）
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 3f12c1f -->

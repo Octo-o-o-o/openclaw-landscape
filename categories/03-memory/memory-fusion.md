@@ -15,4 +15,4 @@ OpenClaw's memory capability relies on the model voluntarily writing to memory -
 - **A' Rolling Zone** -- Daily maintains `MEMORY.md#Recent Important Updates (Rolling 7 Days)` (<= 30 entries), weekly promotes long-term valid content to formal categories
 - **Operations-Ready Design** -- Lock mechanism (prevents concurrent overwrites) + weekly gate (at least one success per week) + Telegram notification panel (unified `events/updated/coverage` format)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 2282706 -->

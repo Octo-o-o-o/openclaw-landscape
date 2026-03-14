@@ -15,4 +15,4 @@ N8N provides powerful workflow automation but lacks AI Agent capabilities; OpenC
 - **Multi-Model Support** — Integrates OpenAI, Claude, Gemini, Groq, and 200+ OpenRouter models with model switching and cost optimization
 - **Real-Time Monitoring** — Team Monitor visualizes the real-time operational status and task flow of Agent teams
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 6ff1a71 -->

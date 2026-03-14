@@ -14,4 +14,4 @@ Users need 24/7 available AI assistants but lack cross-platform messaging access
 - Supports both Claude Code and Opencode as AI providers
 - Interactive CLI menu: terminal chat, gateway startup, adapter configuration, etc.
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 70806a7 -->

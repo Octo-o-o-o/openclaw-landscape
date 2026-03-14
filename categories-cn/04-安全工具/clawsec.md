@@ -17,4 +17,4 @@ ClawSec 解决了 AI Agent 认知架构"安全防护缺失"的痛点。通过完
 - **NanoClaw 平台支持** — 容器化 WhatsApp bot 安全，MCP 工具提供公告监控、签名验证、文件完整性检查
 - **跨平台 Shell 兼容** — POSIX shell 工作流（Linux/macOS）+ PowerShell 支持（Windows），明确 home 变量展开规则
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 277c0ab -->

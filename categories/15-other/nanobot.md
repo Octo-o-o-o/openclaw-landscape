@@ -21,4 +21,4 @@ OpenClaw is powerful but has complex code (tens of thousands of lines), making i
 - Security hardening: Session isolation, input validation, path traversal protection, config encryption
 - Research-friendly: Clean, readable code that's easy to understand and modify
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 61f0923 -->

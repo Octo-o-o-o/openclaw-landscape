@@ -263,4 +263,4 @@ ClawHub is critical infrastructure for the OpenClaw ecosystem, solving the probl
 4. **Semantic search**: Vector search improves discoverability
 5. **Community-driven**: Open publishing platform + moderation mechanisms
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 674ca01 -->

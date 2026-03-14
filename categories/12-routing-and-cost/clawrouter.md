@@ -15,4 +15,4 @@ OpenClaw sends all requests to the same model, wasting cost by invoking large mo
 - **x402 Non-Custodial Payments** — USDC Hackathon Agentic Commerce award winner, Base/Solana on-chain micropayments, users hold their own private keys, $5 supports thousands of requests
 - **OpenClaw Plugin** — One-click install `curl -fsSL https://blockrun.ai/ClawRouter-update | bash`, automatically replaces the default model with `blockrun/auto`
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 699a190 -->

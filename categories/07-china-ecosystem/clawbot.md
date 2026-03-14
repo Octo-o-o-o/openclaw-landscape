@@ -137,4 +137,4 @@ cat ~/.clawdbot/clawdbot.json | jq '.models'
 cat ~/.clawdbot/agents/main/agent/auth-profiles.json | jq '.'
 ```
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: e73c871 -->

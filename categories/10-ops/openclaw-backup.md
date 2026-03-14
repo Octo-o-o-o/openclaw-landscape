@@ -13,4 +13,4 @@ OpenClaw instance migration and backup lack a standardized solution, requiring u
 - Security measures: backup files chmod 600, HTTP server enforces token authentication
 - Powered by MyClaw.ai, published on ClawHub
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: a05a80d -->

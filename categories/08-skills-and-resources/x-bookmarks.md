@@ -15,4 +15,4 @@ X/Twitter's bookmark feature lacks export and bulk management capabilities, prev
 - **Incremental sync** — Supports exporting only newly added bookmarks, avoiding reprocessing of already exported content
 - **Privacy protection** — Runs locally without uploading bookmark data to third-party servers
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: acf1860 -->

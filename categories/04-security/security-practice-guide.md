@@ -303,4 +303,4 @@ A dedicated adversarial exercise guide (`Validation-Guide-en.md` / `Validation-G
 4. **Supply Chain Security**: Skill installation audit protocol
 5. **Behavioral Self-Inspection**: Command risk analysis based on LLM reasoning
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: bd3e79e -->

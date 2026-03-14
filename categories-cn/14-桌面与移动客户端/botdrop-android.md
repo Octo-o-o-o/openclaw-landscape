@@ -16,4 +16,4 @@
 - **基于 Termux** — 提供 Linux 环境运行 Node.js 的 AI Agent
 - **Crashlytics 集成** — Firebase Crashlytics 崩溃报告（可选，构建时配置）
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: a054698 -->

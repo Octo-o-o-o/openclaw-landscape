@@ -41,4 +41,4 @@ A lightweight web dashboard for viewing all OpenClaw Bot/Agent/model/session sta
 - OpenClaw installed with configuration file at `~/.openclaw/openclaw.json`
 - Docker deployment supported
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 6e5e862 -->

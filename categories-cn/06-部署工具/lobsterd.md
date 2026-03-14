@@ -14,4 +14,4 @@
 - **REST API** — `buoy` 命令启动 HTTP 服务器，镜像 CLI 功能，支持 Bearer token 认证
 - **Tailscale 集成** — 默认通过 Tailscale Serve 提供远程访问（端口 8443）
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 033c6df -->

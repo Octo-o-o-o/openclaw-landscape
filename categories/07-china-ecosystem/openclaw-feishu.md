@@ -15,4 +15,4 @@ Feishu (Lark) users face pain points when connecting to OpenClaw, including comp
 - **Migration guide** — Complete steps for migrating from HTTP callback mode to WebSocket long connection
 - **Advanced configuration reference** — Configuration examples for advanced features including Bitable (multi-dimensional tables), calendar scheduling, task management, and knowledge base
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 2929294 -->

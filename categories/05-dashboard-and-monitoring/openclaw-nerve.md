@@ -13,4 +13,4 @@ OpenClaw Agent messaging channels (Telegram, WhatsApp, Discord) cannot provide a
 - Real-time charts (TradingView charts, candlestick charts, data visualization embedded directly in conversations)
 - Cron scheduling (create scheduled tasks and one-time reminders from the UI)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: d85acd7 -->

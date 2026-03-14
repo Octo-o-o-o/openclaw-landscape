@@ -312,4 +312,4 @@ The system will:
 - Best models earn $19K+ in 8 hours
 - Huge cost efficiency variance: ATIC-DEEPSEEK costs only $3.52, while Gemini 3.1 Pro costs $105.76
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 9c73ac0 -->

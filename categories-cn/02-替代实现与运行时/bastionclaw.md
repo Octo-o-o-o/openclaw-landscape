@@ -15,4 +15,4 @@ OpenClaw 的 52+ 模块、45+ 依赖、应用级安全（allowlists/pairing code
 - **语义记忆 + 洞察引擎** — 混合搜索（BM25 + 向量嵌入）+ GGUF 本地模型，Data-to-Wisdom 管道（YouTube/文章/PDF → 提取洞察 → 语义去重 → 浮现模式）
 - **Agent Swarm 身份** — Discord 上每个 subagent 通过 webhook 获得独立用户名和头像，Telegram 上每个 subagent 获得独立 bot 身份
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 1d770a7 -->

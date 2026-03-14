@@ -15,4 +15,4 @@ ClawX 解决了 OpenClaw 的易用性问题。传统 OpenClaw 需要命令行操
 - **跨平台支持**：macOS/Windows/Linux 原生支持，Windows 预配置最佳实践，多语言界面
 - **自适应主题**：亮色/暗色/系统同步主题，自动适配用户偏好
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 315ff6b -->

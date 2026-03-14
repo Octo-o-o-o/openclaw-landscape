@@ -15,4 +15,4 @@
 - **MCP Server 集成** — 可从 Claude Code、OpenClaw 或任何 MCP 兼容 Agent 调用，实现视频处理自动化
 - **多 AI 提供商** — 支持 Google Gemini（默认）、OpenAI、Anthropic，通过 `--provider` 和 `--model` 参数切换
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 21ab8d2 -->

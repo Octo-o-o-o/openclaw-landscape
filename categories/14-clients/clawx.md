@@ -15,4 +15,4 @@ ClawX addresses OpenClaw's usability problem. Traditional OpenClaw requires comm
 - **Cross-Platform Support** — Native macOS/Windows/Linux support, Windows pre-configured best practices, multi-language interface
 - **Adaptive Themes** — Light/dark/system-sync themes, automatically adapts to user preferences
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 315ff6b -->

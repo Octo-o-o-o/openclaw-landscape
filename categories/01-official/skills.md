@@ -277,4 +277,4 @@ The openclaw/skills repository is critical infrastructure for ClawHub, providing
 4. **Transparency**: Public Git history provides fully transparent audit logs
 5. **Disaster recovery**: Serves as a redundant backup for ClawHub, ensuring data safety
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 71aba65 -->

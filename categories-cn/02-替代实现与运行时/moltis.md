@@ -15,4 +15,4 @@ Moltis 解决了 OpenClaw 的安全性和可审计性问题。传统 OpenClaw（
 - **全功能内置**：语音（15+ 提供商）、记忆、调度、Telegram/Discord/WhatsApp、浏览器自动化、MCP 服务器、Hooks（15 种事件）
 - **安全设计**：密钥用 `secrecy::Secret` 包装（drop 时清零），工具输出脱敏，SSRF 防护，Origin 验证，Hook 拦截
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 9f732b6 -->

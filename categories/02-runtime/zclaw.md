@@ -16,4 +16,4 @@ ESP32 hardware resources are extremely constrained (<= 888 KiB firmware budget),
 - **USB Local Console** — Pre-network boot, safe mode, recovery diagnostics
 - **One-click Deployment** — `curl | bash` bootstrap script, auto-detects apt/pacman/dnf/zypper, supports encrypted credential flashing
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 6d329cb -->

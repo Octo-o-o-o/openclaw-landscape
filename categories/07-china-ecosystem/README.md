@@ -21,3 +21,5 @@
 | 17 | [AIPMAndy/awesome-skills-CN](https://github.com/AIPMAndy/awesome-skills-CN) | 51 | — | [awesome-skills-cn.md](awesome-skills-cn.md) |
 | 18 | [aliramw/dingtalk-ai-table](https://github.com/aliramw/dingtalk-ai-table) | 46 | — | [dingtalk-ai-table.md](dingtalk-ai-table.md) |
 | 19 | [IanShaw027/wemp-operator](https://github.com/IanShaw027/wemp-operator) | 46 | — | [wemp-operator.md](wemp-operator.md) |
+| NEW | [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark) | 884 | Official Feishu/Lark plugin | [openclaw-lark.md](openclaw-lark.md) |
+| NEW | [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) | 151 | QQ Bot Channel Plugin | [openclaw-qqbot.md](openclaw-qqbot.md) |

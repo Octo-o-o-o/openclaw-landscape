@@ -21,3 +21,5 @@
 | 17 | [AIPMAndy/awesome-skills-CN](https://github.com/AIPMAndy/awesome-skills-CN) | 51 | OpenClaw 官方技能注册表（ClawHub）包含 5,705 个技能，但存在大量垃圾内容、重复条目和非中文开发者友好的描述。 | [awesome-skills-cn.md](awesome-skills-cn.md) |
 | 18 | [aliramw/dingtalk-ai-table](https://github.com/aliramw/dingtalk-ai-table) | 46 | 钉钉 AI 表格（多维表）的 API 操作复杂且文档分散，手动调用效率低。 | [dingtalk-ai-table.md](dingtalk-ai-table.md) |
 | 19 | [IanShaw027/wemp-operator](https://github.com/IanShaw027/wemp-operator) | 46 | 微信公众号运营需要手动采集热点、分析数据、管理评论，重复劳动多且效率低。 | [wemp-operator.md](wemp-operator.md) |
+| NEW | [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark) | 884 | 飞书官方出品的 OpenClaw 插件 | [openclaw-lark.md](openclaw-lark.md) |
+| NEW | [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) | 151 | QQ Bot Channel Plugin | [openclaw-qqbot.md](openclaw-qqbot.md) |

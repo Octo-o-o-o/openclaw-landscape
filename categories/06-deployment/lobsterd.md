@@ -14,4 +14,4 @@ Multi-tenant OpenClaw deployments lack strong isolation, and shared hosts pose s
 - **REST API** -- `buoy` command starts an HTTP server mirroring CLI functionality, with Bearer token authentication
 - **Tailscale Integration** -- Remote access provided by default via Tailscale Serve (port 8443)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 033c6df -->

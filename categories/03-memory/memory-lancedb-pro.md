@@ -13,4 +13,4 @@ AI Agents lack persistent long-term memory capabilities, with severe information
 - Support for any embedding provider (OpenAI, Jina, Gemini, Ollama)
 - Complete operations tooling (CLI, backup, migration, upgrade, import/export)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 0717249 -->

@@ -13,4 +13,4 @@ The rapid growth of OpenClaw has been accompanied by serious security risks. Zoo
 - **Incident Response Procedures** -- Emergency handling steps for system anomalies (lag, traffic anomalies, high CPU/memory)
 - **Bilingual Documentation** -- Localized security guide for the Chinese market in both Chinese and English
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 99897d6 -->

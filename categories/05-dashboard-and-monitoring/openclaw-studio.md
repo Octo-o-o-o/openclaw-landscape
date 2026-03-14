@@ -325,4 +325,4 @@ OpenClaw Studio provides the following core value:
 6. **Security Practices**: Server-side token hosting + API redaction + audit logs
 7. **Developer Experience**: TypeScript type safety + detailed error codes + comprehensive testing
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 607e934 -->

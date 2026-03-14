@@ -15,4 +15,4 @@ AI Agents default to routing all tasks to expensive models (e.g., Claude Opus at
 - **pytest Test Suite** — `tests/test_classification.py` + `scenarios.json` for validating classification accuracy
 - **Sub-Agent Default Strategy** — Recommends sub-Agents default to cheap models, upgrading only when tasks fail
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 9095f83 -->

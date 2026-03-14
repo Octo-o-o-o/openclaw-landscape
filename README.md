@@ -2,9 +2,9 @@
 
 [中文索引 / Chinese Index](00-about/index.md)
 
-A curated directory of **128+ projects** across **15 categories** in the OpenClaw ecosystem. Each project has a dedicated research page covering architecture, features, tech stack, and key takeaways.
+A curated directory of **144+ projects** across **15 categories** in the OpenClaw ecosystem. Each project has a dedicated research page covering architecture, features, tech stack, and key takeaways.
 
-> **Latest update (2026-03-13):** Initial release — 139 projects across 15 categories, sourced from manual research of the OpenClaw ecosystem. [Full log](00-about/update-log.md)
+> **Latest update (2026-03-14):** Added 2 new China Ecosystem plugins (Lark/Feishu u0026 QQ Bot) and synced latest commits for 103 projects. [Full log](00-about/update-log.md)
 
 ---
 

@@ -15,4 +15,4 @@ X/Twitter 关闭了免费 API，传统爬虫易被封禁，浏览器自动化方
 - **用户画像分析** — 结合 LLM 分析用户推文生成 MBTI、Big Five 人格特征、话题图谱
 - **增量监控模式** — `--monitor` 参数支持定时检查新 @mentions，适合自动化工作流
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: c7fad90 -->

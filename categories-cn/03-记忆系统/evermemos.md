@@ -15,4 +15,4 @@ EverMemOS 解决了 AI Agent 的长期记忆问题。传统 Agent（包括 OpenC
 - **OpenClaw 集成**：提供 OpenClaw Agent Memory Plugin，无缝集成到 OpenClaw 生态
 - **Memory Genesis Competition 2026**：举办记忆应用竞赛，三大赛道（Agent + Memory / Platform Plugins / OS Infrastructure）
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 8cb6d01 -->

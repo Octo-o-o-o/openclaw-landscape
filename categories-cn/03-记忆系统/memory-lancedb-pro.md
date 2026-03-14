@@ -13,4 +13,4 @@ AI Agent 缺乏持久化的长期记忆能力，跨会话信息丢失严重。me
 - 支持任意 Embedding 提供商（OpenAI、Jina、Gemini、Ollama）
 - 完整运维工具（CLI、备份、迁移、升级、导入导出）
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 0717249 -->

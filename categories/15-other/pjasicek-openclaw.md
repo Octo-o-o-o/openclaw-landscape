@@ -98,4 +98,4 @@ pjasicek/OpenClaw is a **game engine project** unrelated to AI Agent frameworks.
 - **pjasicek/OpenClaw**: C++ reimplementation of the 1997 game "Captain Claw"
 - **OpenClaw AI Agent**: Self-hosted open-source AI Agent framework
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 5ee5740 -->

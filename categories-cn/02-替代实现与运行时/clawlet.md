@@ -15,4 +15,4 @@
 - **灵活配置** — JSON 配置文件（`~/.clawlet/config.json`），支持环境变量和模型默认参数覆盖
 - **本地模型优先** — Ollama/vLLM 路由统一为 `ollama/<model>` 前缀，自动适配 OpenAI 兼容端点
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 8a9367d -->

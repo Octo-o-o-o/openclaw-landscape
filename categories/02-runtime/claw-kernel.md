@@ -15,4 +15,4 @@ Every project in the Claw ecosystem (OpenClaw, ZeroClaw, OpenCrust) independentl
 - **670+ Test Coverage** — Comprehensive unit tests and integration tests ensuring cross-platform stability
 - **IPC Daemon Service** — claw-server provides global channel registration, tool bridging, trigger storage, and Webhook services
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: f70462b -->

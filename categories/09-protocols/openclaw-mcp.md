@@ -15,4 +15,4 @@ Claude.ai users cannot directly communicate with self-hosted OpenClaw instances,
 - **Precise CORS Control** — Restricts cross-origin request origins via `CORS_ORIGINS=https://claude.ai` to prevent CSRF attacks
 - **Configurable Timeout** — `OPENCLAW_TIMEOUT_MS` parameter supports long-running tasks (default 300 seconds), accommodating time-consuming operations like Claude Code
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: c400a25 -->

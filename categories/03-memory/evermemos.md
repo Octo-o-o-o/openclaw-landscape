@@ -15,4 +15,4 @@ EverMemOS addresses the long-term memory problem for AI Agents. Traditional Agen
 - **OpenClaw Integration**: Provides an OpenClaw Agent Memory Plugin for seamless integration into the OpenClaw ecosystem
 - **Memory Genesis Competition 2026**: Hosts a memory application competition with three tracks (Agent + Memory / Platform Plugins / OS Infrastructure)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 8cb6d01 -->

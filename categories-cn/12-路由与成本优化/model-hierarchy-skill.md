@@ -15,4 +15,4 @@ AI Agent 默认将所有任务路由到昂贵模型（如 Claude Opus $15-75/M t
 - **pytest 测试套件** — `tests/test_classification.py` + `scenarios.json` 验证分类准确性
 - **子 Agent 默认策略** — 建议子 Agent 默认使用廉价模型，仅在任务失败时升级
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 9095f83 -->

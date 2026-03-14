@@ -32,4 +32,4 @@ A one-click installation script suite for running OpenClaw on Android phones. No
 - **Platform Runtime**: OpenClaw Gateway
 - **Optional Tools**: Install as needed
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 480c38d -->

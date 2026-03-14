@@ -14,4 +14,4 @@ AI assistants lack an open-source, self-hosted, privacy-first voice interaction 
 - Browser-based (no app installation required, works on both desktop and mobile)
 - Continuous mode (hands-free conversation, automatically listens after each response)
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 28866f2 -->
