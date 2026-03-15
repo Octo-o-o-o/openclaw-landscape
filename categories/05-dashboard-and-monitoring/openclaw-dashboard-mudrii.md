@@ -1,6 +1,6 @@
 > https://github.com/mudrii/dashboard
 
-# mudrii/openclaw-dashboard (261 stars)
+# mudrii/openclaw-dashboard (N/A stars)
 
 > Research date: 2026-03-13 (updated)
 > Positioning: Zero-dependency local command center aggregating Gateway health, costs, cron status, sessions, Sub-Agents, model usage, and Git logs for OpenClaw Agents

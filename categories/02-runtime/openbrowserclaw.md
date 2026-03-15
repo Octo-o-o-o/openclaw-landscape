@@ -1,6 +1,6 @@
 > https://github.com/sachaa/openbrowserclaw
 
-# openbrowserclaw (558 stars)
+# openbrowserclaw (564 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Traditional AI assistants require server infrastructure (databases, filesystems,
 - **PWA Offline Capability** — Service Worker caching, task queue retained after tab closure
 - **Cron Scheduler** — In-browser cron expression parsing and task triggering
 
-<!-- lastCommit: 19be222 -->
+<!-- lastCommit: 19be222c34042c14d9c626d8963521874a8fd92e -->

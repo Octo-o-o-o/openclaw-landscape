@@ -1,6 +1,6 @@
 > https://github.com/yi-john-huang/secure-stack
 
-# OpenClaw Secure Stack (47 stars)
+# OpenClaw Secure Stack (N/A stars)
 
 ## Problem & Solution
 Self-hosted OpenClaw faces security risks including malicious skills, prompt injection, unauthorized access, and data leakage. Secure Stack wraps an unmodified OpenClaw instance behind a reverse proxy, providing authentication, skill scanning, prompt injection mitigation, pre-execution governance, webhook integration, network isolation, and full audit logging.

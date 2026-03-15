@@ -15,4 +15,4 @@ AI-Infra-Guard addresses security risks in AI infrastructure and the Agent ecosy
 - **Enterprise-Grade Deployment** -- One-click Docker deployment, Web UI + API, supports internal network self-assessment without public network exposure
 - **BlackHat EU 2025 Arsenal** -- Selected for the BlackHat Arsenal, demonstrating high industry recognition
 
-<!-- lastCommit: 8295892 -->
+<!-- lastCommit: 8295892892545018aa1569a87088c81f6f6944a2 -->

@@ -1,6 +1,6 @@
 > https://github.com/yuga-hashimoto/openclaw-assistant
 
-# OpenClaw Assistant (157 stars)
+# OpenClaw Assistant (178 stars)
 
 ## Problem & Solution
 OpenClaw Agent lacks a native mobile voice assistant experience — users cannot quickly invoke an Agent via wake words or long-pressing the Home button. OpenClaw Assistant is an Android voice assistant app designed specifically for OpenClaw, supporting custom wake words, offline wake word detection, system assistant integration, Wear OS support, and multiple TTS providers.
@@ -18,4 +18,4 @@ OpenClaw Agent lacks a native mobile voice assistant experience — users cannot
 - Real-time streaming (instant AI response viewing via WebSocket Gateway)
 - Device pairing (server-side device approval + Ed25519 encrypted identity)
 
-<!-- lastCommit: 4c2b63d -->
+<!-- lastCommit: 4c2b63d6049cd09f23953c185f6c8973427c3faa -->

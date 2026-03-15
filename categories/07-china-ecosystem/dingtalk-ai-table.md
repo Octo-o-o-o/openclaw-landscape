@@ -1,6 +1,6 @@
 > https://github.com/aliramw/dingtalk-ai-table
 
-# dingtalk-ai-table (46 stars)
+# dingtalk-ai-table (66 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ The DingTalk AI Table (multi-dimensional table) API operations are complex and d
 - **Environment variable configuration** — Requires `DINGTALK_MCP_URL` (MCP service address); recommends `OPENCLAW_WORKSPACE` (file sandbox root directory); supports `mcporter` binary invocation
 - **Error code documentation** — Provides `error-codes.md` with detailed troubleshooting guides covering authentication failures, insufficient permissions, parameter errors, and other common issues
 
-<!-- lastCommit: d582892 -->
+<!-- lastCommit: d582892ee15d0987e042769220fa98660d1a9bd9 -->

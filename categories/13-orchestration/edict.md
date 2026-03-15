@@ -15,4 +15,4 @@ Existing Multi-Agent frameworks (CrewAI/AutoGen) allow Agents to collaborate fre
 - **Feishu Integration** — Create tasks via Feishu commands, auto-report upon completion; aggregated news push
 - **Docker One-Click Experience** — `docker run -p 7891:7891 cft0808/edict` launches a complete dashboard with pre-loaded simulation data
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 76e0c102ed1fd9bb541ec130fd1aa5eaa9300517 -->

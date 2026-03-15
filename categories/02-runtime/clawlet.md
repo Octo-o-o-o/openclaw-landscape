@@ -1,6 +1,6 @@
 > https://github.com/mosaxiv/clawlet
 
-# clawlet (657 stars)
+# clawlet (653 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Traditional AI assistants rely on complex runtimes (Node.js/Python) and external
 - **Flexible Configuration** — JSON configuration file (`~/.clawlet/config.json`), supports environment variables and model default parameter overrides
 - **Local Models First** — Ollama/vLLM routes unified under the `ollama/<model>` prefix, automatically adapting to OpenAI-compatible endpoints
 
-<!-- lastCommit: 8a9367d -->
+<!-- lastCommit: 8a9367d843abe1bbf13f100bc0896d6fb2043e98 -->

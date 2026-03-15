@@ -14,4 +14,4 @@ A single Agent struggles to handle complex tasks and lacks collaboration and sup
 - Periodic heartbeat monitoring with automatic alerts when Workers get stuck
 - Supports CoPaw Workers (80% memory reduction, local browser automation)
 
-<!-- lastCommit: 9bbf15d -->
+<!-- lastCommit: d7f3fe3dc46260da146b4c93c8139ee69ed52819 -->

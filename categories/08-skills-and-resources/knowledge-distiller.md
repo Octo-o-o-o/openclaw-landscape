@@ -1,6 +1,6 @@
 > https://github.com/destinyfrancis/knowledge-distiller
 
-# openclaw-knowledge-distiller (43 stars)
+# openclaw-knowledge-distiller (50 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Researchers and students need to quickly digest large volumes of video content (
 - **MCP Server integration** — Can be invoked from Claude Code, OpenClaw, or any MCP-compatible Agent for automated video processing
 - **Multiple AI providers** — Supports Google Gemini (default), OpenAI, and Anthropic, switchable via `--provider` and `--model` parameters
 
-<!-- lastCommit: 21ab8d2 -->
+<!-- lastCommit: 21ab8d28dbddd6784904a301e52637b191f90e64 -->

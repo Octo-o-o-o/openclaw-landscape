@@ -43,4 +43,4 @@ bash, read_file, write_file, edit_file, glob, grep, read_memory, write_memory, w
 - Docker sandbox support
 - Each message triggers an Agentic loop, up to 100 iterations
 
-<!-- lastCommit: 9f6f3b7 -->
+<!-- lastCommit: 95491b787a61a71f43aeb6556c695a3bd1c006ce -->

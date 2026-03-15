@@ -48,4 +48,4 @@ clawmonitor report     # Generate session report
 4. **ClawHub Integration**: Provides a `skills/claw-monitor/` directory for use as an OpenClaw skill
 5. **IM-Aware**: Detects Telegram thread binding routes (`BOUND_OTHER` marker)
 
-<!-- lastCommit: 3f12c1f -->
+<!-- lastCommit: 3f12c1fcd957c513a2d5b31b6ffddcc56154ec49 -->

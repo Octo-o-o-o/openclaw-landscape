@@ -1,6 +1,6 @@
 > https://github.com/tsconfigdotjson/lobsterd
 
-# lobsterd (25 stars)
+# lobsterd (26 stars)
 
 ## Problem and Solution
 Multi-tenant OpenClaw deployments lack strong isolation, and shared hosts pose security risks and resource contention. lobsterd uses Firecracker MicroVMs to provide each tenant with a lightweight virtual machine, achieving network isolation, per-tenant overlay file systems, and independent OpenClaw Gateway instances.
@@ -14,4 +14,4 @@ Multi-tenant OpenClaw deployments lack strong isolation, and shared hosts pose s
 - **REST API** -- `buoy` command starts an HTTP server mirroring CLI functionality, with Bearer token authentication
 - **Tailscale Integration** -- Remote access provided by default via Tailscale Serve (port 8443)
 
-<!-- lastCommit: 033c6df -->
+<!-- lastCommit: 033c6df792bdf3a578d649b7a80a9d452fc39a14 -->

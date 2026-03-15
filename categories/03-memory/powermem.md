@@ -1,6 +1,6 @@
 > https://github.com/oceanbase/powermem
 
-# PowerMem (489 stars)
+# PowerMem (493 stars)
 
 ## Problem & Solution
 
@@ -16,4 +16,4 @@ AI applications need to persist historical conversations, user preferences, and 
 - **Sub Stores Partitioning** -- Data partition management + automatic query routing, significantly improving query performance at very large scale
 - **Multiple Integration Methods** -- Python SDK, CLI (`pmem`), MCP Server, HTTP API Server
 
-<!-- lastCommit: 255a0b5 -->
+<!-- lastCommit: 255a0b52a5d23930e372e7f3972d2ec1e504642b -->

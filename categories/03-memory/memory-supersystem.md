@@ -1,6 +1,6 @@
 > https://github.com/ktao732084/memory-supersystem
 
-# openclaw_memory_supersystem-v1.0 (64 stars)
+# openclaw_memory_supersystem-v1.0 (N/A stars)
 
 ## Problem & Solution
 

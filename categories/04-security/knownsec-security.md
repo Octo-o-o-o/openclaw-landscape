@@ -1,6 +1,6 @@
 > https://github.com/knownsec/openclaw-security
 
-# OpenClaw Security Guide by Knownsec (55 stars)
+# OpenClaw Security Guide by Knownsec (75 stars)
 
 ## Problem & Solution
 The rapid growth of OpenClaw has been accompanied by serious security risks. ZoomEye data shows 63,026 identifiable instances worldwide, and the GitHub Advisory Database records 245 related vulnerabilities. Knownsec has published a full-lifecycle security practice guide covering installation, configuration, usage, and maintenance.
@@ -13,4 +13,4 @@ The rapid growth of OpenClaw has been accompanied by serious security risks. Zoo
 - **Incident Response Procedures** -- Emergency handling steps for system anomalies (lag, traffic anomalies, high CPU/memory)
 - **Bilingual Documentation** -- Localized security guide for the Chinese market in both Chinese and English
 
-<!-- lastCommit: 99897d6 -->
+<!-- lastCommit: 99897d6584ad1020d15dd0388474e0ab53b9fcc9 -->

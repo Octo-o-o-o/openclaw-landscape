@@ -1,6 +1,6 @@
 > https://github.com/chenmuwen0930/snowtrace
 
-# openclaw-skill-snowtrace (27 stars)
+# openclaw-skill-snowtrace (N/A stars)
 
 ## Problem & Solution
 

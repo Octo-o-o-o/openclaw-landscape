@@ -13,4 +13,4 @@ The Claude Code ecosystem lacks a unified plugin discovery and distribution plat
 - Web UI with search, filtering, and one-click copy install commands
 - Integration into Claude Code via `/plugin marketplace add`
 
-<!-- lastCommit: faf79fa -->
+<!-- lastCommit: faf79fa1bf891f68687ee8fbf2cc05803eac87ee -->

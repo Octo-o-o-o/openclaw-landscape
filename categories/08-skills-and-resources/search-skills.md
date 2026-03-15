@@ -1,6 +1,6 @@
 > https://github.com/blessonism/search-skills
 
-# blessonism/openclaw-search-skills (232 stars)
+# blessonism/openclaw-search-skills (N/A stars)
 
 ## Problem & Solution
 

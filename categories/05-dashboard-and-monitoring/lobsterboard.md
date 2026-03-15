@@ -199,4 +199,4 @@ pages/
 
 While LobsterBoard is a general-purpose dashboard tool, its design concepts -- **drag-and-drop layouts**, **remote monitoring architecture**, **AI quota tracking**, and **custom pages system** -- are highly applicable. The **multi-instance monitoring** and **visual customization** aspects in particular offer valuable architectural references for building flexible monitoring and management interfaces.
 
-<!-- lastCommit: 05c0c77 -->
+<!-- lastCommit: 05c0c77f1c1c7d2f43e1087e619245cfa6fe1342 -->

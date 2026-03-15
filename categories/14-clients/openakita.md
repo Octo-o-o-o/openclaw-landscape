@@ -17,4 +17,4 @@ OpenAkita addresses the pain point of traditional AI assistants that "can only c
 - **Three-Layer Memory System** — Working memory + core memory + dynamic retrieval, 7 memory types, AI-driven extraction and review
 - **Proactive Engine + Self-Evolution** — Greetings/task follow-up/casual chat/goodnight messages with feedback-adjusted frequency; daily self-check repair, failure root cause analysis, automatic skill generation
 
-<!-- lastCommit: 3402ef3 -->
+<!-- lastCommit: 653edfbe72f572ebbce30d9aa45ab8c98b8bab95 -->

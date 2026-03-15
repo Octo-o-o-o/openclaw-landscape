@@ -1,6 +1,6 @@
 > https://github.com/pepicrft/plugin-vault
 
-# OpenClaw Vault Plugin (41 stars)
+# OpenClaw Vault Plugin (N/A stars)
 
 ## Problem & Solution
 OpenClaw lacks structured knowledge management capabilities, requiring users to rely on external tools (such as Obsidian) for managing notes and knowledge bases. Vault Plugin transforms a local directory into a structured knowledge base, providing fast semantic search and embeddings through qmd while maintaining a pure markdown format.

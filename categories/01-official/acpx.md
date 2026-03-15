@@ -318,4 +318,4 @@ Use cases:
 - **Command-line overrides**: Temporarily adjust parameters without modifying config files
 - **Auth integration**: Supports multiple authentication methods (environment variables, config files)
 
-<!-- lastCommit: 01b6f1b -->
+<!-- lastCommit: 01b6f1b47327b76186aac3212e428c7d95e7f75b -->

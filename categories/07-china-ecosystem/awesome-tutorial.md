@@ -266,4 +266,4 @@ The tutorial provides an OpenClaw management tool (`openclaw-manager/`) for:
 - **Version management**: Version checking, upgrading, and rollback
 - **Health checks**: Service status monitoring and log viewing
 
-<!-- lastCommit: ee0a300 -->
+<!-- lastCommit: a1126264b44ee9747fcfa491571439acbb760891 -->

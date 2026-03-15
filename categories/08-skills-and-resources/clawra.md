@@ -244,4 +244,4 @@ curl -X POST "http://localhost:18789/message" \
 
 Clawra is an excellent **OpenClaw skill example** that demonstrates how to develop and distribute high-quality Agent skills through npx one-click installation, fixed reference images, dual-mode strategy, and cross-platform messaging.
 
-<!-- lastCommit: f74844e -->
+<!-- lastCommit: f74844e673e3e9a4f191d1ab0241b5a313b59c92 -->

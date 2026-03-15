@@ -223,4 +223,4 @@ OpenClaw Guardian is a **production-grade, zero-configuration, progressive repai
 4. **Lightweight design**: Single Bash script, no additional dependencies, minimal resource footprint
 5. **Production-proven**: Battle-tested running thousands of instances on the MyClaw.ai platform
 
-<!-- lastCommit: aabd2a0 -->
+<!-- lastCommit: aabd2a02365c5ec63e679e99bc6ac6e125c550d9 -->

@@ -1,6 +1,6 @@
 > https://github.com/phioranex/openclaw-docker
 
-# openclaw-docker (545 stars)
+# openclaw-docker (551 stars)
 
 ## Problem and Solution
 
@@ -19,4 +19,4 @@ OpenClaw officially requires building from source, with complex dependency manag
 
 - ac13a03: Update OpenClaw version tracker to v2026.3.12
 
-<!-- lastCommit: bb008d1271be38710b31c5a431ebc7894d11ffc2 -->
+<!-- lastCommit: f1d9943981423c69847d11d2ad91953f7cdfaa92 -->

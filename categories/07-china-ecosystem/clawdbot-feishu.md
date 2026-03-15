@@ -15,4 +15,4 @@ Clawdbot-Feishu solves the integration challenge of connecting OpenClaw to enter
 - **Chinese community support**: Wiki provides configuration tutorials, FAQs, and usage tips; Discussions provide community support
 - **Structured feedback**: Issue Form templates + Discussions routing to improve issue resolution efficiency
 
-<!-- lastCommit: 85076e1 -->
+<!-- lastCommit: 85076e1b8b986ae6617c525902c2d78e98a1d97b -->

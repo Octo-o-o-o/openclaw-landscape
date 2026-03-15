@@ -15,4 +15,4 @@ Poco-Claw addresses the security and usability issues of OpenClaw. Traditional O
 - **Multi-device Interaction**: Mobile support, IM integration (DingTalk/Telegram), push notifications, event subscriptions
 - **Intelligent Memory (mem0)**: Remembers user preferences, project context, and interaction history to provide personalized assistance
 
-<!-- lastCommit: 40fecda -->
+<!-- lastCommit: 40fecdab9952c55b348ee8c71cf06032dcb4c4d1 -->

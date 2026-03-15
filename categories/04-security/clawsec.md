@@ -1,6 +1,6 @@
 > https://github.com/prompt-security/clawsec
 
-# ClawSec (709 stars)
+# ClawSec (753 stars)
 
 ## Problem & Solution
 
@@ -17,4 +17,4 @@ ClawSec addresses the lack of security protection in AI Agent cognitive architec
 - **NanoClaw Platform Support** -- Containerized WhatsApp bot security, MCP tools providing advisory monitoring, signature verification, and file integrity checks
 - **Cross-Platform Shell Compatibility** -- POSIX shell workflows (Linux/macOS) + PowerShell support (Windows), with explicit home variable expansion rules
 
-<!-- lastCommit: 277c0ab -->
+<!-- lastCommit: 277c0abe17ee51be1171d3b7835fefc2dfa074e4 -->

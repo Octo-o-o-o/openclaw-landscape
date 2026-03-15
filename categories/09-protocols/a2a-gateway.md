@@ -1,6 +1,6 @@
 > https://github.com/win4r/a2a-gateway
 
-# openclaw-a2a-gateway (162 stars)
+# openclaw-a2a-gateway (N/A stars)
 
 ## Problem & Solution
 

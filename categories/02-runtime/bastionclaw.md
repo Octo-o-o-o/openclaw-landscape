@@ -1,6 +1,6 @@
 > https://github.com/harperaa/bastionclaw
 
-# bastionclaw (24 stars)
+# bastionclaw (26 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ OpenClaw's 52+ modules, 45+ dependencies, and application-level security (allowl
 - **Semantic Memory + Insight Engine** — Hybrid search (BM25 + vector embeddings) + GGUF local models, Data-to-Wisdom pipeline (YouTube/articles/PDF -> extract insights -> semantic deduplication -> surface patterns)
 - **Agent Swarm Identity** — On Discord, each subagent gets an independent username and avatar via webhooks; on Telegram, each subagent gets an independent bot identity
 
-<!-- lastCommit: 1d770a7 -->
+<!-- lastCommit: 1d770a7039a1a9f01561f9ab99d74b55e9db0a1e -->

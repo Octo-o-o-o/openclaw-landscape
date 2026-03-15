@@ -1,6 +1,6 @@
 > https://github.com/sharbelxyz/x-bookmarks
 
-# sharbelxyz/x-bookmarks (241 stars)
+# sharbelxyz/x-bookmarks (245 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ X/Twitter's bookmark feature lacks export and bulk management capabilities, prev
 - **Incremental sync** — Supports exporting only newly added bookmarks, avoiding reprocessing of already exported content
 - **Privacy protection** — Runs locally without uploading bookmark data to third-party servers
 
-<!-- lastCommit: acf1860 -->
+<!-- lastCommit: acf1860bbae4b845596f2a3090329593cbfedb48 -->

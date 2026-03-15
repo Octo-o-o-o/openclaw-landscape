@@ -15,4 +15,4 @@ Traditional Agent frameworks are just Python wrappers around LLMs, requiring use
 - **FangHub Extension Ecosystem** — Users can define their own HAND.toml and publish to FangHub, similar to Docker Hub for Agent capabilities
 - **Cross-Platform Support** — macOS/Linux/Windows one-click install script, Dashboard runs by default on localhost:4200
 
-<!-- lastCommit: d55e1b8 -->
+<!-- lastCommit: 135c37fbf71c8c03f28e61eaae8238d99c4f7470 -->

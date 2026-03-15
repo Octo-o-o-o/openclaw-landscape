@@ -1,6 +1,6 @@
 > https://github.com/dztabel-happy/openclaw-memory-fusion
 
-# openclaw-memory-fusion (106 stars)
+# openclaw-memory-fusion (120 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ OpenClaw's memory capability relies on the model voluntarily writing to memory -
 - **A' Rolling Zone** -- Daily maintains `MEMORY.md#Recent Important Updates (Rolling 7 Days)` (<= 30 entries), weekly promotes long-term valid content to formal categories
 - **Operations-Ready Design** -- Lock mechanism (prevents concurrent overwrites) + weekly gate (at least one success per week) + Telegram notification panel (unified `events/updated/coverage` format)
 
-<!-- lastCommit: 2282706 -->
+<!-- lastCommit: 2282706fed1a4a62b037e75079df3ffa12c16715 -->

@@ -1,6 +1,6 @@
 > https://github.com/AlexAnys/awesome-openclaw-usecases-zh
 
-# openclaw-feishu (522 stars)
+# openclaw-feishu (2235 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Feishu (Lark) users face pain points when connecting to OpenClaw, including comp
 - **Migration guide** — Complete steps for migrating from HTTP callback mode to WebSocket long connection
 - **Advanced configuration reference** — Configuration examples for advanced features including Bitable (multi-dimensional tables), calendar scheduling, task management, and knowledge base
 
-<!-- lastCommit: 2929294 -->
+<!-- lastCommit: 292929455d3b21a2990b069ab3374f32e28d5512 -->

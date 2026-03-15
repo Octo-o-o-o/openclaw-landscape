@@ -321,4 +321,4 @@ cd zeroclaw
 curl -fsSL https://raw.githubusercontent.com/zeroclaw-labs/zeroclaw/main/install.sh | bash
 ```
 
-<!-- lastCommit: 06f65fb -->
+<!-- lastCommit: f4c82d5797c1daace29e7cc68215f2a1f75f2f8d -->

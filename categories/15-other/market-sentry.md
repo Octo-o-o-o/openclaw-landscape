@@ -15,4 +15,4 @@ Investors need to simultaneously monitor multiple asset classes including A-shar
 - **EvidencePack Audit** — Each briefing generates a JSON evidence pack containing all raw API responses to prevent hallucinations
 - **Silent Monitoring Mode** — Only pushes alerts on anomalies, stays silent during normal periods to reduce noise
 
-<!-- lastCommit: 2d64c82 -->
+<!-- lastCommit: 2d64c82cc89054876f63d27ab15b59a6a856d9c7 -->

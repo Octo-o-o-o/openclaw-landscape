@@ -1,6 +1,6 @@
 > https://github.com/oh-ashen-one/reddit-growth
 
-# oh-ashen-one/reddit-growth-skill (109 stars)
+# oh-ashen-one/reddit-growth-skill (N/A stars)
 
 ## Problem & Solution
 

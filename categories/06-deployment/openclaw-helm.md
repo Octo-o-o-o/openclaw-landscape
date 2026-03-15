@@ -19,4 +19,4 @@ OpenClaw does not officially provide a Kubernetes deployment solution, requiring
 
 - 0ad6285: chore: bump openclaw to 2026.3.12
 
-<!-- lastCommit: 361061c8b9e1d42d277333c2088f6a984b6cdac3 -->
+<!-- lastCommit: 8e39d274bbff7949e49bbfaed5766ee480ce938e -->

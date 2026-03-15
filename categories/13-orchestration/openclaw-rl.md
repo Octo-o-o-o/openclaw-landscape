@@ -366,4 +366,4 @@ OpenClaw-RL provides a breakthrough Agent training paradigm. Its core value lies
 4. **Self-hosted**: Fully local, zero external APIs
 5. **Production-ready**: Session-aware, at-least-one guarantee, graceful weight updates
 
-<!-- lastCommit: d36b633 -->
+<!-- lastCommit: 03a560be434e506c60f62b2fc854c4b972a1ebb2 -->

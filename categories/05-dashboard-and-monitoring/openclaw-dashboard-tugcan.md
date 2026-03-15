@@ -1,6 +1,6 @@
 > https://github.com/tugcantopaloglu/dashboard
 
-# tugcantopaloglu/openclaw-dashboard (418 stars)
+# tugcantopaloglu/openclaw-dashboard (N/A stars)
 
 > Research date: 2026-03-13 (updated)
 > Positioning: Real-time Agent monitoring dashboard with authentication and TOTP MFA, emphasizing security hardening

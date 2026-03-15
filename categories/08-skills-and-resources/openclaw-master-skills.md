@@ -187,4 +187,4 @@ OpenClaw Master Skills is a **curated skill repository** that solves the problem
 3. **Continuous updates** — Weekly automatic updates ensure users always have access to the latest skills
 4. **Easy installation** — One-click installation lowers the barrier to use
 
-<!-- lastCommit: 43d9a8c -->
+<!-- lastCommit: 43d9a8c788f442b6a7986b8431b295b47c9763e1 -->

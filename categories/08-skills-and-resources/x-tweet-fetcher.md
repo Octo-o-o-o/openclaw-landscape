@@ -1,6 +1,6 @@
 > https://github.com/ythx-101/x-tweet-fetcher
 
-# ythx-101/x-tweet-fetcher (407 stars)
+# ythx-101/x-tweet-fetcher (N/A stars)
 
 ## Problem & Solution
 

@@ -1,6 +1,6 @@
 > https://github.com/coolmanns/12layer-memory
 
-# openclaw-memory-architecture (31 stars)
+# openclaw-memory-architecture (N/A stars)
 
 ## Problem & Solution
 

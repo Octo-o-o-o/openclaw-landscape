@@ -1,6 +1,6 @@
 > https://github.com/IanShaw027/wemp-operator
 
-# wemp-operator (46 stars)
+# wemp-operator (54 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Operating a WeChat Official Account requires manual hot topic collection, data a
 - **AI-powered smart replies** — Automatically detects new comments and generates reply suggestions; users confirm before execution (supports batch featuring)
 - **ClawHub one-click install** — `openclaw skill install IanShaw027/wemp-operator` for deployment; configuration requires only AppID/AppSecret
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 7574534715edf5423b258beb12a2dc63372f8c2a -->

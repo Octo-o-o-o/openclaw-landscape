@@ -1,6 +1,6 @@
 > https://github.com/sundial-org/awesome-skills
 
-# sundial-org/awesome-openclaw-skills (427 stars)
+# sundial-org/awesome-openclaw-skills (N/A stars)
 
 ## Problem & Solution
 

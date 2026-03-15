@@ -1,6 +1,6 @@
 > https://github.com/zscole/model-hierarchy-skill
 
-# model-hierarchy-skill (329 stars)
+# model-hierarchy-skill (331 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ AI Agents default to routing all tasks to expensive models (e.g., Claude Opus at
 - **pytest Test Suite** — `tests/test_classification.py` + `scenarios.json` for validating classification accuracy
 - **Sub-Agent Default Strategy** — Recommends sub-Agents default to cheap models, upgrading only when tasks fail
 
-<!-- lastCommit: 9095f83 -->
+<!-- lastCommit: 9095f8303847a60de9f564659e561f3f6fd0cdc4 -->

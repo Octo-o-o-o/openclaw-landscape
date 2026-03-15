@@ -1,6 +1,6 @@
 > https://github.com/daggerhashimoto/openclaw-nerve
 
-# OpenClaw Nerve (178 stars)
+# OpenClaw Nerve (187 stars)
 
 ## Problem & Solution
 OpenClaw Agent messaging channels (Telegram, WhatsApp, Discord) cannot provide advanced features such as real-time chart rendering, workspace editing, file browsing, kanban task management, and Token monitoring. Nerve is a self-hosted Web UI offering voice conversations, real-time workspace editing, inline charts, Cron scheduling, and complete Token-level visibility, installable in 30 seconds.
@@ -13,4 +13,4 @@ OpenClaw Agent messaging channels (Telegram, WhatsApp, Discord) cannot provide a
 - Real-time charts (TradingView charts, candlestick charts, data visualization embedded directly in conversations)
 - Cron scheduling (create scheduled tasks and one-time reminders from the UI)
 
-<!-- lastCommit: d85acd7 -->
+<!-- lastCommit: d85acd7245540c01108989f7bffcfdbe8cbb6ea2 -->

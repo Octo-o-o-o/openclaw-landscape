@@ -1,6 +1,6 @@
 > https://github.com/chrysb/alphaclaw
 
-# AlphaClaw (482 stars)
+# AlphaClaw (663 stars)
 
 ## Problem and Solution
 
@@ -17,4 +17,4 @@ OpenClaw deployment and operations suffer from complex configuration, manual cra
 - **File Explorer** -- Browser-based file explorer supporting file visibility, inline editing, diff views, and Git-aware synchronization
 - **Google Workspace OAuth** -- Gmail/Calendar/Drive/Docs/Sheets/Tasks/Contacts/Meet integration, Gmail watch + Google Pub/Sub push endpoint handling
 
-<!-- lastCommit: 82223b3 -->
+<!-- lastCommit: 3598ddefb8fe16ff5b551ad016fbc84b5cd9a004 -->

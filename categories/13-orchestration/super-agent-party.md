@@ -15,4 +15,4 @@ AI Agents lack desktop-grade interaction experiences and multi-role collaboratio
 - Extension system (supports installing and creating extensions, such as Galgame extension)
 - Developer-friendly (provides OpenAI API interface and MCP interface)
 
-<!-- lastCommit: 882c540 -->
+<!-- lastCommit: 882c5401d9ec6757668449ded882714abdcc87a3 -->

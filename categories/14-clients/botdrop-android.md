@@ -1,6 +1,6 @@
 > https://github.com/zhixianio/botdrop-android
 
-# BotDrop Android (303 stars)
+# BotDrop Android (332 stars)
 
 ## Problem & Solution
 
@@ -16,4 +16,4 @@ Running an AI Agent on an Android phone requires installing Termux, configuring 
 - **Termux-Based** — Provides a Linux environment for running Node.js AI Agents
 - **Crashlytics Integration** — Firebase Crashlytics crash reporting (optional, configured at build time)
 
-<!-- lastCommit: a054698 -->
+<!-- lastCommit: a054698485ad922a8aabc270c1bdcfee15126b7a -->

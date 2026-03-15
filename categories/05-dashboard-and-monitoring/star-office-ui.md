@@ -15,4 +15,4 @@ AI Agent working states are invisible -- users cannot intuitively understand "wh
 - **Security Hardening** — Sidebar password protection, weak password blocking in production environments, Session Cookie hardening to prevent unauthorized access
 - **Flexible Deployment** — Python 3.10+ backend (Flask), 30-second manual deployment or Docker one-click startup, Cloudflare Tunnel recommended for public access
 
-<!-- lastCommit: f29c107 -->
+<!-- lastCommit: f29c107e9728a72f2635f10b4e8203b29b37221d -->

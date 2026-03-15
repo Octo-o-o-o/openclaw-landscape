@@ -1,6 +1,6 @@
 > https://github.com/unbrowse-ai/unbrowse
 
-# Unbrowse (485 stars)
+# Unbrowse (505 stars)
 
 ## Problem & Solution
 When Agents access websites, they need to manually write API call code, which is inefficient and hard to reuse. Unbrowse captures browser network traffic to automatically reverse-engineer the real underlying API endpoints of websites, and stores the learned API contracts in a shared marketplace, achieving a "one Agent learns once, all subsequent Agents reuse directly" fast path — 100x faster and 80% cheaper.
@@ -13,4 +13,4 @@ When Agents access websites, they need to manually write API call code, which is
 - Background validation loop (executes safe GET endpoints every 6 hours, detecting failures and schema drift)
 - Local execution (credentials stay local; only learned API contracts are published)
 
-<!-- lastCommit: f909c15 -->
+<!-- lastCommit: 3d93d88220f23b9b7b562c3d92852207779ba063 -->

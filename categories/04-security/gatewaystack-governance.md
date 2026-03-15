@@ -1,6 +1,6 @@
 > https://github.com/davidcrowe/gatewaystack-governance
 
-# GatewayStack Governance (5 stars)
+# GatewayStack Governance (N/A stars)
 
 ## Problem & Solution
 OpenClaw's tool calls lack a governance layer -- Agents can directly execute dangerous operations (reading SSH keys, running arbitrary commands) with no identity checks, rate limiting, or audit trails. GatewayStack Governance intercepts every tool call at the process level, enforcing five governance checks.

@@ -1,6 +1,6 @@
 > https://github.com/larksuite/openclaw-lark
 
-# openclaw-lark (884 stars)
+# openclaw-lark (911 stars)
 
 ## Problem & Solution
 Official Feishu/Lark channel plugin by LarkSuite for OpenClaw. It solves the problem of connecting OpenClaw agents to Lark messaging seamlessly.
@@ -12,4 +12,4 @@ Official Feishu/Lark channel plugin by LarkSuite for OpenClaw. It solves the pro
 ## Tech Stack
 - TypeScript, Node.js, Lark Open API
 
-<!-- lastCommit: b45e69b -->
+<!-- lastCommit: cfe0cbd5246112f2cf291dc3297d366598aa7927 -->

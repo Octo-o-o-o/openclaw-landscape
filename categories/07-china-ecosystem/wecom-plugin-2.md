@@ -1,6 +1,6 @@
 > https://github.com/11haonb/wecom-plugin
 
-# WeCom OpenClaw Plugin (95 stars)
+# WeCom OpenClaw Plugin (N/A stars)
 
 ## Problem & Solution
 OpenClaw lacks native integration with WeCom (Enterprise WeChat), making it impossible to remotely control Agents through enterprise communication tools. This plugin enables bidirectional communication via the WeCom application interface, allowing users to send messages through WeCom to control PC browsers and execute AI tasks.

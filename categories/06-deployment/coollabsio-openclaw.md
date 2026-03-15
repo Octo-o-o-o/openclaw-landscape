@@ -1,6 +1,6 @@
 > https://github.com/coollabsio/openclaw
 
-# coollabsio-openclaw (287 stars)
+# coollabsio-openclaw (295 stars)
 
 ## Problem and Solution
 OpenClaw does not officially provide Docker images, requiring users to manually write Dockerfiles, install dependencies, and configure environment variables. With new versions released daily, the cost of manual updates is high. This project provides a fully automated Docker build solution that checks for new versions every 6 hours and automatically builds and pushes images. All settings are configured via environment variables, with a built-in Nginx reverse proxy and HTTP Basic Auth, plus one-click deployment support for Coolify.
@@ -14,4 +14,4 @@ OpenClaw does not officially provide Docker images, requiring users to manually 
 - Two-layer Docker build: base image (built from source) + final image (adds nginx + configuration scripts), accelerating builds
 - Smoke testing: automatically verifies `openclaw --version` after build
 
-<!-- lastCommit: 6a7050b -->
+<!-- lastCommit: 8566d8e94043bc3643180e04c87b6a16d302064b -->

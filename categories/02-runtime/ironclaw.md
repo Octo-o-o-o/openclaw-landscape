@@ -23,4 +23,4 @@ Existing AI assistants have opaque data processing, are tied to corporate intere
 - Persistent memory: PostgreSQL + pgvector, hybrid search
 - Parallel tasks: concurrent multi-request processing with isolated contexts
 
-<!-- lastCommit: f9b880c -->
+<!-- lastCommit: c79754df2888ac7e2704d6cf4686b111eceee959 -->

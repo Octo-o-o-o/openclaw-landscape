@@ -1,6 +1,6 @@
 > https://github.com/8421bit/MiniClaw
 
-# MiniClaw (63 stars)
+# MiniClaw (74 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Traditional AI Copilots (such as Claude Desktop, Cursor) lack cross-session memo
 - **Pain Memory Mechanism** — Learns from failures to form protective instincts (7-day half-life; triggers avoidance behavior when weight exceeds threshold)
 - **Proactive Exploration** — Detects repetitive workflows (3+ occurrences) and automatically proposes Skill creation, records new tools to TOOLS.md, senses emotional fluctuations to update user model
 
-<!-- lastCommit: 3a0b07e -->
+<!-- lastCommit: 3a0b07e6251cc7075d5c0faf0f02a5ec81314031 -->

@@ -1,6 +1,6 @@
 > https://github.com/rohanarun/phoneclaw
 
-# PhoneClaw (392 stars)
+# PhoneClaw (403 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Android phone automation requires root access or complex ADB configuration, maki
 - **Cross-App Workflows** — Supports chained operations across browser, email, media, and messaging apps, completing multi-step tasks within a single flow
 - **CAPTCHA Automation** — Extracts OTP codes via `magicScraper`, combined with `magicClicker` for auto-fill and submission
 
-<!-- lastCommit: c326026 -->
+<!-- lastCommit: 7a7ad03edb657b20098b262577a35f94670901f5 -->

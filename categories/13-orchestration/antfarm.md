@@ -18,4 +18,4 @@ Antfarm addresses the complexity of OpenClaw Agent team collaboration. Tradition
 - **Web Dashboard** — Real-time monitoring of run status, step progress, and Agent output
 - **Security Review Mechanism** — Only installs workflows from the official repo; all community contributions undergo prompt injection review
 
-<!-- lastCommit: a442ad7 -->
+<!-- lastCommit: a442ad7dcb8cf8746175cc4a2e2dcafd501156cf -->

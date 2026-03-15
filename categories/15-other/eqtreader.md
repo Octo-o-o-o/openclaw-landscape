@@ -1,6 +1,6 @@
 > https://github.com/kevin-liu-robot/EQtreader
 
-# EQtreader (54 stars)
+# EQtreader (24 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Quantitative trading systems need to integrate market data retrieval, trade exec
 - **Remote Deployment Guide** — Provides remote server deployment considerations (screensaver off, desktop active, code disconnect handling)
 - **Data Source Extensions** — Integrates TuShare, Waizao.com, and other third-party data platforms for historical and fundamental data
 
-<!-- lastCommit: 2266016 -->
+<!-- lastCommit: 22660160eee15789ca3fb550e165b98e10fa08af -->

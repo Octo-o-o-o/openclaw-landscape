@@ -1,6 +1,6 @@
 > https://github.com/WW-AI-Lab/openclaw-office
 
-# OpenClaw Office (210 stars)
+# OpenClaw Office (284 stars)
 
 ## Problem & Solution
 
@@ -18,4 +18,4 @@ OpenClaw Multi-Agent systems lack a visual collaborative monitoring interface, m
 - **i18n** — Chinese and English bilingual support with runtime language switching
 - **Mock Mode** — Development without requiring a Gateway connection
 
-<!-- lastCommit: 801528c -->
+<!-- lastCommit: 801528c96f63a056968b8dc6f43ec10b62d9a75e -->

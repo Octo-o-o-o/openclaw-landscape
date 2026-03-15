@@ -1,6 +1,6 @@
 > https://github.com/Purple-Horizons/openclaw-voice
 
-# OpenClaw Voice (66 stars)
+# OpenClaw Voice (70 stars)
 
 ## Problem & Solution
 AI assistants lack an open-source, self-hosted, privacy-first voice interaction solution — users' voice data typically needs to be uploaded to the cloud. OpenClaw Voice provides a browser-based open-source voice interface supporting local Whisper STT (voice never leaves the device), ElevenLabs streaming TTS (sentence-by-sentence streaming playback), Silero VAD (voice activity detection), and intelligent text cleaning, compatible with both desktop and mobile.
@@ -14,4 +14,4 @@ AI assistants lack an open-source, self-hosted, privacy-first voice interaction 
 - Browser-based (no app installation required, works on both desktop and mobile)
 - Continuous mode (hands-free conversation, automatically listens after each response)
 
-<!-- lastCommit: 28866f2 -->
+<!-- lastCommit: 28866f20f6f20a8a8b5e14a257874a96ac2d9886 -->

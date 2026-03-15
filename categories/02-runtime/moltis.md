@@ -15,4 +15,4 @@ Moltis addresses the security and auditability issues of OpenClaw. Traditional O
 - **Full-featured Built-in**: Voice (15+ providers), memory, scheduling, Telegram/Discord/WhatsApp, browser automation, MCP server, Hooks (15 event types)
 - **Security by Design**: Secrets wrapped with `secrecy::Secret` (zeroed on drop), tool output sanitization, SSRF protection, Origin verification, Hook interception
 
-<!-- lastCommit: 9f732b6 -->
+<!-- lastCommit: 55d5543c9a73a21348f453980cd3f0aab308ca35 -->

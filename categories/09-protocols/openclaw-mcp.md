@@ -1,6 +1,6 @@
 > https://github.com/freema/openclaw-mcp
 
-# openclaw-mcp (60 stars)
+# openclaw-mcp (67 stars)
 
 ## Problem & Solution
 
@@ -15,4 +15,4 @@ Claude.ai users cannot directly communicate with self-hosted OpenClaw instances,
 - **Precise CORS Control** — Restricts cross-origin request origins via `CORS_ORIGINS=https://claude.ai` to prevent CSRF attacks
 - **Configurable Timeout** — `OPENCLAW_TIMEOUT_MS` parameter supports long-running tasks (default 300 seconds), accommodating time-consuming operations like Claude Code
 
-<!-- lastCommit: c400a25 -->
+<!-- lastCommit: 576ad0734cc0d5feb83b008983346b500f7f0afe -->

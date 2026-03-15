@@ -1,6 +1,6 @@
 > https://github.com/sunnoy/wecom-plugin
 
-# openclaw-plugin-wecom (434 stars)
+# openclaw-plugin-wecom (N/A stars)
 
 ## Problem & Solution
 

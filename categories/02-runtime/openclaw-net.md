@@ -1,6 +1,6 @@
 > https://github.com/clawdotnet/openclaw.net
 
-# OpenClaw.NET (84 stars)
+# OpenClaw.NET (131 stars)
 
 ## Problem & Solution
 OpenClaw is natively based on Node.js/TypeScript and lacks native support in the .NET ecosystem. OpenClaw.NET provides a complete .NET implementation (with NativeAOT support), including Gateway + Agent Runtime, supporting C# native tools and Node.js plugin bridging.
@@ -13,4 +13,4 @@ OpenClaw is natively based on Node.js/TypeScript and lacks native support in the
 - **18+ Native Tools** — File operations, shell execution, web search, and more implemented natively in C#, with better performance than Node.js bridging
 - **Hardened Security Configuration** — Provides dev/staging/prod three-tier security configuration templates, supports `--doctor` mode for configuration validation
 
-<!-- lastCommit: 36e486c -->
+<!-- lastCommit: 121f3ce4a4f7c729c4de6201180d03844615653c -->

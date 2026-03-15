@@ -374,4 +374,4 @@ sudo iptables -L DOCKER-USER -n
 - **Troubleshooting**: `docs/troubleshooting.md`
 - **Agent guide**: `AGENTS.md`
 
-<!-- lastCommit: fd935a8 -->
+<!-- lastCommit: fd935a8b5a0e8fd42b19a550531c0dbd82001653 -->

@@ -1,6 +1,6 @@
 > https://github.com/jzOcb/memory-management
 
-# openclaw-memory-management (29 stars)
+# openclaw-memory-management (N/A stars)
 
 ## Problem & Solution
 

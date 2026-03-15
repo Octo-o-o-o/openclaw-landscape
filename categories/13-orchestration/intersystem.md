@@ -1,6 +1,6 @@
 > https://github.com/Mayuqi-crypto/InterSystem
 
-# OpenclawInterSystem (50 stars)
+# OpenclawInterSystem (N/A stars)
 
 ## Problem & Solution
 Multiple OpenClaw instances (cloud servers, local workstations) are isolated by default and cannot collaborate or share resources. OIS provides a lightweight framework enabling direct Agent-to-Agent communication, shared storage, and team management via the Gateway API.

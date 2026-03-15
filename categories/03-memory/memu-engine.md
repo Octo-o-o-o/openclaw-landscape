@@ -1,6 +1,6 @@
 > https://github.com/duxiaoxiong/memu-engine
 
-# memu-engine-for-OpenClaw (46 stars)
+# memu-engine-for-OpenClaw (N/A stars)
 
 ## Problem & Solution
 

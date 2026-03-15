@@ -15,4 +15,4 @@ MimiClaw addresses the hardware barrier for running AI Agents. Traditional OpenC
 - **Telegram Interaction**: Connects to Telegram Bot via WiFi, receives commands, invokes tools, and returns results
 - **Two-tier Configuration System**: Compile-time default configuration (`mimi_secrets.h`) + runtime CLI override (NVS Flash storage)
 
-<!-- lastCommit: 5ff0920 -->
+<!-- lastCommit: 5ff0920399584f8c29d8082298919410003a1ac4 -->

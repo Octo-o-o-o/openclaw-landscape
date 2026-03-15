@@ -1,6 +1,6 @@
 > https://github.com/madrzak/vidclaw
 
-# VidClaw (139 stars)
+# VidClaw (141 stars)
 
 ## Problem & Solution
 OpenClaw Agents running on remote servers lack observability -- users cannot understand Agent execution status and behavior in real time. VidClaw transforms each Agent run into an observable, auditable, and shareable video recording through live screen recording and playback capabilities.
@@ -13,4 +13,4 @@ OpenClaw Agents running on remote servers lack observability -- users cannot und
 - **Workspace File Browser** — File browser with markdown preview, syntax highlighting, and download support
 - **Skill Manager** — View all bundled/workspace skills, enable/disable, and create custom skills
 
-<!-- lastCommit: 53ddd18 -->
+<!-- lastCommit: 53ddd18c9cb4ee432049b98b491ae289c7b0fbbc -->

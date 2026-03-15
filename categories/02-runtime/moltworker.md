@@ -261,4 +261,4 @@ GET /debug/version                # Container and OpenClaw version info
 - Running only 4 hours/day can reduce costs to ~$5-6/month (plus $5 plan fee)
 - Choose smaller instances (`lite`: 256 MiB/$0.50/month) or larger instances (`standard-4`: 12 GiB)
 
-<!-- lastCommit: aa5f75b -->
+<!-- lastCommit: aa5f75b23c9c5e9634bfbdd5a50067b58c519a67 -->

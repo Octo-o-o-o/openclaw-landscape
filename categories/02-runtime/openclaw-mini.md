@@ -1,6 +1,6 @@
 > https://github.com/voocel/openclaw-mini
 
-# OpenClaw Mini (555 stars)
+# OpenClaw Mini (575 stars)
 
 ## Problem & Solution
 
@@ -16,4 +16,4 @@ OpenClaw Mini addresses the pain point of "high learning barrier for OpenClaw ar
 - **Multi-Provider Adaptation** — Based on pi-ai, supports Anthropic/OpenAI/Google/Groq and 22+ other providers
 - **Engineering Layer Safeguards** — Session Key (multi-agent session key normalization), Tool Policy (three-level access control), Command Queue (concurrent lane control), Tool Result Guard (auto-fills missing tool_result), Context Window Guard (context window overflow protection)
 
-<!-- lastCommit: 662d02c -->
+<!-- lastCommit: 662d02ca008fb16b597e0d3eb21b641a690c20ff -->

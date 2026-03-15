@@ -16,4 +16,4 @@ Tokscale addresses the pain point of "invisible token consumption" in the AI-ass
 - **Platform/Date Filtering** — `tokscale --platform openclaw --since 2025-01-01 --until 2025-03-11` for flexible filtering
 - **Cursor IDE Dedicated Support** — API sync cache (`~/.config/tokscale/cursor-cache/`), `tokscale cursor sync` command
 
-<!-- lastCommit: b1d8585 -->
+<!-- lastCommit: a680fc081cbb637e62211b1ea44740de4ec9bb69 -->

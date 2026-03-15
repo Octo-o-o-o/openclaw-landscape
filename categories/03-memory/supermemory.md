@@ -1,6 +1,6 @@
 > https://github.com/supermemoryai/openclaw-supermemory
 
-# OpenClaw Supermemory (579 stars)
+# OpenClaw Supermemory (592 stars)
 
 ## Problem & Solution
 
@@ -16,4 +16,4 @@ OpenClaw Supermemory addresses the "short-term memory limitation" pain point for
 - **CLI Management** -- `openclaw supermemory setup` to configure API Key, `status` to view configuration, `search <query>` to search memories, `profile` to view user profiles, `wipe` to delete all memories
 - **Flexible Configuration** -- Supports environment variables (`SUPERMEMORY_OPENCLAW_API_KEY`) or `~/.openclaw/openclaw.json` configuration, with adjustable recall count, profile injection frequency, capture mode, and more
 
-<!-- lastCommit: 1d64688 -->
+<!-- lastCommit: 1d64688140e2703c1b46aa7e53c0e440e26f5c2d -->
